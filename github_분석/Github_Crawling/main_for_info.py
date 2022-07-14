@@ -29,6 +29,7 @@ if __name__ == "__main__":
 
     start = time.time()
     result_df = main('NVIDIA')
+    result_df.to_csv('test_repo_info.csv',encoding = 'utf-8')
     end = time.time()
     print(result_df)
     print(end - start, " second")

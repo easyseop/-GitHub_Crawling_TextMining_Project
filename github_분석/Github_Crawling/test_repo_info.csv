@@ -1,0 +1,61 @@
+,title,descript,topic_keyword,fork,star
+0,NeMo,NeMo: a toolkit for conversational AI,"['nlp', 'text-to-speech', 'deep-learning', 'neural-network', 'machine-translation', 'tts', 'speech-synthesis']",1082,4437
+1,spark-rapids,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,"['big-data', 'gpu', 'rapids', 'spark']",148,436
+2,spark-rapids-benchmarks,Spark RAPIDS Benchmarks – benchmark sets and utilities for the RAPIDS Accelerator for Apache Spark,[],5,12
+3,spark-rapids-jni,RAPIDS Accelerator JNI For Apache Spark,[],21,12
+4,spark-rapids-examples,"A repo for all spark examples using Rapids Accelerator including ETL, ML/DL, etc.",[],25,33
+5,apex,A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch,[],1030,6483
+6,MatX,An efficient C++17 GPU numerical computing library with Python-like syntax,"['hpc', 'gpu', 'cuda', 'gpgpu', 'gpu-computing']",35,514
+7,aistore,AIStore: scalable storage for AI applications,"['deep-learning', 'etl', 'high-performance', 'hyper-converged', 'object-storage', 'commodity-hardware', 'petascale']",67,629
+8,NVFlare,NVIDIA Federated Learning Application Runtime Environment,['python'],49,210
+9,DALI,A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.,"['python', 'machine-learning', 'deep-learning', 'neural-network', 'mxnet', 'gpu', 'image-processing']",514,3933
+10,open-gpu-doc,Documentation of NVIDIA chip/hardware interfaces,[],74,1003
+11,cuCollections,[BLANK],[],41,152
+12,go-nvml,Go Bindings for the NVIDIA Management Library (NVML),[],24,88
+13,DALI_extra,Test data for DALI project,[],25,25
+14,cloud-native-core,Run cloud native workloads on NVIDIA GPUs,[],27,52
+15,nvidia-container-toolkit,Build and run containers leveraging NVIDIA GPUs,[],33,95
+16,k8s-device-plugin,NVIDIA device plugin for Kubernetes,['kubernetes'],458,1453
+17,open-gpu-kernel-modules,NVIDIA Linux open GPU kernel module source,[],837,12255
+18,mig-parted,MIG Partition Editor for NVIDIA GPUs,[],15,56
+19,Megatron-LM,Ongoing research training transformer models at scale,[],622,3072
+20,VisRTX,NVIDIA RTX based implementation of ANARI,[],17,170
+21,thrust,The C++ parallel algorithms library.,"['cxx', 'algorithms', 'cpp', 'gpu', 'cpp14', 'cpp11', 'nvidia']",683,4018
+22,trt-samples-for-hackathon-cn,Simple samples for TensorRT programming,[],143,431
+23,CleanUNet,Official PyTorch Implementation of CleanUNet (ICASSP 2022),"['speech-denoising', 'speech-enchacement']",9,80
+24,warp,A Python framework for high performance GPU simulation and graphics,[],41,612
+25,cutlass,CUDA Templates for Linear Algebra Subroutines,"['deep-learning', 'cpp', 'cpp11', 'nvidia', 'deep-learning-library', 'gpu', 'cuda']",360,1931
+26,MinkowskiEngine,Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors,"['computer-vision', 'deep-learning', 'cuda', 'high-dimensional-data', 'pytorch', 'convolutional-neural-networks', 'auto-differentiation']",240,1653
+27,cudnn-frontend,cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it,[],23,104
+28,DeepLearningExamples,Deep Learning Examples,[],2402,8684
+29,AMGX,Distributed multigrid linear solver library on GPU,[],107,289
+30,gpu-operator,NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes,"['kubernetes', 'gpu', 'cuda', 'nvidia']",130,576
+31,DALI_deps,3rd party dependencies for DALI project,[],14,6
+32,VideoProcessingFramework,"Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions",[],153,830
+33,radtts,"Provides training, inference and voice conversion recipes for RADTTS and RADTTS++: Flow-based TTS models with Robust Alignment Learning, Diverse Synthesis, and Generative Modeling and Fine-Grained Control over of Low Dimensional (F0 and Energy) Speech Attributes.",[],5,132
+34,NVTX,"The NVIDIA® Tools Extension SDK (NVTX) is a C-based Application Programming Interface (API) for annotating events, code ranges, and resources in your applications.",[],13,61
+35,cub,Cooperative primitives for CUDA C++.,"['cxx', 'algorithms', 'cpp', 'gpu', 'cpp14', 'cpp11', 'nvidia']",384,1219
+36,ais-k8s,"Kubernetes Operator, helm charts, and production scripts for large-scale AIStore deployments on Kubernetes.",[],3,28
+37,cuda-repo-management,Scripts for managing Debian and RPM package repositories,"['yum-packaging', 'apt-packaging', 'zypper-packaging']",1,2
+38,cuda-samples,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,"['cuda', 'cuda-kernels', 'cuda-driver-api', 'cuda-opengl']",835,2310
+39,cheminformatics,"Facilitates searching, screening, and organizing large chemical databases",[],28,103
+40,deepops,Tools for building GPU clusters,[],251,801
+41,egl-wayland,The EGLStream-based Wayland external platform,[],29,188
+42,nvidia-settings,NVIDIA driver control panel,[],77,219
+43,FasterTransformer,"Transformer related optimization, including BERT, GPT","['transformer', 'bert', 'pytorch', 'gpt']",183,1059
+44,libcudacxx,The C++ Standard Library for your entire system.,"['cxx', 'cpp', 'gpu', 'llvm', 'cpp14', 'cuda', 'cpp11']",158,2004
+45,nccl,Optimized primitives for collective multi-GPU communication,[],511,1793
+46,pyxis,Container plugin for Slurm Workload Manager,[],13,112
+47,edk2,NVIDIA fork of tianocore/edk2,[],1,2
+48,edk2-platforms,NVIDIA fork of tianocore/edk2-platforms,[],0,1
+49,edk2-edkrepo-manifest,NVIDIA fork of tianocore/edk2-edkrepo-manifest,[],0,1
+50,edk2-nvidia,NVIDIA EDK2 platform support,[],2,4
+51,libglvnd,The GL Vendor-Neutral Dispatch library,[],83,405
+52,DLSS,"NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games",[],36,181
+53,swift,OpenStack Storage (Swift). Mirror of code maintained at opendev.org.,[],1055,4
+54,spark-rapids-ml,Spark RAPIDS MLlib – accelerate Apache Spark MLlib with GPUs,[],6,7
+55,nvcomp,A library for fast lossless compression/decompression on the GPU,[],51,300
+56,runx,Deep Learning Experiment Management,[],37,606
+57,hpc-container-maker,HPC Container Maker,"['docker', 'containers', 'hpc', 'singularity']",73,358
+58,cuda-python,CUDA Python Low-level Bindings,[],32,473
+59,enroot,A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.,[],63,367
