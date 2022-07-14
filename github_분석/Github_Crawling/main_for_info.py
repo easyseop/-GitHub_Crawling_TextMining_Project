@@ -30,5 +30,5 @@ if __name__ == "__main__":
     start = time.time()
     result_df = main('NVIDIA')
     end = time.time()
-    print(result_df.shape)
+    print(result_df)
     print(end - start, " second")
