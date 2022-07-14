@@ -1,50 +1,50 @@
 ,title,descript,topic_keyword,fork,star
-0,NeMo,NeMo: a toolkit for conversational AI,"['nlp', 'text-to-speech', 'deep-learning', 'neural-network', 'machine-translation', 'tts', 'speech-synthesis']",1082,4437
-1,spark-rapids,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,"['big-data', 'gpu', 'rapids', 'spark']",148,436
-2,spark-rapids-benchmarks,Spark RAPIDS Benchmarks – benchmark sets and utilities for the RAPIDS Accelerator for Apache Spark,[],5,12
-3,spark-rapids-jni,RAPIDS Accelerator JNI For Apache Spark,[],21,12
-4,spark-rapids-examples,"A repo for all spark examples using Rapids Accelerator including ETL, ML/DL, etc.",[],25,33
-5,apex,A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch,[],1030,6483
-6,MatX,An efficient C++17 GPU numerical computing library with Python-like syntax,"['hpc', 'gpu', 'cuda', 'gpgpu', 'gpu-computing']",35,514
-7,aistore,AIStore: scalable storage for AI applications,"['deep-learning', 'etl', 'high-performance', 'hyper-converged', 'object-storage', 'commodity-hardware', 'petascale']",67,629
-8,NVFlare,NVIDIA Federated Learning Application Runtime Environment,['python'],49,210
-9,DALI,A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.,"['python', 'machine-learning', 'deep-learning', 'neural-network', 'mxnet', 'gpu', 'image-processing']",514,3933
-10,open-gpu-doc,Documentation of NVIDIA chip/hardware interfaces,[],74,1003
-11,cuCollections,[BLANK],[],41,152
-12,go-nvml,Go Bindings for the NVIDIA Management Library (NVML),[],24,88
-13,DALI_extra,Test data for DALI project,[],25,25
-14,cloud-native-core,Run cloud native workloads on NVIDIA GPUs,[],27,52
-15,nvidia-container-toolkit,Build and run containers leveraging NVIDIA GPUs,[],33,95
-16,k8s-device-plugin,NVIDIA device plugin for Kubernetes,['kubernetes'],458,1453
-17,open-gpu-kernel-modules,NVIDIA Linux open GPU kernel module source,[],837,12255
-18,mig-parted,MIG Partition Editor for NVIDIA GPUs,[],15,56
-19,Megatron-LM,Ongoing research training transformer models at scale,[],622,3072
-20,VisRTX,NVIDIA RTX based implementation of ANARI,[],17,170
-21,thrust,The C++ parallel algorithms library.,"['cxx', 'algorithms', 'cpp', 'gpu', 'cpp14', 'cpp11', 'nvidia']",683,4018
-22,trt-samples-for-hackathon-cn,Simple samples for TensorRT programming,[],143,431
-23,CleanUNet,Official PyTorch Implementation of CleanUNet (ICASSP 2022),"['speech-denoising', 'speech-enchacement']",9,80
-24,warp,A Python framework for high performance GPU simulation and graphics,[],41,612
-25,cutlass,CUDA Templates for Linear Algebra Subroutines,"['deep-learning', 'cpp', 'cpp11', 'nvidia', 'deep-learning-library', 'gpu', 'cuda']",360,1931
-26,MinkowskiEngine,Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors,"['computer-vision', 'deep-learning', 'cuda', 'high-dimensional-data', 'pytorch', 'convolutional-neural-networks', 'auto-differentiation']",240,1653
-27,cudnn-frontend,cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it,[],23,104
-28,DeepLearningExamples,Deep Learning Examples,[],2402,8684
-29,AMGX,Distributed multigrid linear solver library on GPU,[],107,289
-30,gpu-operator,NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes,"['kubernetes', 'gpu', 'cuda', 'nvidia']",130,576
-31,DALI_deps,3rd party dependencies for DALI project,[],14,6
-32,VideoProcessingFramework,"Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions",[],153,830
-33,radtts,"Provides training, inference and voice conversion recipes for RADTTS and RADTTS++: Flow-based TTS models with Robust Alignment Learning, Diverse Synthesis, and Generative Modeling and Fine-Grained Control over of Low Dimensional (F0 and Energy) Speech Attributes.",[],5,132
-34,NVTX,"The NVIDIA® Tools Extension SDK (NVTX) is a C-based Application Programming Interface (API) for annotating events, code ranges, and resources in your applications.",[],13,61
-35,cub,Cooperative primitives for CUDA C++.,"['cxx', 'algorithms', 'cpp', 'gpu', 'cpp14', 'cpp11', 'nvidia']",384,1219
-36,ais-k8s,"Kubernetes Operator, helm charts, and production scripts for large-scale AIStore deployments on Kubernetes.",[],3,28
-37,cuda-repo-management,Scripts for managing Debian and RPM package repositories,"['yum-packaging', 'apt-packaging', 'zypper-packaging']",1,2
-38,cuda-samples,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,"['cuda', 'cuda-kernels', 'cuda-driver-api', 'cuda-opengl']",835,2310
-39,cheminformatics,"Facilitates searching, screening, and organizing large chemical databases",[],28,103
-40,deepops,Tools for building GPU clusters,[],251,801
-41,egl-wayland,The EGLStream-based Wayland external platform,[],29,188
-42,nvidia-settings,NVIDIA driver control panel,[],77,219
-43,FasterTransformer,"Transformer related optimization, including BERT, GPT","['transformer', 'bert', 'pytorch', 'gpt']",183,1059
-44,libcudacxx,The C++ Standard Library for your entire system.,"['cxx', 'cpp', 'gpu', 'llvm', 'cpp14', 'cuda', 'cpp11']",158,2004
-45,nccl,Optimized primitives for collective multi-GPU communication,[],511,1793
+0,spark-rapids-benchmarks,Spark RAPIDS Benchmarks – benchmark sets and utilities for the RAPIDS Accelerator for Apache Spark,[],5,12
+1,DALI,A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.,"['python', 'machine-learning', 'deep-learning', 'neural-network', 'mxnet', 'gpu', 'image-processing']",514,3933
+2,NeMo,NeMo: a toolkit for conversational AI,"['nlp', 'text-to-speech', 'deep-learning', 'neural-network', 'machine-translation', 'tts', 'speech-synthesis']",1082,4438
+3,nvidia-container-toolkit,Build and run containers leveraging NVIDIA GPUs,[],33,95
+4,DALI_extra,Test data for DALI project,[],25,25
+5,nccl,Optimized primitives for collective multi-GPU communication,[],511,1793
+6,open-gpu-kernel-modules,NVIDIA Linux open GPU kernel module source,[],837,12257
+7,spark-rapids,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,"['big-data', 'gpu', 'rapids', 'spark']",148,436
+8,spark-rapids-jni,RAPIDS Accelerator JNI For Apache Spark,[],21,12
+9,spark-rapids-examples,"A repo for all spark examples using Rapids Accelerator including ETL, ML/DL, etc.",[],25,33
+10,apex,A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch,[],1030,6484
+11,MatX,An efficient C++17 GPU numerical computing library with Python-like syntax,"['hpc', 'gpu', 'cuda', 'gpgpu', 'gpu-computing']",35,514
+12,aistore,AIStore: scalable storage for AI applications,"['deep-learning', 'etl', 'high-performance', 'hyper-converged', 'object-storage', 'commodity-hardware', 'petascale']",67,629
+13,NVFlare,NVIDIA Federated Learning Application Runtime Environment,['python'],49,210
+14,open-gpu-doc,Documentation of NVIDIA chip/hardware interfaces,[],74,1003
+15,cuCollections,[BLANK],[],41,152
+16,go-nvml,Go Bindings for the NVIDIA Management Library (NVML),[],24,89
+17,cloud-native-core,Run cloud native workloads on NVIDIA GPUs,[],27,52
+18,k8s-device-plugin,NVIDIA device plugin for Kubernetes,['kubernetes'],458,1453
+19,mig-parted,MIG Partition Editor for NVIDIA GPUs,[],15,56
+20,Megatron-LM,Ongoing research training transformer models at scale,[],622,3074
+21,VisRTX,NVIDIA RTX based implementation of ANARI,[],17,170
+22,thrust,The C++ parallel algorithms library.,"['cxx', 'algorithms', 'cpp', 'gpu', 'cpp14', 'cpp11', 'nvidia']",684,4018
+23,trt-samples-for-hackathon-cn,Simple samples for TensorRT programming,[],143,431
+24,CleanUNet,Official PyTorch Implementation of CleanUNet (ICASSP 2022),"['speech-denoising', 'speech-enchacement']",9,81
+25,warp,A Python framework for high performance GPU simulation and graphics,[],41,612
+26,cutlass,CUDA Templates for Linear Algebra Subroutines,"['deep-learning', 'cpp', 'cpp11', 'nvidia', 'deep-learning-library', 'gpu', 'cuda']",360,1933
+27,MinkowskiEngine,Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors,"['computer-vision', 'deep-learning', 'cuda', 'high-dimensional-data', 'pytorch', 'convolutional-neural-networks', 'auto-differentiation']",240,1655
+28,cudnn-frontend,cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it,[],23,104
+29,DeepLearningExamples,Deep Learning Examples,[],2402,8687
+30,AMGX,Distributed multigrid linear solver library on GPU,[],107,289
+31,gpu-operator,NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes,"['kubernetes', 'gpu', 'cuda', 'nvidia']",130,577
+32,DALI_deps,3rd party dependencies for DALI project,[],14,6
+33,VideoProcessingFramework,"Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions",[],153,830
+34,radtts,"Provides training, inference and voice conversion recipes for RADTTS and RADTTS++: Flow-based TTS models with Robust Alignment Learning, Diverse Synthesis, and Generative Modeling and Fine-Grained Control over of Low Dimensional (F0 and Energy) Speech Attributes.",[],5,132
+35,NVTX,"The NVIDIA® Tools Extension SDK (NVTX) is a C-based Application Programming Interface (API) for annotating events, code ranges, and resources in your applications.",[],13,61
+36,cub,Cooperative primitives for CUDA C++.,"['cxx', 'algorithms', 'cpp', 'gpu', 'cpp14', 'cpp11', 'nvidia']",384,1219
+37,ais-k8s,"Kubernetes Operator, helm charts, and production scripts for large-scale AIStore deployments on Kubernetes.",[],3,28
+38,cuda-repo-management,Scripts for managing Debian and RPM package repositories,"['yum-packaging', 'apt-packaging', 'zypper-packaging']",1,2
+39,cuda-samples,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,"['cuda', 'cuda-kernels', 'cuda-driver-api', 'cuda-opengl']",835,2310
+40,cheminformatics,"Facilitates searching, screening, and organizing large chemical databases",[],28,103
+41,deepops,Tools for building GPU clusters,[],251,801
+42,egl-wayland,The EGLStream-based Wayland external platform,[],29,188
+43,nvidia-settings,NVIDIA driver control panel,[],77,219
+44,FasterTransformer,"Transformer related optimization, including BERT, GPT","['transformer', 'bert', 'pytorch', 'gpt']",184,1061
+45,libcudacxx,The C++ Standard Library for your entire system.,"['cxx', 'cpp', 'gpu', 'llvm', 'cpp14', 'cuda', 'cpp11']",158,2004
 46,pyxis,Container plugin for Slurm Workload Manager,[],13,112
 47,edk2,NVIDIA fork of tianocore/edk2,[],1,2
 48,edk2-platforms,NVIDIA fork of tianocore/edk2-platforms,[],0,1
@@ -59,3 +59,243 @@
 57,hpc-container-maker,HPC Container Maker,"['docker', 'containers', 'hpc', 'singularity']",73,358
 58,cuda-python,CUDA Python Low-level Bindings,[],32,473
 59,enroot,A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.,[],63,367
+60,container-canary,A tool for testing and validating container requirements against versioned manifests,"['automation', 'utilities', 'ci', 'versioning', 'podman', 'docker', 'kubernetes']",3,119
+61,grcuda,Polyglot CUDA integration for the GraalVM,[],15,199
+62,dcgm-exporter,NVIDIA GPU metrics exporter for Prometheus leveraging DCGM,[],42,152
+63,vgpu-device-manager,NVIDIA vGPU Device Manager manages NVIDIA vGPU devices on top of Kubernetes,[],1,14
+64,jetson-gpio,A Python library that enables the use of Jetson's GPIOs,[],195,597
+65,nvidia-xconfig,NVIDIA xorg.conf configurator,[],10,32
+66,nvidia-persistenced,NVIDIA driver persistence daemon,[],11,41
+67,nvidia-modprobe,Load the NVIDIA kernel module and create NVIDIA character device files,[],12,56
+68,nvidia-installer,NVIDIA driver installer,[],23,97
+69,nvindex-cloud,NVIDIA IndeX cloud utilities,[],2,6
+70,zypper-packaging-nvidia-driver,NVIDIA driver packaging for SUSE,"['nvidia-driver-packages', 'zypper-packaging', 'nvidia-gfxg05', 'nvidia-gfxg04']",1,2
+71,yum-packaging-precompiled-kmod,NVIDIA precompiled kernel module packaging for RHEL,"['precompiled-kernel-modules', 'yum-packaging', 'nvidia-driver-packages']",9,20
+72,yum-packaging-nvidia-xconfig,NVIDIA xconfig packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'nvidia-xconfig']",1,2
+73,yum-packaging-nvidia-settings,NVIDIA settings packaging for RHEL,"['nvidia-settings', 'nvidia-driver-packages', 'yum-packaging']",1,2
+74,yum-packaging-nvidia-persistenced,NVIDIA persistenced packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'nvidia-persistenced']",1,2
+75,yum-packaging-nvidia-modprobe,NVIDIA modprobe packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'nvidia-modprobe']",1,2
+76,yum-packaging-nvidia-kmod-common,NVIDIA kernel module common files packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'nvidia-kmod-common']",2,2
+77,yum-packaging-nvidia-driver,NVIDIA driver packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'nvidia-graphics-drivers']",3,3
+78,yum-packaging-dkms-nvidia,DKMS packaging source for NVIDIA kernel modules on RHEL,"['nvidia-driver-packages', 'yum-packaging', 'dkms-kernel-modules']",1,3
+79,go-dcgm,Golang bindings for Nvidia Datacenter GPU Manager (DCGM),[],7,29
+80,jitify,A single-header C++ library for simplifying the use of CUDA Runtime Compilation (NVRTC).,"['cuda', 'runtime-compilation', 'single-header', 'jit-compilation', 'cpp', 'nvrtc']",54,392
+81,TensorRT,TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.,"['deep-learning', 'nvidia', 'tensorrt']",1423,5617
+82,cuDecomp,An Adaptive Pencil Decomposition Library for NVIDIA GPUs,[],1,32
+83,clara-dicom-adapter,"DICOM Adapter is a component of the Clara Deploy SDK which facilitates integration with DICOM compliant systems, enables ingestion of imaging data, helps triggering of jobs with configurable rules and offers pushing the output of jobs to PACS systems.","['ai', 'csharp', 'dicom', 'nvidia', 'medical', 'healthcare', 'medical-imaging']",11,31
+84,DL4AGX,Deep Learning tools and applications for NVIDIA AGX platforms.,"['embedded', 'computer-vision', 'deep-learning', 'cuda', 'autonomous-driving', 'drive-agx']",22,83
+85,GPUStressTest,GPU Stress Test is a tool to stress the compute engine of NVIDIA Tesla GPU’s by running a BLAS matrix multiply using different data types. It can be compiled and run on both Linux and Windows.,[],5,26
+86,DCGM,NVIDIA Data Center GPU Manager (DCGM) is a project for gathering telemetry and measuring the health of NVIDIA GPUs,[],22,105
+87,kubevirt-gpu-device-plugin,NVIDIA k8s device plugin for Kubevirt,[],32,110
+88,energy-sdk-l2rpn,[BLANK],[],0,7
+89,Bobber,Containerized testing of system components that impact AI workload performance,[],2,10
+90,Imageinary,"Imageinary is a reproducible mechanism which is used to generate large image datasets at various resolutions. The tool supports multiple image types, including JPEGs, PNGs, BMPs, RecordIO, and TFRecord files",[],9,22
+91,flowtron,Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer,['speech-synthesis'],153,747
+92,waveglow,A Flow-based Generative Network for Speech Synthesis,[],483,1980
+93,tacotron2,Tacotron 2 - PyTorch implementation with faster-than-realtime inference,[],1118,3671
+94,vagrant-swift-all-in-one,Vagrant Swift All In One,[],59,76
+95,sparkucx,"A high-performance, scalable and efficient ShuffleManager plugin for Apache Spark, utilizing UCX communication layer",[],18,4
+96,nvidia-docker,Build and run Docker containers leveraging NVIDIA GPUs,"['docker', 'gpu', 'cuda', 'nvidia-docker']",1922,14855
+97,libnvidia-container,NVIDIA container runtime library,[],131,433
+98,nvbench,CUDA Kernel Benchmarking Library,"['cuda-kernels', 'kernel-benchmark', 'benchmark', 'performance', 'gpu', 'cuda', 'nvidia']",34,180
+99,clara-holoscan-embedded-sdk,AI computing SDK for medical devices with low latency streaming workflows,[],1,15
+100,CUDALibrarySamples,CUDA Library Samples,[],140,440
+101,MDL-SDK,NVIDIA Material Definition Language SDK,[],62,340
+102,nsight-aftermath-samples,Samples for the Nsight Aftermath SDK.,[],8,26
+103,nvidia-container-runtime,NVIDIA container runtime,[],160,888
+104,mpi-acx,MPI accelerator-integrated communication extensions,[],1,14
+105,clara-holoscan,The AI computing platform for medical devices,[],0,11
+106,gpu-feature-discovery,GPU plugin to the node feature discovery for Kubernetes,[],32,127
+107,MagnumIO,Magnum IO community repo,[],6,17
+108,energy-sdk,GPU Accelerated Building Blocks integrating HPC+AI for Energy Customers,[],13,17
+109,gds-nvidia-fs,NVIDIA GPUDirect Storage Driver,[],10,50
+110,ansible-role-nvidia-driver,[BLANK],[],41,61
+111,edk2-nvidia-non-osi,NVIDIA EDK2 non-OSI licensed content,[],0,1
+112,Q2RTX,NVIDIA’s implementation of RTX ray-tracing in Quake II,[],141,994
+113,ngc-container-replicator,NGC Container Replicator,"['deep-learning', 'containers', 'nvidia-docker', 'nvidia-gpus']",10,22
+114,cuQuantum,Home for cuQuantum Python & NVIDIA cuQuantum SDK C++ samples,"['quantum-computing', 'cuquantum', 'custatevec', 'cutensornet', 'cuda', 'nvidia']",22,93
+115,BigVGAN,Official implementation of BigVGAN in PyTorch,[],2,191
+116,DIGITS,Deep Learning GPU Training System,"['machine-learning', 'caffe', 'deep-learning', 'gpu', 'torch']",1413,4064
+117,GPUPowerTest,A utility for stressing GPUs by driving utilization (and thus power consumption) up and down in user-defined cycle intervals. It will also randomly drop power consumption down to idle and spike it back up,[],2,12
+118,nsight-vscode-edition,A Visual Studio Code extension for building and debugging CUDA applications.,[],1,21
+119,gitlab-answer-app,Simple GitHub App that notifies users of the correct way to contribute,[],2,4
+120,ai-assisted-annotation-client,Client side integration example source code and libraries for AI-Assisted Annotation SDK,[],59,270
+121,clara-train-examples,Example notebooks demonstrating how to use Clara Train to build Medical Imaging Deep Learning models,"['deep-learning', 'python3', 'tcia-dac', 'healthcare-imaging', 'medical-imaging-computing', 'medical-imaging-processing', 'pytorch']",63,80
+122,tensorflow,An Open Source Machine Learning Framework for Everyone,[],73,513
+123,nvbandwidth,A tool for bandwidth measurements on NVIDIA GPUs.,[],6,25
+124,nccl-tests,NCCL Tests,[],110,271
+125,mellotron,Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data,[],173,708
+126,nvscic2c,A low-level transport Linux kernel module for bulk low-latency data transfers between two SoCs over PCIe NTB,[],3,7
+127,FFmpeg-GPU-Demo,A FFmpeg based demo showing GPU's all-round capability in video processing,[],3,47
+128,nephele-packages,OS packages for the Nephele project,[],2,2
+129,pix2pixHD,Synthesizing and manipulating 2048x1024 images with conditional GANs,"['deep-neural-networks', 'computer-vision', 'deep-learning', 'computer-graphics', 'pytorch', 'generative-adversarial-network', 'gan']",1281,5829
+130,cccl,C++ Core Compute Libraries Documentation and Scripts,[],5,7
+131,vid2vid,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.,[],1163,8016
+132,CloudXR,CloudXR sample applications for streaming AR/VR/MR content from the cloud,[],10,39
+133,ais-etl,"Provides for deploying custom ETL containers on AIStore, with subsequent user-defined extraction-transformation-loading in parallel, on the fly and/or offline, locally to user data.",[],4,8
+134,compute-sanitizer-samples,Samples demonstrating how to use the Compute Sanitizer Tools and Public API,[],9,18
+135,data-science-blueprints,Systems that show how to accelerate modern machine learning and data processing,[],6,1
+136,clara-ia,CUDA accelerated medical imaging algorithms,[],1,10
+137,proxyfs,[BLANK],[],23,61
+138,clara-holoscan-perf-tools,Clara Holoscan performance tools,[],0,3
+139,jetson-rdma-picoevb,Minimal HW-based demo of GPUDirect RDMA on NVIDIA Jetson AGX Xavier running L4T,[],33,97
+140,framework-determinism,Providing determinism in deep learning frameworks,"['tensorflow', 'determinism', 'deep-learning', 'pytorch', 'ngc', 'gpu-support', 'gpu-determinism']",29,362
+141,multi-gpu-programming-models,Examples demonstrating available options to program multiple GPUs in a single node or a cluster,[],76,295
+142,ansible-collection-dpu-ops,NVIDIA DPU OPs collection,[],1,6
+143,yum-packaging-nvidia-plugin,NVIDIA yum and dnf plugins for RHEL driver packages,"['yum-packaging', 'nvidia-driver-packages', 'precompiled-kernel-modules']",3,7
+144,flownet2-pytorch,Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks,[],678,2708
+145,OptiX_Apps,Advanced Samples for the NVIDIA OptiX 7 Ray Tracing SDK,[],24,135
+146,spark-xgboost,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",[],8418,17
+147,transformer-ls,Official PyTorch Implementation of Long-Short Transformer (NeurIPS 2021).,[],26,182
+148,l2fwd-nv,l2fwd-nv provides an example of how to leverage your DPDK network application with the NVIDIA GPUDirect RDMA techonology.,[],11,35
+149,gdrcopy,A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology,"['linux', 'libraries', 'nvidia', 'gpu-memory', 'kernel-mode-driver', 'gpudirect-rdma']",111,517
+150,nvtx-plugins,Python bindings for NVTX,[],13,62
+151,go-gpuallocator,Go Abstraction for Allocating NVIDIA GPUs with Custom Policies,[],16,45
+152,fsi-samples,"A collection of open-source GPU accelerated Python tools and examples for quantitative analyst tasks and leverages RAPIDS AI project, Numba, cuDF, and Dask.",[],89,220
+153,MAXINE-AFX-SDK,NVIDIA Audio Effects SDK is used to apply effects to audio stream. It provides audio denoising for broadcast use cases with real-time audio processing.,[],15,74
+154,nvaitc-toolkit,Open source code base to showcase interoperability of CUDA-X AI software stack in multi-GPU environments and thus provide researchers a reference framework to build new projects on.,[],4,7
+155,dllogger,A logging tool for deep learning.,[],10,32
+156,clara-viz,NVIDIA Clara Viz is a platform for visualization of 2D/3D medical imaging data,[],9,34
+157,cocoapi,COCO API - Dataset @ http://cocodataset.org/,[],3493,49
+158,gbm-bench,A benchmark to measure performance of popular Gradient boosting algorithms against popular ML datasets.,[],20,31
+159,ansible-role-nvidia-docker,[BLANK],[],17,26
+160,nvidia-gcp-samples,NVIDIA GPU Accelerated Application Samples in Google Cloud Platform,[],6,15
+161,speechsquad,Conversational AI Benchmark.,[],10,58
+162,5t5g,This project shows how to leverage your DPDK network application with Mellanox 5T5G features like Accurate Send Scheduling and eCPRI flow steering rules,[],6,13
+163,rtx_compute_samples,RTX compute samples,[],10,50
+164,nephele,Tools to deploy GPU clusters in the Cloud,[],5,10
+165,dgx-selinux,DGX RHEL SELinux Policies,[],6,8
+166,O-RAN-Archive,Technical contributions submitted to O-RAN Alliance by NVIDIA,[],0,1
+167,nsight-training,Training material for Nsight developer tools,[],13,36
+168,blossom-action,Github action used for internal ci-cd pipeline,[],1,2
+169,fission,Go package enabling the implementation of a multi-threaded low-level FUSE file system.,[],2,4
+170,gvdb-voxels,Sparse volume compute and rendering on NVIDIA GPUs,[],134,582
+171,ansible-role-enroot,[BLANK],[],13,6
+172,nvbench_demo,Simple starter CMake project that uses NVBench.,[],0,4
+173,egl-gbm,The GBM EGL external platform library,[],0,6
+174,container-config,Set up your container runtime with NVIDIA GPUs support,[],5,8
+175,partialconv,A New Padding Scheme: Partial Convolution based Padding,[],194,1060
+176,ngc-container-environment-modules,Environment modules for NGC containers,"['singularity', 'lmod', 'ngc']",5,19
+177,GTC-2021-A31202-Code,[BLANK],[],0,7
+178,gpu-monitoring-tools,Tools for monitoring NVIDIA GPUs on Linux,[],292,910
+179,Eigensolver_gpu,GPU Eigensolver for symmetric/hermitian matrices.,[],15,48
+180,FastPhotoStyle,"Style transfer, deep learning, feature transform",[],1187,10830
+181,clara-platform-python-client,An intuitive Python 3 package to develop applications with NVIDIA Clara Deploy,[],4,12
+182,data-science-stack,NVIDIA Data Science stack tools,[],43,256
+183,retinanet-examples,Fast and accurate object detection with end-to-end GPU optimization,"['python', 'deep-learning', 'neural-network', 'object-detection', 'tensorrt', 'retinanet', 'pytorch']",264,819
+184,clara-pipeline-operator-sizing-tool,CPOST is a CLI tool to assist with the proper sizing of Clara Deploy pipelines,[],4,5
+185,ProViz-AI-Samples,AI-related samples made available by the DevTech ProViz team,[],2,4
+186,spark-xgboost-examples,XGBoost GPU accelerated on Spark example applications,[],23,51
+187,build-system-archive-import-examples,Examples for importing precompiled binary tarball and zip archives into various build and packaging systems,[],1,3
+188,MAXINE-AR-SDK,NVIDIA AR SDK - API headers and sample applications,[],29,149
+189,MAXINE-VFX-SDK,NVIDIA Video Effects SDK - API headers and sample applications,[],29,103
+190,sortedmap,[BLANK],[],2,6
+191,clara-platform-ansible-playbooks,Ansible playbooks to install Clara Deploy Platform,[],0,2
+192,tensorrt-laboratory,Explore the Capabilities of the TensorRT Platform,"['kubernetes', 'deep-learning', 'cuda', 'grpc', 'inference', 'tensorrt']",42,254
+193,caffe,Caffe: a fast open framework for deep learning.,[],19002,665
+194,cstruct,[BLANK],[],2,1
+195,semantic-segmentation,Nvidia Semantic Segmentation monorepo,[],367,1572
+196,yum-packaging-fabric-manager,Fabric Manager packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'fabricmanager']",1,6
+197,PyProf,A GPU performance profiling tool for PyTorch models,[],36,408
+198,NVIDIAOpticalFlowSDK,"Optical Flow SDK exposes the latest hardware capability of Turing GPUs dedicated to computing the relative motion of pixels between images. The hardware uses sophisticated algorithms to yield highly accurate flow vectors, with robust frame-to-frame intensity variations and tracks the true object motion faster and more accurately.",[],6,46
+199,apt-packaging-fabric-manager,Fabric Manager packaging for Debian,"['nvidia-driver-packages', 'apt-packaging', 'fabricmanager']",2,5
+200,fleet-command,"NVIDIA Fleet Command is a hybrid-cloud platform for securely and remotely deploying, managing, and scaling AI across dozens or up to thousands of servers or edge devices. For more info please refer to https://www.nvidia.com/en-us/data-center/products/fleet-command/",[],2,3
+201,mcmc-bnn-example,Reference CUDA implementation of training a small Bayesian neural network (BNN) using MCMC,[],0,7
+202,ipyparaview,iPython widget for server-side ParaView rendering in Jupyter.,[],24,77
+203,Dataset_Utilities,NVIDIA Dataset Utilities (NVDU),"['visualization', 'deep-learning', 'pose-estimation', 'synthetic-dataset-generation']",19,110
+204,DeepRecommender,Deep learning for recommender systems,"['deep-learning', 'gpu', 'recommendation-engine', 'collaborative-filtering', 'deep-autoencoders']",339,1618
+205,nebula-nsight,Supplemental Widgets for SWT (Nebula) project repository (nebula),[],70,1
+206,OpenSeq2Seq,"Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP","['text-to-speech', 'deep-learning', 'tensorflow', 'multi-node', 'speech-synthesis', 'speech-recognition', 'seq2seq']",361,1454
+207,rapidAligner,Windowed alignment of time series at the speed of light,[],2,15
+208,cuda-cpp-grammar,Grammar files for CUDA C++,[],0,2
+209,docker-swift,Docker image for Swift all-in-one demo deployment,"['swift', 'docker-image']",35,75
+210,ubuntu-packaging-nvidia-driver,NVIDIA driver packaging for Ubuntu,"['ubuntu-packaging', 'nvidia-driver-packages', 'apt-packaging', 'nvidia-graphics-drivers']",4,8
+211,apt-packaging-libnvidia-nscq,NSCQ packaging for Debian,"['nvidia-driver-packages', 'apt-packaging', 'libnvidia-nscq']",2,1
+212,yum-packaging-libnvidia-nscq,NSCQ packaging for RHEL,"['nvidia-driver-packages', 'yum-packaging', 'libnvidia-nscq']",1,1
+213,ubuntu-packaging-nvidia-settings,NVIDIA settings packaging for Ubuntu,"['nvidia-settings', 'ubuntu-packaging', 'nvidia-driver-packages', 'apt-packaging']",1,3
+214,ubuntu-packaging-nvidia-modprobe,NVIDIA modprobe packaging for Ubuntu,"['ubuntu-packaging', 'nvidia-driver-packages', 'apt-packaging', 'nvidia-modprobe']",1,2
+215,python-jetson,Python utilities for NVIDIA Jetson,[],8,11
+216,swiftstack-collectd-plugin,Python plugin for collectd,[],2,1
+217,object-detection-tensorrt-example,Running object detection on a webcam feed using TensorRT on NVIDIA GPUs in Python.,[],57,177
+218,healthcare-on-tap-TRT-TRITON-demo,Demonstration of the use of TensorRT and TRITON,[],2,10
+219,swiftstack-collectd,Mirror of the official repository.,[],1203,1
+220,proxyfs-vfs,[BLANK],[],4,1
+221,proxyfs-jrpc-client,[BLANK],[],3,1
+222,dw-ros,ROS cross-compilation with DriveWorks,[],6,17
+223,nv-wavenet,Reference implementation of real-time autoregressive wavenet inference,[],124,711
+224,doroce-linux,A command line utility to manage the configuration of a system's high performance network interfaces for RoCE deployments,[],1,5
+225,Dataset_Synthesizer,NVIDIA Deep learning Dataset Synthesizer (NDDS),"['computer-vision', 'deep-learning', 'object-detection', 'pose-estimation', 'synthetic-dataset-generation', 'domain-randomization']",107,504
+226,GraphQSat,Using GNN and DQN to find a baetter branching heuristic for a CDCL Solver,[],15,34
+227,three.js,JavaScript 3D library.,[],32317,10
+228,sampleQAT,Inference of quantization aware trained networks using TensorRT,[],15,58
+229,ising-gpu,GPU-accelerated Monte Carlo simulations of 2D Ising Model,[],13,25
+230,go-tfdata,"Go library that provides easy-to-use interfaces and tools for TensorFlow users, in particular allowing to train existing TF models on .tar and .tgz datasets","['golang', 'datapipeline', 'tfexample', 'tensorflow', 'tar', 'tfrecord']",1,11
+231,kmeans,kmeans clustering with multi-GPU capabilities,[],26,103
+232,sentiment-discovery,Unsupervised Language Modeling at scale for robust sentiment classification,[],205,1044
+233,PixelView,A compact and extensible image viewer,[],2,6
+234,NvPipe,NVIDIA-accelerated zero latency video compression library for interactive remoting applications,[],96,381
+235,ContrastiveLosses4VRD,"Implementation for the CVPR2019 paper ""Graphical Contrastive Losses for Scene Graph Generation""",[],43,179
+236,UnsupervisedLandmarkLearning,Implementation for the unsupervised latent landmark learning work from NVIDIA Applied Deep Learning Research,[],10,36
+237,unsupervised-video-interpolation,Unsupervised Video Interpolation using Cycle Consistency,[],14,96
+238,cuda-profiler,Tools and extensions for CUDA profiling,[],24,53
+239,vdisc,VDisc is a tool for creating and mounting virtual CD-ROM images backed by object storage,[],4,21
+240,cbootimage,Tegra BCT and bootable flash image generator/compiler,[],26,22
+241,video-sdk-samples,Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK,[],84,232
+242,tegra-pinmux-scripts,Scripts to auto-generate pin mux drivers and board configuration tables for Tegra SoCs and boards,[],15,26
+243,eglexternalplatform,The EGL External Platform interface,[],9,62
+244,NVSM,"NVIDIA System Management Framework. This repository provides plug-ins and utilities to enhance the experience of NVSM deployment on DGX, Drive Constellation, and RTX Servers.",[],2,5
+245,dlinput-tf,Optimized data input pipeline for deep learning frameworks,[],4,2
+246,Korgi,A tool to convert MIDI controller inputs into UDP packets,[],3,15
+247,url-polyfill,URL parser in JavaScript,[],78,1
+248,nvvl,A library that uses hardware acceleration to load sequences of video frames to facilitate machine learning training,[],85,657
+249,nvstrings,Legacy repository for nvstrings,[],2,11
+250,cbootimage-configs,Configuration files for use with cbootimage,[],21,6
+251,cnmem,A simple memory manager for CUDA designed to help Deep Learning frameworks manage memory,[],74,263
+252,Milano,Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.,"['machine-learning', 'deep-neural-networks', 'deep-learning', 'hyperparameter-optimization', 'hyperparameter-tuning', 'automl']",20,145
+253,ngc-examples,NGC VMI Example Scripts,[],8,19
+254,mxnet_to_onnx,MxNet to ONNX Exporter,[],11,56
+255,online-softmax,"Benchmark code for the ""Online normalizer calculation for softmax"" paper",[],2,10
+256,gpu-rest-engine,A REST API for Caffe using Docker and Go,"['deep-learning', 'docker', 'caffe', 'gpu', 'inference', 'inference-server']",102,416
+257,winex_lgpl,"Open Source licensed components of Cider/WineX, and associated build tools and support libraries",[],10,23
+258,pynvrtc,Python Binding to NVRTC,[],22,77
+259,tegrarcm,Tegra ReCovery Mode tool; communicates with Tegra's boot ROM to download code over USB,[],25,51
+260,onnx-tensorrt,[BLANK],[],0,1
+261,ADLR,Applied Deep Learning Research,[],0,4
+262,df-nvshmem-prototype,"Prototype of OpenSHMEM for NVIDIA GPUs, developed as part of DoE Design Forward",[],3,16
+263,packer-builder-xenserver,A builder plugin for Packer.IO to support building XenServer images.,[],94,4
+264,presto-mapd-connector,"A Presto to MapD connector, enabling MapD queries via Presto",[],2,5
+265,kokkos,Core repository for Kokkos software,[],296,2
+266,nvidia-query-resource-opengl,A tool for querying OpenGL resource usage of applications using the NVIDIA OpenGL driver,[],7,9
+267,docker-distribution,"The Docker toolset to pack, ship, store, and deliver content",[],2122,3
+268,Falcor,Real-time rendering research framework,[],30,221
+269,SKA-gpu-multiscale-clean,Multiscale CLEAN for the square kilometer array using GPUs,[],4,3
+270,docker-volume-netshare,"Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin",[],162,5
+271,SKA-gpu-grid,Gridding for the square kilometer array using GPUs,[],3,4
+272,torch-cudnn,Torch-7 FFI bindings for NVIDIA CuDNN,[],161,5
+273,tegra-uboot-flasher-scripts,Tegra U-Boot Flasher project: scripts,[],27,26
+274,tegra-rootfs-scripts,Tegra scripts,[],20,9
+275,tegra-nouveau-rootfs,Manifests to create an Arch Linux ARM rootfs augmented with Nouveau and the OSS graphics stack for NVIDIA's Jetson TK1/TX1 boards,[],29,51
+276,PRBench,A CUDA implementation of the PageRank Pipeline Benchmark,[],13,31
+277,CoMD-CUDA,GPU implementation of classical molecular dynamics proxy application.,[],53,28
+278,torch-android,Torch-7 for Android,[],87,2
+279,torch-distro,Torch installation in a self-contained folder,[],474,1
+280,torch-cutorch,A CUDA backend for Torch7,[],212,2
+281,torch-cunn,[BLANK],[],173,2
+282,tegra-uboot-scripts,Generate boot.scr for U-Boot on Tegra,[],7,9
+283,SKA-gpu-degrid,Degridding for the square kilometer array using GPUs,[],3,3
+284,SKA-gpu-stefcal,Antenna gain calibration for the square kilometer array using GPUs,[],3,1
+285,Forma,DSL for stencils and image processing,[],6,10
+286,SKA-gpu-direct-convolve,Comparison of convolution methods for small kernels for the square kilometer array using GPUs,[],0,1
+287,SKA-gpu-reproject,Image reprojection for the square kilometer array using GPUs,[],0,1
+288,torch-nccl,torch bindings for nccl,[],12,1
+289,remorac,[BLANK],[],6,38
+290,vdpau-hevc-example,A sample VDPAU H.265/HEVC video player,[],11,23
+291,cuda-gdb,CUDA GDB,[],43,96
+292,vdpau-win-x11,VDPAU X11 window system helper library,[],3,4
+293,cpu-microcode,NVIDIA CPU microcode,[],5,9
+294,tegra-uboot-flasher-manifests,Tegra U-Boot Flasher project: manifests (see https://github.com/NVIDIA/tegra-uboot-flasher-scripts),[],9,1
+295,WebGL,The Official Khronos WebGL Repository,[],653,11
+296,nvgpu,[BLANK],[],10,13
+297,webgl-path-tracing,Path tracing in GLSL using WebGL,[],57,11
+298,scenejs,An extensible WebGL-based engine for high-detail 3D visualisation,[],177,7
+299,tdl,A low-level WebGL library,[],39,3
