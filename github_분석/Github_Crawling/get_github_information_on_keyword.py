@@ -63,6 +63,6 @@ def search_information(name,page_n):
         df_dic['fork'].append(fork)
         df_dic['star'].append(star)
 
-        temp_df = pd.DataFrame(df_dic)
 
-    return temp_df
+
+    return pd.DataFrame(df_dic)

@@ -18,7 +18,7 @@ def main(name):
             ]
         )
 
-    for i in range(1,3): # 한 페이지당 repo 30개씩 추출 가능 
+    for i in range(1,15): # 한 페이지당 repo 30개씩 추출 가능 
         temp_df = search_information(name,i)
 
         df = pd.concat([df,temp_df],ignore_index=True)
