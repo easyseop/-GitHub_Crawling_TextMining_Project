@@ -90,5 +90,5 @@ def get_contributor(url,repo_name):
         df_dic['commits'].append(commits)
     
     df = pd.DataFrame(df_dic)
-    df.to_csv(f'NVIDIA_{repo_name}_contributors_multiprocessing.csv',encoding='utf-8-sig',index=False)
+    df.to_csv(f'/NVIDIA_{repo_name}_contributors_multiprocessing.csv',encoding='utf-8-sig',index=False)
     print('done')
