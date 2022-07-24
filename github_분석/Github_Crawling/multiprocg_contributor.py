@@ -4,7 +4,6 @@ from get_github_repository_contributor import get_contributor
 from bs4 import BeautifulSoup as bs
 import urllib.request as ur
 import pandas as pd
-import itertools
 from concurrent.futures import ProcessPoolExecutor
 import os
 import threading
