@@ -1,0 +1,20 @@
+,Topic,Description,Organization,License Type,Software Type
+0,Ada (GNAT),, AdaCore,, Non-C Compilers and Runtimes 
+1,BishengJDK/HotSpot (Java Virtual Machine),, Yadong Wang,, Non-C Compilers and Runtimes 
+2,Eclipse OMR,, Eclipse OMR Project,, Non-C Compilers and Runtimes 
+3,Free Pascal,, Jeppe Johansen and others,, Non-C Compilers and Runtimes 
+4,Go,," Benjamin Barenblat (Google), Michael Pratt (Google), Stef Oâ€™Rear",, Non-C Compilers and Runtimes 
+5,ibForth,, Lars Brinkhoff,, Non-C Compilers and Runtimes 
+6,Jikes RVM (Java Virtual Machine),," Martin Maas (University of California, Berkeley)",, Non-C Compilers and Runtimes 
+7,Maxine VM (Java Virtual Machine),, Maxine team,, Non-C Compilers and Runtimes 
+8,Mecrisp-Quintis Forth kernel,, Matthias Koch,, Non-C Compilers and Runtimes 
+9,Mono,, Alex RÃ¸nne Petersen,, Non-C Compilers and Runtimes 
+10,muForth,, David Frech,, Non-C Compilers and Runtimes 
+11,Nim,, Andreas Rumpf and others,, Non-C Compilers and Runtimes 
+12,Node.js,," RIOS, Futurewei, PLCT Lab",, Non-C Compilers and Runtimes 
+13,Ocaml,, NicolÃ¡s Ojeda BÃ¤r,, Non-C Compilers and Runtimes 
+14,OpenJDK/HotSpot (Java Virtual Machine),," Alexey Baturo, Michael Knysnek, Martin Maas",, Non-C Compilers and Runtimes 
+15,OpenJDK/OpenJ9 (Java Virtual Machine),, Cheng Jin,, Non-C Compilers and Runtimes 
+16,Rust,, Rust Project,, Non-C Compilers and Runtimes 
+17,V8 (JS),," RIOS, Futurewei, PLCT Lab",, Non-C Compilers and Runtimes 
+18,Zen,, connectFree Corporation,, Non-C Compilers and Runtimes 

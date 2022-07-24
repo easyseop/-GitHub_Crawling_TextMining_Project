@@ -1,0 +1,7 @@
+,Topic,Description,Organization,License Type,Software Type
+0,coreboot,," Ron Minnich (Google), Jonathan NeuschÃ¤fer",, Bootloaders 
+1,OpenSBI,," Anup Patel (Western Digital), Atish Patra (Western Digital)",, Bootloaders 
+2,Proxy Kernel/BBL,, SiFive,, Bootloaders 
+3,RustSBI,, Luo Jia (Huazhong Univ. of Sci. & Tech.),, Bootloaders 
+4,U-Boot,, Rick Chen (Andes),, Bootloaders 
+5,UEFI edk2,," Abner Chang (Hewlett Packard Enterprise), Daniel Schaefer (Hewlett Packard Enterprise)",, Bootloaders 

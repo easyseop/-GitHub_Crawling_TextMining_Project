@@ -1,0 +1,14 @@
+,Topic,Description,Organization,License Type,Software Type
+0,Apache Mynewt,," James Pace, Runtime",, RTOS 
+1,embOS,, SEGGER,, RTOS 
+2,Embox,, Embox,, RTOS 
+3,FreeRTOS,, AWS,, RTOS 
+4,LiteOS,," Chaifangming (Huawei), Pengzhouhu (Huawei), Huerjia (Huawei)",, RTOS 
+5,NuttX,,,, RTOS 
+6,OpenWrt,, Zoltan Herpai,, RTOS 
+7,Phoenix-RTOS,, Phoenix Systems,, RTOS 
+8,PikeOS,, SYSGO,, RTOS 
+9,RT-Thread,, RT-Thread,, RTOS 
+10,RTEMS,, Hesham Almatary,, RTOS 
+11,seL4,," Trustworthy Systems group, Data61 CSIRO",, RTOS 
+12,VxWorks,, Wind River,, RTOS 

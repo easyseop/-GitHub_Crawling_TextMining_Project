@@ -1,0 +1,13 @@
+,Topic,Description,Organization,License Type,Software Type
+0,CoreGuard,," Dover Microsystems, Inc.",, Security 
+1,emCrypt,, SEGGER,, Security 
+2,Ghidra,, National Security Agency,, Security 
+3,IntrinsicID,, Intrinsic ID,, Security 
+4,Keystone Enclave,, Keystone Team,, Security 
+5,MultiZone API,, Hex Five Security Inc.,, Security 
+6,MultiZone Security TEE & Enclave,, Hex Five Security Inc.,, Security 
+7,Penglai Enclave,, IPADS,, Security 
+8,PoC TEE,Proof of concept trusted execution environment implementation for embedded devices (Arty A7)., N/A, Open custom , Security 
+9,PQSLIB / PQSoC,, PQShield,, Security 
+10,Secure IoT Stack,, Hex Five Security Inc.,, Security 
+11,SecureRF,, SecureRF Corp.,, Security 

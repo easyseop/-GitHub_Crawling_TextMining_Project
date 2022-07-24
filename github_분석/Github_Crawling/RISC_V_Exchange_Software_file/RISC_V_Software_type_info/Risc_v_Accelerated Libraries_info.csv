@@ -1,0 +1,5 @@
+,Topic,Description,Organization,License Type,Software Type
+0,Andes DSP Library,, Andes,, Accelerated Libraries 
+1,Andes Vector Library,, Andes,, Accelerated Libraries 
+2,libmoepgf,Galois Field Library - Cross-platform library for fast Galois Field arithmetics, TUM, Permissive , Accelerated LibrariesLinuxmacOS 
+3,OpenBLAS (Support RISC-V V extension 0.7.1),, PerfXLab,, Accelerated Libraries 
