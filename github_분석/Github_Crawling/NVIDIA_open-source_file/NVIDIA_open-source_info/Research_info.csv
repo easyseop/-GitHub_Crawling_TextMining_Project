@@ -1,0 +1,7 @@
+Topic,Description
+Open Seq2Seq,Toolkit for efficient experimentation with various sequence-to-sequence models
+vid2vid,High-resolution photorealistic video-to-video translation
+Deep Recommender,Deep learning for recommender systems
+Milano,Tool for automating hyper-parameters search for your models on a backend of your choice
+Tacotron 2,PyTorch implementation with faster-than-realtime inference
+Falcor,Real-time rendering framework
