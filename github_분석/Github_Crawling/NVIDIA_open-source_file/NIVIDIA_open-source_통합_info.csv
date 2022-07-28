@@ -1,8 +1,0 @@
-Topic,Description
-Flang,Flang is a Fortran compiler targeting LLVM
-CUTLASS,CUDA Templates for Linear Algebra Subroutines
-Thrust,Parallel algorithms library
-AmgX,Distributed multi-grid linear solver library on GPU
-libcu++,C++ Standard Library for your entire CPU+GPU system
-CUB,A library of collective primitives and utilities
-nvcomp,High performance GPU data compression library
