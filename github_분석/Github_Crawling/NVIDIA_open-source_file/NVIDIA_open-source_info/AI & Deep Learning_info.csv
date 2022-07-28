@@ -1,0 +1,11 @@
+Topic,Description
+RAPIDS,Open GPU data science
+TensorRT,High-performance platform for deep learning inference
+NCCL,Optimized primitives for collective multi-gpu communication
+Triton,Inference microservice for data center production that maximizes GPU utilization
+DALI,Data pre-processing in deep learning applications
+Apex,A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch
+TensorFlow-TensorRT,Integration for TensorFlow with TensorRT to get upto 6x faster inference in TensorFlow with few lines of code.
+ONNX,TensorRT backend for ONNX
+NVDLA,Open source Deep Learning Inference Accelerator
+Deep Learning Examples,Tensor Cores optimized code-samples

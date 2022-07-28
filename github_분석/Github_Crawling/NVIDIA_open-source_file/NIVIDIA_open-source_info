@@ -1,0 +1,45 @@
+import os
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+if not os.path.isdir('./NVIDIA_open-source_info'):
+    os.mkdir('./NVIDIA_open-source_info')
+
+url = "https://developer.nvidia.com/open-source"
+response = requests.request("GET", url)
+soup = BeautifulSoup(response.text, 'lxml')
+
+source_list = soup.find('div', 'tab-pane active').find_all('div', 'my-container') # 대분류
+software_list = soup.find('div', 'tab-pane active').find_all('div', 'row') # 중분류
+repo_list = [sw.parent.find('h3').text.strip() for sw in software_list]
+
+for _ in range(len(source_list)) : 
+    
+    i = 0 
+    now_repo = repo_list[i]
+    
+    dic = {} 
+    dic['Topic'] = []
+    dic['Description'] = []
+    
+    while now_repo == repo_list[i] :
+        card_list = software_list[i].find_all('div', 'card')
+        
+        for card in card_list :
+            topic = card.find('h4').text.strip()
+            descript = card.find('p').text.strip()
+             
+            dic['Topic'].append(topic)
+            dic['Description'].append(descript)
+        
+        i+=1
+        
+        if len(repo_list)-1 < i :
+            break
+    
+    del repo_list[:i]
+    del software_list[:i]
+    
+    result_df = pd.DataFrame(dic)
+    result_df.to_csv(f'./NVIDIA_open-source_info/{now_repo}_info.csv',index=False, encoding = 'utf-8')
