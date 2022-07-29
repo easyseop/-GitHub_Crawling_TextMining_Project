@@ -1,0 +1,33 @@
+Title,Topic,Description
+Container Technology,Docker,Build and run Docker containers leveraging NVIDIA GPUs
+,Kubernetes,Kubernetes on NVIDIA GPUs
+,K8s Device Plugin,Enable GPU support in Kubernetes with the NVIDIA device plugin
+,Container Runtime,Support multiple Linux container runtimes via the NVIDIA Container Runtime
+,Container Runtime Library,Automatically configure GNU/Linux containers leveraging NVIDIA hardware
+HPC,Flang,Flang is a Fortran compiler targeting LLVM
+,CUTLASS,CUDA Templates for Linear Algebra Subroutines
+,Thrust,Parallel algorithms library
+,AmgX,Distributed multi-grid linear solver library on GPU
+,libcu++,C++ Standard Library for your entire CPU+GPU system
+,CUB,A library of collective primitives and utilities
+,nvcomp,High performance GPU data compression library
+Robotics,PhysX,"Advanced, true-to-reality physics simulation engine"
+,TF-TRT Image Classification,Image classification with native integration of NVIDIA TensorRT for TensorFlow
+Design & Visualization,MDL (Material Definition Language),Physically accurate material standard and SDK
+,USD (Universal Scene Description),Extensible 3D scene description for composing virtual worlds
+Research,Open Seq2Seq,Toolkit for efficient experimentation with various sequence-to-sequence models
+,vid2vid,High-resolution photorealistic video-to-video translation
+,Deep Recommender,Deep learning for recommender systems
+,Milano,Tool for automating hyper-parameters search for your models on a backend of your choice
+,Tacotron 2,PyTorch implementation with faster-than-realtime inference
+,Falcor,Real-time rendering framework
+AI & Deep Learning,RAPIDS,Open GPU data science
+,TensorRT,High-performance platform for deep learning inference
+,NCCL,Optimized primitives for collective multi-gpu communication
+,Triton,Inference microservice for data center production that maximizes GPU utilization
+,DALI,Data pre-processing in deep learning applications
+,Apex,A PyTorch Extension: Tools for easy mixed precision and distributed training in Pytorch
+,TensorFlow-TensorRT,Integration for TensorFlow with TensorRT to get upto 6x faster inference in TensorFlow with few lines of code.
+,ONNX,TensorRT backend for ONNX
+,NVDLA,Open source Deep Learning Inference Accelerator
+,Deep Learning Examples,Tensor Cores optimized code-samples
