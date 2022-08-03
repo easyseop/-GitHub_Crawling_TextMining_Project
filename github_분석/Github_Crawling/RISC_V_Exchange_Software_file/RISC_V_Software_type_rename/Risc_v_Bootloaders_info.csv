@@ -1,0 +1,7 @@
+,Topic,Description,Organization,License Type,Software Type
+0,coreboot,," Ron Minnich (Google), Jonathan NeuschÃ¤fer",, 
+1,OpenSBI,," Anup Patel (Western Digital), Atish Patra (Western Digital)",, 
+2,Proxy Kernel/BBL,, SiFive,, 
+3,RustSBI,, Luo Jia (Huazhong Univ. of Sci. & Tech.),, 
+4,U-Boot,, Rick Chen (Andes),, 
+5,UEFI edk2,," Abner Chang (Hewlett Packard Enterprise), Daniel Schaefer (Hewlett Packard Enterprise)",, 
