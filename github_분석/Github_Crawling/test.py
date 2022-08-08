@@ -30,7 +30,7 @@ def search_title(name,page_n):
 
 def get_repo_name(name):
     title_list =[]
-    for i in range(1,3): # 한 개의 루프 당 30개 레포지토리 크롤링 
+    for i in range(5,11 + 1): # 한 개의 루프 당 30개 레포지토리 크롤링 
         temp_lis = search_title(name,i)
         title_list+=temp_lis
     return title_list
