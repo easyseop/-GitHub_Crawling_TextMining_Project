@@ -1,0 +1,67 @@
+,title,descript,topic_keyword,star,fork
+0,OpenBLAS,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.,"['blas', 'lapack', 'lapacke']",4.7k,1.2k
+1,libmoepgf,High-performance Finite Field Library for x86 and ARM,[],11,6
+2,vidbo,Virtual Development Board,[],49,4
+3,opensbi,RISC-V Open Source Supervisor Binary Interface,[],472,266
+4,riscv-pk,RISC-V Proxy Kernel,[],378,265
+5,rustsbi,RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem,[],9,47
+6,riscv-uefi-edk2-docs,Documentation and status of UEFI on RISC-V,[],30,5
+7,freebsd-src,FreeBSD src tree (read-only mirror),[],6.5k,2.4k
+8,bronzebeard,Minimal assembler and ecosystem for bare-metal RISC-V development,"['python', 'assembler', 'bare-metal', 'risc-v', 'longan-nano', 'wio-lite']",26,7
+9,CompCert,The CompCert formally-verified C compiler,"['c', 'compiler', 'coq', 'compcert']",1.4k,180
+10,riscv-gcc,[BLANK],[],287,252
+11,riscv-glibc,RISC-V port of GNU's libc,[],70,86
+12,riscv-musl,musl libc for RISC-V,[],67,14
+13,riscv-newlib,RISC-V port of newlib,[],75,114
+14,openocd,The GNU MCU Eclipse OpenOCD,"['debugger', 'openocd', 'jtag']",229,63
+15,riscv-openocd,Fork of OpenOCD that has RISC-V support,[],276,240
+16,bao-hypervisor,"Bao, a Lightweight Static Partitioning Hypervisor","['security', 'embedded', 'virtualization', 'hypervisor', 'static', 'safety', 'partitioning', 'armv8', 'risc-v', 'mixed-critcality']",132,46
+17,linux,Linux KVM RISC-V repo,[],29,8
+18,RVirt,RISC-V hypervisor written in Rust,[],251,25
+19,xvisor,Xvisor: eXtensible Versatile hypervISOR,[],386,190
+20,riscv-gnu-toolchain,"GNU toolchain for RISC-V, including GCC",[],1.8k,727
+21,riscv-linux,RISC-V Linux Port,[],599,204
+22,meta-riscv,OpenEmbedded/Yocto layer for RISC-V Architecture,"['riscv', 'yocto-layer', 'yocto', 'openembedded', 'risc-v', 'yocto-meta', 'openembedded-layer']",200,87
+23,ncnn,ncnn is a high-performance neural network inference framework optimized for the mobile platform,"['android', 'ios', 'caffe', 'deep-learning', 'neural-network', 'mxnet', 'tensorflow', 'vulkan', 'keras', 'inference', 'pytorch', 'artificial-intelligence', 'simd', 'riscv', 'darknet', 'arm-neon', 'high-preformance', 'ncnn', 'onnx', 'mlir']",15.1k,3.6k
+24,omr,"Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes",['hacktoberfest'],871,362
+25,riscv-go,[BLANK],[],147,27
+26,lbForth,"Self-hosting metacompiled Forth, bootstrapping from a few lines of C; targets Linux, Windows, ARM, RISC-V, 68000, PDP-11, asm.js.","['linux', 'programming-language', 'avr', 'arm', 'interpreter', 'cortex-m', 'compiler', 'self-hosted', 'riscv', 'forth', 'x86', 'msp430', 'pdp11', 'metacompiler', 'm68k', 'asmjs', '6502', 'risc-v', '8051']",360,89
+27,JikesRVM,Jikes RVM (Research Virtual Machine),"['java', 'research', 'jvm', 'virtual-machine', 'metacircular-vm']",342,76
+28,Maxine-VM,Maxine VM: A meta-circular research VM,"['java', 'research', 'jvm', 'riscv', 'x86', 'armv7', 'graal', 'aarch64', 'risc-v', 'metacircular-vm', 'c1x', 't1x', 'maxine-vm']",300,57
+29,muforth,"A simple, indirect-threaded Forth, written in C; for target compiling; runs on Linux, BSD, OSX, and Cygwin",[],99,25
+30,node,Node.js on RISC-V! See the link below to learn more and try it out.,[],12,24k
+31,riscv-ocaml,RISC-V port of the OCaml system,[],43,7
+32,openj9,"Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.","['java', 'interpreter', 'compiler', 'runtime', 'jvm', 'virtual-machine', 'jit', 'garbage-collector', 'gc', 'hacktoberfest', 'eclipse-openj9']",2.9k,635
+33,rust,Empowering everyone to build reliable and efficient software.,"['language', 'rust', 'compiler']",70.4k,9.6k
+34,v8,Port of Google v8 engine to RISC-V.,[],223,3.7k
+35,riscv-binutils-gdb,RISC-V backports for binutils-gdb. Development is done upstream at the FSF.,[],138,225
+36,cranelift,Cranelift code generator,"['rust', 'compiler', 'aot-compilation', 'wasm', 'jit', 'codegen', 'cretonne', 'cranelift']",2.5k,211
+37,ataraxia,Simple and lightweight source-based multi-platform Linux distribution with musl libc.,"['linux', 'fast', 'distribution', 'arm', 'privacy', 'cross-platform', 'simple', 'mips', 'linux-distribution', 'x86', 'cross-compiler', 'safe', 'musl', 'musl-libc', 'powerpc', 'compact', 'risc-v']",279,20
+38,riscv-gentoo,A port of Gentoo to RISC-V,[],20,5
+39,parabola-cross-bootstrap,This is a mirror of https://git.parabola.nu/parabola-cross-bootstrap.git/,[],10,14
+40,slackware_riscv,RISCV port of the Slackware distribution,"['riscv', 'slackware', 'hifive', 'sifive', 'riscv64']",9,3
+41,AliOS-Things,面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings,"['iot', 'microcontroller', 'embedded', 'os', 'haas', 'rtos', 'risc-v', 'haas-python']",4.3k,1k
+42,embox,Modular and configurable OS for embedded applications,"['c', 'microcontroller', 'embedded', 'kernel', 'os', 'posix', 'mcu']",831,206
+43,LiteOS_Lab,"LiteOS laboratory repo, for new, fast, prove of concept development and 3rd party commits.",[],110,100
+44,seL4,The seL4 microkernel,"['os', 'microkernel', 'sel4', 'sel4-microkernel']",3.6k,525
+45,zephyr,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.","['iot', 'real-time', 'microcontroller', 'embedded', 'bluetooth', 'bluetooth-le', 'mcu', 'rtos', 'zephyr', 'zephyros', 'embedded-c', 'zephyr-rtos']",6.4k,4k
+46,ghidra,Ghidra is a software reverse engineering (SRE) framework,"['reverse-engineering', 'disassembler', 'software-analysis']",33.7k,4.4k
+47,multizone-api,MultiZone free and open API definition,"['linux', 'security', 'risc-v', 'tee', 'linux-driver', 'trusted-execution', 'trusted-computing', 'freedomstudio', 'hex-five', 'multizone-security', 'multizone', 'trusted-execution-environment', 'freedom-e-sdk', 'multizone-api']",12,4
+48,multizone-sdk,"MultiZone® Security TEE is the quick and safe way to add security and separation to any RISC-V processors. The RISC-V standard ISA doesn't define TrustZone-like primitives to provide hardware separation. To shield critical functionality from untrusted third-party components, MultiZone provides hardware-enforced, software-defined separation of mu…","['security', 'fpga', 'firmware', 'hypervisor', 'container', 'freertos', 'xilinx', 'microkernel', 'secure-boot', 'risc-v', 'trustzone', 'tee', 'arty', 'trusted-computing', 'sifive', 'multizone', 'trusted-execution-environment', 'secure-element', 'root-of-trust', 'polarfire-soc']",56,21
+49,PoC-TEE,For evaluating fault attack resistance of RISC-V based TEEs,[],1,0
+50,firesim,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud","['cloud', 'fpga', 'hardware', 'simulation', 'boom', 'rocket-chip', 'risc-v', 'datacenter', 'firesim']",572,149
+51,jor1k,Online OR1K Emulator running Linux,"['javascript', 'linux', 'emulator', 'openrisc']",1.6k,197
+52,jupiter,RISC-V Assembler and Runtime Simulator,"['education', 'simulator', 'assembler', 'riscv', 'risc', 'risc-v', 'riscv-asm', 'rv32', 'rv32imf', 'riscv-simulator', 'runtime-simulator']",366,34
+53,marss-riscv,TinyEMU based full system cycle-level micro-architectural research simulator for single-core RISC-V systems,"['risc-v', 'cycle-level-simulator', 'cpu-simulator', 'riscv-simulator', 'riscv-emulator', 'cycle-level-modeling']",101,17
+54,imperas-riscv-tests,[BLANK],[],67,19
+55,rars,RARS -- RISC-V Assembler and Runtime Simulator,"['education', 'simulator', 'ide', 'assembler', 'riscv', 'mars', 'risc-v']",683,113
+56,renode,Renode - Antmicro's virtual development framework for complex embedded systems,"['iot', 'arm', 'simulation', 'embedded-systems', 'x86', 'risc-v']",838,164
+57,Ripes,A graphical processor simulator and assembly editor for the RISC-V ISA,"['education', 'processor-architecture', 'qt', 'simulator', 'computer-architecture', 'risc', 'risc-v', 'cpu-emulator']",994,147
+58,riscv-vp,RISC-V Virtual Prototype,[],71,41
+59,riscv-rust,RISC-V processor emulator written in Rust+WASM,"['emulator', 'rust', 'cpu', 'processor', 'webassembly', 'wasm', 'riscv', 'risc-v']",425,35
+60,riscv-vm,A Small RISC-V Virtual Machine,"['c', 'c-plus-plus', 'simulator', 'virtual-machine', 'risc-v', 'isa-emulator']",46,9
+61,riscv-isa-sim,"Spike, a RISC-V ISA Simulator",[],1.4k,543
+62,swerv-ISS,Western Digital’s Open Source RISC-V SweRV Instruction Set Simulator,[],196,40
+63,terminus,A riscv isa simulator in rust.,"['rust', 'iss', 'riscv', 'virtio']",47,7
+64,Vulcan,RISC-V Instruction Set Simulator (Built for education).,"['education', 'simulator', 'assembly', 'computer-architecture', 'risc', 'risc-v']",95,11
+65,riscv-dv,Random instruction generator for RISC-V processor verification,[],663,243
