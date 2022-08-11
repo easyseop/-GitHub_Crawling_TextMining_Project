@@ -8,6 +8,7 @@ import pandas as pd
 from concurrent.futures import ProcessPoolExecutor
 import os
 import threading
+import tqdm
 
 def search_title(name,page_n):
     
@@ -30,8 +31,8 @@ def search_title(name,page_n):
 
 def get_repo_name(name):
     title_list =[]
-    for i in range(9,11+1): # 한 개의 루프 당 30개 레포지토리 크롤링 
-        print(i)
+    for i in tqdm.tqdm(range(5,11+1)): # 한 개의 루프 당 30개 레포지토리 크롤링 
+        # print(i)
         temp_lis = search_title(name,i)
         title_list+=temp_lis
     return title_list
@@ -43,8 +44,8 @@ def get_urls(cor_name,repo_name):
     return url,repo_name
 
 
-
 def main(cor_name):
+    global dic
     urls = []
     repo_name_list = get_repo_name(cor_name)
     
@@ -56,14 +57,29 @@ def main(cor_name):
     return result_rivew
 
 if __name__ == '__main__':
+    from collections import defaultdict
 
-    dir_name ="graph" 
+    df = pd.DataFrame(
+            columns=['repo_name',1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,
+            21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,
+            41,42,43,44,45,46,47,48,49,50,51,52]
+        )
+    
+    dir_name ="graph__" 
+
     try:
         os.mkdir(dir_name)
     except:
         pass
+
     start = time.time()
     re = main('NVIDIA')
-    print(re)
+
+    for dic in re:
+        temp_df = pd.DataFrame(dic)
+        df = pd.concat([df,temp_df])
+
+    df.to_csv('second.csv')
+
     end = time.time()
     print(end-start)
