@@ -78,10 +78,6 @@ async def fetcher(name, session,url):
 
 async def main(name,num):
 
-
-
-
-
     urls = []
     loop = (num//30) + 1
     for page_n in range(1,loop+1):
@@ -95,7 +91,7 @@ async def main(name,num):
     return result
 if __name__ == "__main__":
     # ["microsoft",5038]
-    org = [["microsoft",5038]]
+    org = [["intel",908]]
     for name,num in org:
         print(name)
         time.sleep(5)
