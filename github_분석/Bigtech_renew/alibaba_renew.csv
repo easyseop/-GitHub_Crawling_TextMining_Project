@@ -1,0 +1,361 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,spatial-data-vis-framework,14,0,267,"['gis', '3d', 'web3d', 'webgis']",,16
+1,tair-py,1,0,88,[],v1.1.0,3
+2,RemoteShuffleService,4,14,190,[],v0.1.1,207
+3,lowcode-plugins,8,1,75,"['alibaba', 'low-code', 'lowcode']",,78
+4,dragonwell11,13,4,"109,973",[],Alibaba_Dragonwell_Standard_11.0.16.12,450
+5,xquic,1,3,70,"['protocol', 'ietf', 'quic', 'http3', 'tls13']",XQUIC v1.2.0,1224
+6,GaiaX,6,2,693,"['css', 'android', 'kotlin', 'swift', 'rust', 'ios', 'cross-platform', 'flexbox']",0.2.7,638
+7,TinyNeuralNetwork,2,1,465,"['deep-learning', 'pytorch', 'pruning', 'model-compression', 'model-converter', 'quantization-aware-training']",,360
+8,nacos,47,24,"4,204","['config', 'dns', 'kubernetes', 'microservices', 'service-discovery', 'spring-cloud', 'configuration-management', 'service-mesh', 'alibaba', 'dubbo', 'istio', 'distributed-configuration', 'nacos']","2.1.1 (Aug 8th, 2022)",23703
+9,DeepRec,4,18,"65,022","['python', 'search-engine', 'machine-learning', 'deep-learning', 'scalability', 'recommendation-engine', 'advertising', 'distributed-training']",r1.15.5-deeprec2206,539
+10,BladeDISC,34,10,420,[],BladeDISC 0.2.0,410
+11,ice,31,7,"1,785","['react', 'nodejs', 'framework', 'typescript', 'spa', 'webpack', 'react-router', 'serverless', 'ssr', 'mpa', 'microfrontends', 'vite', 'icejs']",v2.6.5,17286
+12,EasyRec,106,17,169,"['recommender-system', 'mind', 'recommendation-algorithms', 'online-learning', 'wide-and-deep', 'automl', 'ctr-prediction', 'multi-task-learning', 'din', 'dssm', 'capsule-network', 'deepfm', 'autoint', 'esmm', 'pdn', 'deepmatching', 'dlrm', 'transformers-models', 'eges']",v0.4.7,710
+13,flutter_boost,59,5,"1,101","['android', 'dart', 'ios', 'flutter', 'hybrid-app', 'hybrid-flutter']",4.0.2,6115
+14,fastjson,24,160,"3,970","['android', 'java', 'serialization', 'json', 'json-serialization', 'deserialization', 'json-parser', 'fastjson', 'json-serializer', 'best-performance']",FASTJSON 1.2.83版本发布（安全修复）,24924
+15,ilogtail,6,7,177,"['apm', 'cloud-native', 'ebpf', 'aliyun', 'observability', 'sls']",v1.1.1 release,873
+16,hooks,9,33,"2,462","['react', 'react-hooks', 'umi-hooks', 'ahooks', 'hooks-library']",v3.7.0,10202
+17,SREWorks,7,0,697,"['kubernetes', 'engineering', 'application', 'devops', 'ops', 'saas', 'dataops', 'maintenance', 'k8s', 'cloud-native', 'sre', 'cloudnative', 'operation', 'aiops', 'oam']",SREWorks v1.2,870
+18,IOC-golang,5,1,96,"['golang', 'middleware', 'sdk', 'annotation', 'dependency-injection', 'debug', 'tag', 'aop', 'monkey']",v1.0.0,836
+19,EasyCV,11,9,126,"['computer-vision', 'transformers', 'pytorch', 'classification', 'object-detection', 'self-supervised-learning', 'vision-transformer']",v0.5.0,354
+20,jvm-sandbox,8,3,326,[],jvm-sandbox@1.3.3,5027
+21,kiwi,11,2,299,"['i18n', 'typescript', 'translation', 'intl', 'g11n']",,2086
+22,GraphScope,9,9,857,"['graph', 'gremlin', 'graph-analytics', 'graph-data', 'graph-computing', 'graph-neural-networks', 'graph-computation']",Release v0.16.0,1824
+23,DataX,41,178,419,[],datax_v202205,11849
+24,react-intl-universal,27,16,222,[],Support ECMAScript module format,1239
+25,arthas,11,47,"1,787","['java', 'agent', 'jvm', 'trace', 'classloader', 'alibaba', 'diagnosis', 'trouble-shooting', 'arthas']",arthas-all-3.6.5,30294
+26,jvm-sandbox-repeater,2,13,68,[],,1913
+27,Elastic-Federated-Learning-Solution,1,2,24,[],EFLS-Data-v1.1,97
+28,spring-cloud-alibaba,14,33,"2,056","['java', 'microservices', 'spring', 'service-discovery', 'spring-cloud', 'cloud-native', 'circuit-breaker', 'aliyun', 'alibaba', 'dubbo', 'service-registry', 'rocketmq', 'distributed-configuration', 'spring-cloud-core', 'distributed-transaction', 'alibaba-oss', 'nacos', 'distributed-messaging', 'spring-cloud-alibaba', 'alibaba-middleware']",2.2.8.RELEASE,23441
+29,x-render,21,1,"2,284","['react', 'javascript', 'chart', 'list', 'typescript', 'widget', 'webpack', 'json-schema', 'ant', 'table', 'form', 'ant-design', 'formrender']",v1.13.6,4914
+30,fastjson2,10,1,"1,736","['android', 'java', 'serialization', 'json', 'big-data', 'high-performance', 'json-serialization', 'deserialization', 'json-parser', 'graal', 'jsonb', 'json-path', 'fastjson', 'json-serializer', 'json-deserialization', 'java-json', 'graalvm-native-image', 'fastjson2']",fastjson 2.0.12发布，Bug修复进一步提升性能,1989
+31,pipcook,23,11,689,"['machine-learning', 'js', 'pipeline', 'tensorflow']",v1.3.0 Release,2306
+32,taobao-iphone-device,3,0,240,"['ios', 'iphone', 'wda', 'usbmuxd']",修复python3.6上不能安装ipa的问题,1621
+33,butterfly,18,10,"1,716","['react', 'svg', 'flow', 'tree', 'vue', 'diagram', 'bpmn', 'edge', 'connectivity', 'flowchart', 'dag', 'butterfly', 'flow-layout', 'mindmap', 'diagramming', 'treemap-diagram', 'flow-dag']",,3118
+34,rsqldb,2,0,80,[],,41
+35,open-object,1,0,6,[],,5
+36,FederatedScope,10,5,276,"['machine-learning', 'pytorch', 'federated-learning']",Release v0.2.0,634
+37,canal,12,42,"1,522",[],v1.1.6,23928
+38,Sentinel,35,151,758,"['java', 'microservice', 'reliability', 'rate-limiting', 'circuit-breaker', 'alibaba', 'hacktoberfest']",v1.8.5,19723
+39,power_image,1,0,40,"['image', 'flutter']",,377
+40,EasyNLP,10,1,472,"['nlp', 'deep-learning', 'transformers', 'pytorch', 'pretrained-models', 'bert', 'knowledge-pretrain']",v0.0.3,906
+41,MNN,10,30,"1,242","['machine-learning', 'arm', 'deep-neural-networks', 'deep-learning', 'vulkan', 'ml', 'convolution', 'embedded-devices', 'mnn', 'winograd-algorithm']",2.0.0,6933
+42,EasyTransfer,4,0,186,"['transfer-learning', 'knowledge-distillation', 'bert', 'nlp-applications']","AppZoo Supports DSW, Add Meta-FT, Tianchi",795
+43,jetcache,8,0,"1,103","['java', 'redis', 'spring', 'cache', 'spring-cache', 'jcache']",v2.7.0,3557
+44,pemja,5,0,35,[],,45
+45,transmittable-thread-local,20,5,922,"['java', 'middleware', 'framework', 'async', 'executor', 'threadsafe', 'asynchronous', 'thread', 'distributed', 'context', 'apm', 'tracing', 'thread-pool', 'dapper', 'threadlocal', 'transmittable', 'distributed-tracing', 'transmittable-thread-local', 'forkjoinpool', 'async-context']","v2.14.0: support `Transmittee Register`, the extension point for other `ThreadLocal`",5629
+46,tengine,8,50,"1,527","['nginx', 'tengine']",Tengine-2.3.3,11605
+47,SmartEngine,4,0,295,[],,469
+48,id2_client_sdk,6,0,15,[],,78
+49,font-toolkit,2,1,35,[],,57
+50,lowcode-engine,26,1,286,"['alibaba', 'low-code', 'lowcode']",v1.0.13,7696
+51,open-simulator,2,0,201,"['kubernetes', 'simulator', 'capacity-planning']",v0.1.2,151
+52,lowcode-engine-ext,10,0,49,"['alibaba', 'low-code', 'lowcode']",,63
+53,easyrobust,1,0,14,"['deep-learning', 'imagenet', 'image-classification', 'robustness', 'adversarial-robustness']",,25
+54,druid,14,150,"6,609",[],Druid 1.2.11版本发布,25937
+55,compileflow,9,4,167,"['java', 'flow', 'spring', 'process', 'compile', 'process-engine', 'alibaba', 'bpmn2', 'halo-platform']",1.2.0 Release 💎,1102
+56,lowcode-materials,5,2,66,"['alibaba', 'low-code', 'lowcode']",,112
+57,proxima,2,0,34,[],ProximaBillin 0.2.1,181
+58,lowcode-tools,2,2,49,"['alibaba', 'low-code', 'lowcode']",,48
+59,hybridnet,7,0,708,"['kubernetes', 'networking', 'bgp', 'container', 'sdn', 'overlay-network', 'vlan', 'vxlan', 'cni', 'hybrid-cloud', 'kubernetes-networking', 'cni-plugin']",v0.7.2,145
+60,Appactive,6,4,133,"['application', 'multisite', 'failover', 'high-availability', 'bcm', 'sos', 'aliyun', 'disaster-recovery', 'traffic-control']",v0.2.1,323
+61,dragonwell8,13,4,"90,747","['java', 'java8', 'jdk', 'lts', 'openjdk', 'dragonwell8']",Alibaba_Dragonwell_Extended_8.12.13,3667
+62,async_simple,3,0,83,[],,469
+63,sentinel-golang,6,14,262,"['microservice', 'rate-limiting', 'resiliency', 'cloud-native']",v1.0.4,2098
+64,AGEIPort,1,0,11,[],,14
+65,alibaba-rsocket-broker,2,0,"2,770","['iot', 'grpc', 'rpc', 'broker', 'service-mesh', 'alibaba', 'rsocket']",1.1.3,672
+66,open-local,2,1,250,"['kubernetes', 'storage', 'snapshot', 'localstorage', 'cloud-native', 'lvm', 'csi']",v0.5.5,278
+67,AliOS-Things,15,5,"6,748","['iot', 'microcontroller', 'embedded', 'os', 'haas', 'rtos', 'risc-v', 'haas-python']",AliOS Things v1.3.4 release note,4264
+68,AliceMind,2,3,32,"['nlp', 'natural-language-processing', 'deep-learning', 'bert']",v1.0,1220
+69,formily,4,0,"2,912","['react', 'reactive', 'react-native', 'vue', 'json-schema', 'validator', 'observable', 'json-schema-form', 'form', 'fusion', 'form-builder', 'ant-design', 'low-code', 'no-code', 'react-form', 'designable', 'schema-form', 'vue-form', 'vue3']",Release 🚀 - v2.2.1,8328
+70,heterogeneity-aware-lowering-and-optimization,15,43,952,[],IPU_STABLE_SDK_2.3.1_v8,207
+71,QLExpress,20,9,265,[],v3.3.0,3607
+72,fast-modeling-language,1,0,10,"['java', 'aliyun']",,17
+73,tair-go,4,2,8,[],v1.1.1,7
+74,COLA,2,2,328,"['architecture', 'clean', 'cola']",COLA 4.3.1 🥤,8208
+75,RedisShake,11,2,681,"['redis', 'redis-cluster', 'redis-proxy']",v3.0.0,2536
+76,cloud-charts,3,0,202,[],1.0.22,407
+77,termd,7,8,69,[],,109
+78,lowcode-demo,10,1,83,"['alibaba', 'low-code', 'lowcode']",,666
+79,easyexcel,8,41,873,"['java', 'excel', 'xlsx', 'xls', 'poi', 'oom', 'jxl']",,24826
+80,schema-plugin-flow,1,0,177,"['react', 'plugin', 'schema', 'vue', 'drag-and-drop', 'form', 'fusion', 'extensible', 'ant-design', 'js-framework', 'low-code', 'vue-drag-and-drop', 'react-drag-and-drop', 'ant-design-vue', 'sifo', 'schema-render', 'extend-plugins', 'schema-plugin-flow']",,386
+81,lowcode-code-generator-demo,4,2,24,"['alibaba', 'low-code', 'lowcode']",,36
+82,pouch,2,0,"3,002","['go', 'kubernetes', 'security', 'package', 'containers', 'efficiency', 'oci', 'cloud-native', 'isolation']",PouchContainer 1.3.0,4518
+83,PhotonLibOS,1,1,45,"['linux', 'cpp', 'asyncio', 'fastest', 'coroutine', 'libos', 'iouring', 'net-library', 'fs-library', 'kernel-features']",v0.2.0,277
+84,EssentialMC2,2,0,210,[],,97
+85,dragonwell17,6,0,"66,025",[],Alibaba_Dragonwell_Standard_17.0.4.0.4+8,140
+86,kt-connect,5,1,"1,440","['kubernetes', 'vpn', 'mesh', 'connect', 'developer-tools', 'istio', 'exchage']",v0.3.6,906
+87,sentinel-cpp,8,4,88,"['microservice', 'cpp', 'rate-limiting', 'hacktoberfest', 'resilience']",,123
+88,java-dns-cache-manipulator,6,0,402,"['java', 'testing', 'dns', 'unit-testing', 'threadsafe', 'jvm', 'integration-testing', 'hacking', 'dns-cache', 'domain-name', 'dns-cache-manipulator', 'hacking-code']",v1.8.0-RC1: support Java 18/19,708
+89,graph-learn,5,1,184,"['training', 'graph', 'tensorflow', 'inference', 'pytorch', 'graph-neural-networks', 'gnn', 'aligraph', 'graphlearn', 'dynamic-graph', 'gnn-framework']",v1.0.1,1090
+90,x-deeplearning,6,14,81,[],XDL1.2 Release Notes,4091
+91,canvas-ui,5,0,22,"['react', 'typescript', 'canvas']",,121
+92,TairZset,3,0,24,"['redis', 'module', 'zset', 'multiple-scores']",release-v0.0.1-20211027,48
+93,fastFFI,2,0,69,[],,63
+94,rex-design,7,0,242,"['react', 'typescript', 'design-system', 'react-component-library']",,115
+95,hiactor,2,0,20,[],,20
+96,testable-mock,6,0,594,"['mock', 'unittest']",,1552
+97,clusterdata,3,4,105,['dataset'],,1042
+98,pont,16,1,628,"['typescript', 'swagger', 'mock-data', 'pont']",v1.3.2,2740
+99,BizCharts,9,1,989,"['react', 'chart', 'es6', 'grammar', 'html5-canvas', 'data-visualization']",v4.0.15,5925
+100,HybridBackend,2,0,46,"['deep-learning', 'gpu', 'parquet', 'recommender-system', 'hybrid-parallelism']",HybridBackend 0.5.4,93
+101,SiliconFastOS,1,0,3,[],,2
+102,elastic-rdma-drivers,1,0,21,[],,8
+103,libgrape-lite,5,0,65,"['grape', 'library', 'cxx', 'graph', 'graph-algorithms', 'gpu', 'parallel', 'mpi', 'header-only', 'graph-theory', 'gnn']",,273
+104,rax,9,6,"5,965","['javascript', 'mobile', 'framework', 'typescript', 'web', 'pwa', 'universal', 'ssr', 'weex', 'miniapp', 'rax']",v1.2.2,7780
+105,form-driver,3,0,23,[],,4
+106,bulbasaur,4,4,26,[],,672
+107,diagnose-tools,4,0,660,[],,346
+108,serverless-vscode,38,22,215,"['fun', 'serverless', 'serverless-plugin', 'aliyun', 'alibaba', 'alibabacloud', 'function-compute', 'aliyun-fun', 'aliyun-fc', 'funcraft']",Release 1.27.19,287
+109,f2e-spec,38,3,82,"['linter', 'specification', 'guidelines']",,410
+110,MongoShake,69,1,692,"['replication', 'mongodb-oplog', 'active-active', 'mongo-database', 'mongoshake']",release-v2.8.0-20220720,1394
+111,TairHash,14,1,91,"['redis', 'module', 'hash', 'version', 'expiration']",release-v0.0.2-20211120,172
+112,arthas-site,2,0,33,[],,15
+113,NimoShake,14,1,76,[],release-v1.0.13-20220411,54
+114,designable,3,9,620,"['react', 'editor', 'builder', 'form', 'designer', 'designable']",Designable Release 🚀 - v0.5.19,2216
+115,yugong,8,12,69,[],v1.0.3,2327
+116,auto-doc,1,1,9,[],,11
+117,Alink,1,7,245,"['machine-learning', 'data-mining', 'statistics', 'kafka', 'graph-algorithms', 'clustering', 'word2vec', 'regression', 'xgboost', 'classification', 'recommender', 'recommender-system', 'apriori', 'feature-engineering', 'flink', 'fm', 'flink-ml', 'graph-embedding', 'flink-machine-learning']",Alink version 1.5.7,3191
+118,EasyParallelLibrary,1,0,17,"['deep-learning', 'gpu', 'memory-efficient', 'data-parallelism', 'model-parallelism', 'distributed-training', 'pipeline-parallelism']",,156
+119,funcraft,232,38,931,"['serverless', 'aliyun', 'alibabacloud', 'function-compute']",Release 3.6.24,929
+120,ChatUI,2,2,285,"['react', 'chat', 'ui', 'chatbot']",,1428
+121,dawn,28,16,820,"['nodejs', 'javascript', 'construction', 'middleware', 'task', 'front-end', 'build', 'pipeline', 'build-tool', 'pack', 'dawn', 'dawn-cli']",@dawnjs/dn-middleware-lint@3.4.0,1128
+122,derrick,4,1,333,[],v0.2.1,649
+123,ali-react-table,9,11,311,"['react', 'table', 'react-table']",,811
+124,alibaba.alicloud,5,9,360,[],v1.20.0,212
+125,footmark,3,3,79,[],,12
+126,p3c,6,23,290,[],,28095
+127,SparkCube,4,3,30,[],SparkCube 0.3.0 released,121
+128,tamper,1,3,64,[],,238
+129,table-computing,4,0,31,"['java', 'big-data', 'stream-processing', 'data-analysis', 'tc', 'table-computing']",,33
+130,ARouter,3,9,301,"['android', 'router', 'navigation', 'dependency-injection', 'interceptor', 'componentization']",Optimization & Bugfix,13920
+131,otter,6,9,154,[],v4.2.18,7330
+132,weex,4,5,"12,039","['android', 'ios', 'mobile', 'sdk', 'web', 'weex']",0.30.0,17953
+133,ai-matrix,13,9,299,[],,170
+134,f2etest,13,8,166,"['webdriver', 'guacamole', 'autotest', 'gui-testing', 'autotest-framework', 'f2etest', 'karma-f2etest']",,3458
+135,MNNKit,5,1,67,[],MNNKitCore 0.0.3,565
+136,euler,4,2,8,"['deep-learning', 'graph', 'network-embedding', 'random-walk', 'graph-convolutional-networks', 'gcn', 'node2vec', 'graph-embedding', 'graph-learning', 'graphsage', 'graph-neural-networks', 'ggnn']",euler 2.0 release,2789
+137,lowcode-datasource,2,4,10,"['alibaba', 'low-code', 'lowcode']",,32
+138,CNStackCommunityEdition,2,1,25,[],,33
+139,AlibabaCloud.TairSDK,1,0,3,[],,3
+140,one-java-agent,7,4,72,[],,305
+141,innodb-java-reader,5,3,129,"['mysql', 'java', 'heatmap', 'mysql-database', 'mysqldump', 'command-line-tool', 'innodb']",v1.0.10,318
+142,aliyun-spring-boot,2,2,85,"['spring-boot', 'aliyun-oss', 'aliyun', 'spring-boot-starters', 'aliyun-sms', 'aliyun-rds', 'aliyun-schedulerx', 'aliyun-redis']",v1.0.0,348
+143,rally-tracks,14,0,261,[],,2
+144,cobarclient,8,4,20,[],,644
+145,alist,16,2,396,"['react', 'list', 'form']",,972
+146,code-data-share-for-python,1,0,12,[],Version 0.0.1,16
+147,online-test-platform,9,8,12,[],,175
+148,intelligent-test-platform,4,6,44,[],,428
+149,alimama-common-performance-platform-acp,5,4,40,[],,199
+150,eCommerceSearchBench,3,2,6,"['benchmark', 'e-commerce', 'e-commerce-search-benchmark']",,31
+151,GaiaSketch,1,0,6,"['sketch-plugin', 'sketch-to-code', 'sketch-measure']",0.1.0,28
+152,CicadaPlayer,8,1,"1,603","['ffmpeg', 'webassembly', 'dash', 'mediaplayer', 'widevine', 'fairplay', 'll-hls']",v0.4.4,521
+153,coobjc,9,5,116,"['c', 'swift', 'ios', 'generator', 'objective-c', 'actor-model', 'asm', 'actor', 'await', 'arm64', 'objc', 'coroutine-library', 'coroutine', 'tuple', 'await-promises']",,3963
+154,lightweight-neural-architecture-search,2,0,4,"['object-detection', 'nas', 'automl', 'zennas', 'maedet', 'zero-cost-nas', 'training-free-nas']",,67
+155,compileflow-idea-designer,3,1,71,"['java', 'flow', 'idea-plugin', 'alibaba', 'bpmn2']",1.0.8版本发布,208
+156,mobileperf,1,0,23,"['android', 'cpu', 'adb', 'fps', 'memory', 'python3', 'logcat', 'performance-testing', 'monkey-test']",,526
+157,alibabacloud-tairjedis-sdk,10,0,45,"['redis', 'module', 'tair']",v2.3.0,56
+158,TairString,4,0,23,"['redis', 'module', 'string', 'cad', 'cas']",,92
+159,virtual-environment,2,0,270,"['kubernetes', 'service-mesh', 'isolation', 'istio']",v0.6.0,178
+160,general-scene-interface,14,0,324,['web3d'],,9
+161,power_image_ext,4,0,4,[],,11
+162,nginx-tfs,3,3,16,[],,256
+163,LuaViewSDK,3,9,"1,827","['javascript', 'android', 'playground', 'ios', 'mobile', 'react-native', 'lua', 'cross-platform', 'script', 'nativescript', 'crossplatform', 'taobao', 'alibaba', 'weex', 'tmall', 'luaview']",5月份版本,3651
+164,self-augmentation-strategy,1,0,5,[],,2
+165,acqdp,1,0,27,[],,136
+166,uirecorder,3,2,327,"['nodejs', 'webdriver', 'selenium', 'recorder', 'uitest']",,1954
+167,easydispatch,2,0,55,"['scheduling', 'real-time-scheduling', 'field-service-dispatching']",,19
+168,SimCSE-with-CARDS,1,0,4,"['nlp', 'language-model', 'sentence-embeddings']",,8
+169,Curvature-Learning-Framework,1,0,19,"['tensorflow', 'geometric-deep-learning', 'hyperbolic', 'non-euclidean-deep-learning']",,116
+170,alibaba-flink-connectors,3,2,15,[],,85
+171,timeline,3,0,83,[],,15
+172,collabobot,2,0,42,[],,45
+173,node-hbase-client,14,15,238,[],0.1.11,280
+174,Deep-Vision,1,0,3,[],,25
+175,ClickSEG,2,0,3,[],,7
+176,cloud-kernel,21,2,"798,168","['linux', 'kernel', 'os', 'ecs', 'aliyun', 'alibabacloud', 'aliyunlinux', 'alibabacloudlinux']",Cloud Kernel Release 22,362
+177,spring-velocity-support,2,2,19,"['java', 'template-engine', 'spring', 'velocity', 'spring-framework']",,23
+178,Ribut,1,0,33,"['android', 'plugin', 'mock', 'ios', 'objective-c', 'tool', 'network', 'sandbox', 'debug']",,37
+179,macaca,1,0,41,"['android', 'testing', 'ios', 'automation', 'hybrid-apps', 'uitest', 'macaca']",,3069
+180,GaiaMeasure,1,0,2,['sketch-measure'],,2
+181,camera-proxy,4,0,60,[],,15
+182,gaia-motion-curve,2,0,10,[],0.1.1,12
+183,FastNN,2,0,15,"['deep-learning', 'models', 'distributed', 'pai']",,78
+184,dragonwell8_jdk,8,2,"15,224",[],,100
+185,dragonwell8_hotspot,9,3,"10,714",[],,57
+186,tofu.js,8,7,30,[],,73
+187,beidou,43,36,608,"['isomorphic', 'server-rendered', 'es6', 'universal', 'ssr', 'server-side-rendering', 'node-framework', 'egg-framework', 'react-server-render', 'css-module', 'react-performance', 'enterprise-framework', 'auto-router']",1.0.0 (2018-03-23),2730
+188,block-traces,1,0,11,[],,39
+189,EasyReinforcementLearning,1,0,9,['rl-algorithms'],,152
+190,lightproxy,67,3,649,"['electron', 'light', 'chrome', 'typescript', 'proxy', 'devtools', 'debug', 'whistle', 'lightproxy']",1.1.41,2706
+191,MiniOptimizer,2,0,1,[],,17
+192,tsar,2,0,408,[],,2375
+193,fish-redux,5,5,486,"['redux', 'adapter', 'framework', 'reactive', 'component', 'functional-programming', 'aop', 'flutter']",,7293
+194,Alibaba-Java-Coding-Guidelines,1,0,13,[],,844
+195,logger.api,5,4,16,[],,13
+196,GCanvas,30,2,566,"['webgl', 'opengl', 'canvas', 'graphics', '2d']",,1763
+197,RedisFullCheck,22,3,153,"['redis', 'replication', 'data-comparison', 'full-data-check', 'redisshake']",release-v1.4.8-20200212,583
+198,SUMN-universal-user-representation,1,0,7,[],,7
+199,Patrons,2,0,23,"['art', 'android', 'abort', 'oom', 'native-crash', 'region-space']",Compatible with Android S,358
+200,atlas,74,3,"1,214","['android', 'dynamic', 'atlas']",Atlas support android Q,8075
+201,dragonwell8_nashorn,6,0,"2,712",[],,5
+202,dragonwell8_langtools,6,0,"4,026",[],,7
+203,dragonwell8_jaxws,6,0,"2,020",[],,5
+204,dragonwell8_jaxp,6,0,"2,231",[],,5
+205,dragonwell8_corba,5,0,"2,129",[],,7
+206,browser-extension-kit,1,0,9,[],1.0.0,100
+207,qt5,1,0,1,[],,1
+208,HandyJSON,7,9,335,"['swift', 'serialization', 'json', 'mapping', 'deserialization', 'json-fields']",4.1.3,4024
+209,t-game-sdk,1,0,11,[],,5
+210,Trescope,1,1,21,"['machine-learning', 'deep-learning', 'label', 'point-cloud', '3d-data-visualization', '3d-front-dataset']",v0.0.1,112
+211,spring-context-support,2,1,109,"['java', 'spring', 'spring-framework', 'alibaba', 'spring-context']",1.0.11,137
+212,SystemOperation-Maintenance,1,0,2,[],,1
+213,metrics,2,4,98,"['java', 'metrics']",Metrics 2.0.1,509
+214,git-repo-go-doc,3,0,36,"['git-repo', 'agit-flow']",,11
+215,git-repo-go,8,0,463,"['git-repo', 'agit-flow']",git-repo 0.7.8,177
+216,jbang-catalog,1,0,9,"['jbang', 'jbang-appstore', 'jbang-catalog']",,6
+217,keentune,1,0,1,[],,5
+218,easy-retry,2,0,75,[],,95
+219,ansible-provider-docs,1,4,62,[],,31
+220,BizGoblin,5,1,60,[],,129
+221,cluster-contrast-reid,1,2,12,[],,160
+222,Retrieval-based-Pre-training-for-Machine-Reading-Comprehension,1,1,2,[],,9
+223,acm-sdk-python,1,4,49,[],,54
+224,youku-sdk-tool-woodpecker,2,0,109,"['ios', 'ui-design', 'performance', 'ui', 'tools', 'objective-c', 'po', 'ui-testing', 'performance-testing', 'pick-view', 'method-listen-in']",,737
+225,anyproxy,22,26,493,[],,7459
+226,OS-hardware-compatibility-test,0,0,0,[],,3
+227,session-compatible-fast-serializer,1,0,2,"['serializer', 'kryo']",v1.0.0,9
+228,system-register-tools,1,0,5,[],,16
+229,web-editor,4,0,123,"['editor', 'web', 'atx']",0.4.2,807
+230,FeatureGenerator,1,0,4,[],,20
+231,bindingx,14,11,460,"['android', 'ios', 'design', 'ui', 'react-native', 'interactive', 'weex']",,1228
+232,deep-multi-representational-item-network,1,0,1,[],,5
+233,bytekit,1,0,58,[],,272
+234,multiple-cameras-and-3D-LiDARs-extrinsic-calibration,2,0,43,[],,62
+235,text-ui,1,0,32,[],,39
+236,UniFuse-Unidirectional-Fusion,1,1,7,[],,40
+237,jstorm,11,22,333,[],Release 2.4.0,3941
+238,asyncload,1,1,23,[],,667
+239,AliSQL,1,1,"98,264","['mysql', 'database', 'tokudb', 'alisql']",AliSQL 5.6.32 (2018-05-01),4541
+240,StateManager,2,0,5,"['android', 'exception', 'loading']",,164
+241,virtualview_tools,3,0,110,"['tangram', 'virtualview']",virtualview_tools 1.0.10,185
+242,UltraViewPager,4,2,87,"['android', 'viewpager', 'tangram', 'multi-page-switching']",Release 1.0.7.8,5020
+243,Virtualview-Android,21,1,283,"['android', 'tangram', 'virtualview']",VirtualView-Android 1.4.6,1435
+244,Tangram-Android,22,0,361,"['android', 'card', 'tangram', 'vlayout', 'ultraviewpager', 'native-dynamic', 'native-page', 'modular-ui-solution']",Tangram-Android 3.3.6,4078
+245,vlayout,12,4,366,"['android', 'layout', 'tangram', 'layoutmanager', 'recyclerview-multi-type', 'layout-manager']",vlayout 1.2.36,10832
+246,cascade-stereo,1,0,14,[],,339
+247,sparse-computation-using-TCM-and-gather-scatter-engine,2,0,1,[],,2
+248,Dynamic-popularity-aware-recommendation,1,0,5,"['deep-learning', 'personalization', 'recommender-system', 'contrastive-learning']",,7
+249,cooma,3,0,149,[],,179
+250,tgin,1,0,3,[],,18
+251,oceanbase,1,0,5,[],,242
+252,Tangram-iOS,3,5,68,"['ios', 'scrollview', 'tangram', 'lazyscrollview', 'native-dynamic', 'modular-ui-solution']",2.1.1,1825
+253,flutter-go,18,3,754,"['dart', 'flutter', 'flutter-demo', 'flutter-doc']",,23143
+254,cost-based-incremental-optimizer,1,0,11,[],,14
+255,ApsaraCache,3,6,"6,409",[],,936
+256,weex_js_engine,4,1,15,[],,251
+257,hessian2-codec,2,0,14,"['serializer', 'dubbo', 'envoy', 'hessian2']",,15
+258,protokit,1,0,19,[],,11
+259,tengine-website-generator,2,0,110,[],,15
+260,sentinel-nodejs,1,0,3,[],,17
+261,structure-view,1,1,48,"['atom', 'navigation', 'ctags', 'symbols', 'atom-package', 'outline', 'taglist', 'tree-view', 'structure-viewer', 'tagbar']",v0.2.0,32
+262,PelicanDT,1,0,46,[],,81
+263,VirtualView-iOS,2,2,185,"['ios', 'tangram', 'dynamic-component', 'virtualview']",1.2.3,491
+264,data-design,0,0,0,[],,4
+265,native-finder,1,0,4,[],,3
+266,rax-map,13,4,51,[],,103
+267,terraform-provider,4,4,975,[],terraform-provider-V1.20.0,382
+268,nginx-http-concat,1,7,30,[],,833
+269,acm-sdk-php,1,2,13,[],,35
+270,entrypoint-wrapper-webpack-plugin,5,0,21,[],,7
+271,vector-accelerating-unit,1,0,2,[],,12
+272,AndFix,2,2,51,"['android', 'hotfix']",,6941
+273,formily-editor,2,1,31,[],,152
+274,GPU-scheduler-for-deep-learning,1,0,17,[],,131
+275,bigcomputing,1,0,2,[],,27
+276,disclosure,1,0,3,[],,1
+277,spring-boot-support,1,0,5,"['java', 'spring-boot', 'spring-boot-starter']",,20
+278,cli,1,0,25,[],,51
+279,tengine-website,2,3,322,[],,74
+280,alibaba.github.com,1,4,11,[],,243
+281,AliOS-Things-Linux-Edition,4,1,87,[],AliOS Things Linux Edition v1.3.0 Release Note,103
+282,cri-tools,9,1,615,[],,4
+283,switch-config,1,0,2,[],,16
+284,BeeHive,10,3,299,"['plugin', 'ios', 'modular', 'module', 'service', 'service-discovery', 'lifecycle-events', 'beehive', 'service-registration', 'lifecycle', 'registered-services']",update version for fix bugs,4192
+285,GGEditor,2,7,405,"['react', 'editor', 'tree', 'graphics', 'mind']",,3303
+286,terraform-provider-docs,1,0,277,[],,13
+287,OpenSourceReport,1,0,3,[],,23
+288,scalable-form-platform,6,0,32,"['react', 'javascript', 'json', 'node', 'ui', 'web', 'json-schema', 'solution', 'form', 'ui-components', 'ant-design', 'ant-design-mobile']",,109
+289,module-federation4,4,2,12,[],,52
+290,plover,1,0,489,"['nodejs', 'koa', 'webframework']",,261
+291,genie-bt-mesh-stack,1,0,35,[],,88
+292,xcache,1,0,10,[],Fully test version at alibaba,57
+293,nginx-admin-plus,1,0,488,[],,81
+294,freeline,3,5,411,[],0.8.8,5490
+295,stream-editor,1,0,1,[],,1
+296,tmallgenie-miniapp-api-demo,1,0,8,[],,8
+297,ossfs,1,0,30,[],,50
+298,LazyScrollView,2,0,55,"['ios', 'scrollview', 'tangram', 'lazyscrollview', 'reusability']",1.0.1,1770
+299,velocity-spring-boot-project,1,0,14,"['spring-boot', 'velocity', 'spring-boot-starter', 'spring-mvc', 'alibaba', 'velocity-template-engine', 'velocity-spring-boot']",1.0.4.RELEASE,294
+300,packer-provider,2,1,109,[],packer-provider-V1.4.2,93
+301,iot_remote_access,2,0,59,"['ssh-agent', 'remote-access', 'aliyun', 'alibaba', 'remote-debug']",Release_2.1,125
+302,vanex,2,0,56,[],,69
+303,nls-dialog-sdk,2,0,2,[],,8
+304,nls-dialog-toolkit,2,0,2,[],,5
+305,tair,1,1,289,[],v3.2.4,1945
+306,Lokie,1,0,2,"['c', 'ios', 'cpp', 'efficient', 'aop', 'oc']",,138
+307,JsonLube,1,0,12,['android'],,192
+308,gpdb,28,0,"51,815",[],,7
+309,esim-response-selection,1,0,5,[],,576
+310,dla-connector-for-tableau,1,0,6,[],,6
+311,ocicni,2,0,61,[],,4
+312,dimbin,1,0,23,"['serialization', 'data', 'typescript', 'csharp', 'binary']",v0.3.9,64
+313,lattice,1,0,1,[],,12
+314,LVS,3,4,9,[],,1886
+315,tinkerpop-gremlin-doc,1,0,7,[],,9
+316,sionnx,2,0,13,[],,33
+317,kubernetes,37,0,"79,308","['docker', 'kubernetes', 'container', 'aliyun', 'alibaba', 'alibabacloud']",,22
+318,BigDL,12,0,"2,492",[],,55
+319,Tao-reviewboard,1,0,3,[],release1.0.0,11
+320,graph-learn1,0,0,0,[],,33
+321,nginx-http-user-agent,1,0,9,[],,162
+322,containerd,4,2,"4,633",[],,18
+323,wax,5,2,561,[],switch to invocation,1838
+324,G3D,4,0,283,"['webgl', 'react-native', 'hybrid', 'weex', '3d', 'g3d', 'gcanvas']",,1009
+325,community,1,0,11,[],,3
+326,pipelines,82,0,578,[],,7
+327,rpc-benchmark,3,0,23,[],,34
+328,sca-best-practice,1,1,12,"['microservice', 'spring-cloud', 'best-practice', 'spring-cloud-alibaba']",,512
+329,fabric-interop,1,0,10,[],,2
+330,fabric-samples,8,0,277,[],,5
+331,fabric,11,0,"8,977",[],,5
+332,cloudtoolkit,1,0,3,[],,5
+333,cobar,2,0,65,[],从code.alibabatech.com迁移过来的版本,3157
+334,runc,5,0,"3,794",[],v1.0.0-rc6-1,9
+335,alios-libreoffice,1,0,1,[],,8
+336,packer-provider-docs,1,0,7,[],,4
+337,arthas-online,1,0,4,[],,12
+338,nquery,2,0,21,[],,360
+339,AliOpen,1,0,7,[],,65
+340,snipx,1,0,12,[],,7
+341,alpha,1,1,14,['android'],,1791
+342,fluentable,1,0,2,[],,17
+343,redissto,1,0,1,[],,2
+344,libnetwork,14,0,"2,586",[],,5
+345,nls-dialog-demo,1,0,1,[],,5
+346,nlu-plus-common,1,0,2,[],,5
+347,TProfiler,2,1,58,[],,2325
+348,jsni,5,0,21,[],,34
+349,diancai-tiny-app-demo,1,0,2,[],,32
+350,device-app-access-examples,1,0,1,[],,3
+351,tsmock,2,0,4,[],,15
+352,weex-richtext,1,0,4,[],,6
+353,patchjs,1,0,23,[],,23
+354,spring-webmvc-support,2,0,9,"['java', 'spring', 'spring-web', 'alibaba', 'spring-web-mvc']",,37
+355,Alibaba-MIT-Speech,1,0,8,[],,910
+356,spring-boot-web-support,1,0,4,"['java', 'spring', 'spring-boot', 'spring-web', 'spring-web-mvc']",,39
+357,dubbo-spring-boot-starter,1,1,34,"['spring-boot', 'dubbo']",,2104
+358,ListItem,1,0,9,[],,69
+359,tac,2,0,25,"['micro-service', 'tangram', 'tac']",,273

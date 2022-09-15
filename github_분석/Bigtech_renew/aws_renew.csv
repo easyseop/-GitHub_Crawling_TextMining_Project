@@ -1,0 +1,345 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,aws-parallelcluster,36,25,"4,213",[],AWS ParallelCluster v3.2.0,705
+1,eks-anywhere,11,26,"1,845","['docker', 'kubernetes', 'aws', 'vmware', 'kubernetes-cluster', 'k8s', 'baremetal', 'kubernetes-deployment', 'baremetal-provisioning', 'eks', 'tinkerbell']",v0.11.1,1620
+2,eks-distro-build-tooling,5,3,484,"['aws', 'kubernetes-deployment', 'eks']",,51
+3,aws-prototyping-sdk,4,2,251,[],v0.7.5,34
+4,aws-cdk,68,62,"10,065","['aws', 'typescript', 'cloud-infrastructure', 'infrastructure-as-code']",v2.39.0,9113
+5,aws-sdk-pandas,13,7,"1,594","['mysql', 'python', 'emr', 'aws', 'data-science', 'lambda', 'aws-lambda', 'athena', 'etl', 'pandas', 'data-engineering', 'redshift', 'apache-parquet', 'amazon-athena', 'apache-arrow', 'aws-glue', 'glue-catalog', 'amazon-sagemaker-notebook']",2.16.1,3040
+6,homebrew-tap,25,1,"1,084",[],,83
+7,aws-sam-cli,49,12,"1,628","['python', 'docker', 'aws', 'lambda', 'serverless', 'api-gateway', 'sam', 'serverlessapplicationmodel']",Release 1.55.0 - Bump SamTranslator version (Consumer Group ID for MSK and self hosted Kafka event type),6062
+8,aws-dynamodb-encryption-python,9,6,398,[],3.1.0 -- 2021-11-10,82
+9,karpenter,8,15,"1,372",[],v0.16.0,3194
+10,codeartifact-origin-control-toolkit,1,1,6,[],,3
+11,sagemaker-spark,2,1,124,"['python', 'aws', 'machine-learning', 'scala', 'spark', 'sagemaker', 'amazon-sagemaker']",v1.4.4,263
+12,s2n-tls,16,30,"4,062","['c', 'tls', 'ssl', 'cryptography', 'crypto', 'encryption', 'c99', 's2n']",Release: v1.3.20,4163
+13,porting-assistant-dotnet-ui,63,46,130,"['aws', 'dotnet', 'dotnet-core']",,57
+14,aws-lambda-dotnet,72,23,"1,730","['aws', 'aws-lambda', 'serverless', 'aws-apigateway', 'netcore']",,1247
+15,aws-sdk-js-v3,12,53,"2,956","['nodejs', 'javascript', 'lambda', 'typescript', 'aws-sdk', 'dynamodb', 's3', 'sns', 'aws-sdk-js']",v3.158.0,1810
+16,aws-encryption-sdk-java,17,11,342,[],AWS Encryption SDK 2.4.0 Release -- 2022-03-09,191
+17,sagemaker-pytorch-training-toolkit,2,5,250,"['docker', 'aws', 'pytorch', 'sagemaker']",v2.6.1,151
+18,aws-encryption-sdk-javascript,13,16,390,[],,155
+19,aws-encryption-sdk-python,12,12,495,[],2.5.0 -- 2022-06-21,189
+20,eks-anywhere-build-tooling,9,8,948,"['aws', 'ci-cd', 'kubernetes-deployment', 'eks']",,25
+21,eks-anywhere-prow-jobs,9,1,184,"['kubernetes', 'cicd', 'prow', 'eks']",,14
+22,aws-encryption-sdk-c,9,3,742,[],v1.9.1 -- 2021-10-20,52
+23,aws-encryption-sdk-cli,12,11,391,[],4.1.0 -- 2021-11-11,67
+24,s2n-quic,27,11,935,"['rust', 'cryptography', 'quic', 's2n']",Release: v1.9.0,700
+25,aws-toolkit-common,5,2,451,[],,8
+26,aws-for-fluent-bit,7,7,297,[],AWS for Fluent Bit 2.28.0,301
+27,graph-notebook,21,9,269,"['jupyter', 'graph', 'sparql', 'rdf', 'neptune', 'jupyter-notebook', 'apache', 'gremlin', 'tinkerpop', 'cypher', 'opencypher', 'jupyter-widgets']",Release 3.5.3,447
+28,aws-sdk-java-v2,234,38,"9,601","['java', 'aws', 'amazon', 'aws-sdk']",,1521
+29,aws-lambda-go,1,8,303,[],v1.34.1,3079
+30,aws-glue-databrew-jupyter-extension,1,0,76,[],v1.0.5,20
+31,constructs,2,0,"1,170",[],v10.1.87,253
+32,constructs-go,1,0,588,[],constructs/v3.3.1,8
+33,aws-sdk-go-v2,2,9,"1,744","['go', 'golang', 'aws', 'aws-sdk']",Release (2022-08-25),1568
+34,aws-toolkit-jetbrains,45,20,"3,463","['aws', 'aws-lambda', 'jetbrains', 'sam', 'hacktoberfest', 'jetbrains-ides']",1.50,610
+35,amazon-chime-sdk-android,30,1,386,[],v0.17.6,84
+36,copilot-cli,4,6,"2,829","['devops', 'containers', 'developer-tools', 'infrastructure-as-code', 'aws-ecs', 'aws-fargate', 'cd-pipelines', 'aws-fargate-application', 'modern-applications', 'aws-apprunner']",copilot-cli: Release v1.21.0,2384
+37,jsii,20,7,"2,720","['aws', 'node', 'typescript', 'cross-language']",v1.65.0,2035
+38,smithy-go,3,4,932,"['golang', 'smithy']",Release (v1.12.1),74
+39,aws-sdk-js,1,23,"5,389","['javascript', 'aws', 'aws-sdk']",Release v2.1203.0,7124
+40,amazon-chime-sdk-ios,26,1,442,[],v0.22.2,112
+41,aws-cdk-go,1,0,173,"['go', 'aws', 'infrastructure-as-code', 'aws-cdk']",,117
+42,deep-learning-containers,56,138,"1,498","['docker', 'aws', 'mxnet', 'tensorflow', 'pytorch', 'sagemaker', 'tensorflow2']",v2.1-pt-1.10.2-inf-neuron-sdk1.19.0-py37,497
+43,aws-cli,21,128,"10,513","['aws', 'cloud', 'aws-cli', 'cloud-management']",,12791
+44,amazon-ssm-document-language-service,3,1,42,[],,6
+45,sagemaker-spark-container,16,10,30,[],3.1-cpu-py37-v1.2,22
+46,iot-expresslink,8,4,33,[],,12
+47,aws-rfdk,11,9,423,"['aws', 'cloud-infrastructure', 'infrastructure-as-code', 'cdk']",v0.42.0,82
+48,aws-tools-for-powershell,8,1,323,[],,186
+49,amazon-ecs-agent,65,13,"3,825","['go', 'docker-container', 'amazon-ec2', 'amazon-ecs-agent', 'amazon-linux-ami']",Amazon ECS Agent - v1.62.2,1911
+50,amazon-braket-default-simulator-python,4,1,143,['amazon-braket'],v1.7.2.post0,29
+51,aws-parallelcluster-node,16,4,666,[],AWS ParallelCluster v3.2.0,48
+52,amazon-neptune-jdbc-driver,17,12,690,"['java', 'sql', 'graph', 'amazon', 'sparql', 'jdbc', 'neptune', 'gremlin', 'graphdb', 'apache2', 'tableau', 'tableau-connector', 'opencypher', 'apache2-license', 'bi-tools', 'graph-bi-tools']",v1.1.0,14
+53,eks-distro,10,6,"1,080","['kubernetes', 'aws', 'eks']",EKS Distro v1.23-4 Release,1158
+54,amazon-vpc-cni-k8s,48,20,"1,128","['kubernetes', 'cni-plugin', 'pod-networking']",v1.11.3 release,1907
+55,sagemaker-xgboost-container,16,11,136,[],1.5-1,90
+56,aws-sdk-rails,4,2,162,[],Release v3.6.2 - 2022-06-16,503
+57,aws-iot-device-sdk-cpp-v2,30,3,207,['hacktoberfest'],CRT update for fix for dlopen usage from Mac,121
+58,Jobs-for-AWS-IoT-embedded-sdk,2,0,75,[],v1.2.0,10
+59,amazon-braket-examples,7,11,392,[],,246
+60,aws-sdk-java,30,33,"3,458","['java', 'aws', 'amazon', 'aws-sdk']",,3811
+61,aws-sdk-net,19,20,"10,219",[],,1816
+62,amazon-sagemaker-examples,160,123,"2,464","['training', 'aws', 'data-science', 'machine-learning', 'reinforcement-learning', 'deep-learning', 'examples', 'jupyter-notebook', 'inference', 'sagemaker', 'mlops']",Examples checkpoint prior to website launch,7281
+63,telegraf,62,9,"6,315",[],Release gopsutil upgrade,7
+64,aws-toolkit-vscode,82,36,"2,894","['aws', 'lambda', 'cloudformation', 'aws-lambda', 'serverless', 'amazon', 's3', 'vscode', 'vscode-extension', 'cdk']",1.48.0,969
+65,aws-sdk-ruby,5,3,"6,685","['ruby', 'aws', 'cloud', 'aws-sdk']",Release v2.11.632 - 2020-11-20,3379
+66,amazon-vpc-resource-controller-k8s,7,2,186,[],v1.1.3,47
+67,aws-sdk-cpp,17,21,"3,518","['aws', 'cross-platform', 'cpp']",,1541
+68,aws-sdk-go,2,18,"4,827","['go', 'aws', 'aws-sdk']",Release v1.44.85,7835
+69,aws-dotnet-deploy,34,3,704,[],Release 1.2.4,101
+70,aws-toolkit-visual-studio,1,0,48,[],1.27.0.0,65
+71,aws-sdk-php,4,13,"6,395",[],Version 3.234.3,5627
+72,amazon-braket-schemas-python,5,1,170,[],v1.10.2,34
+73,amazon-braket-sdk-python,16,6,543,"['python', 'quantum', 'quantum-computing', 'amazon-web-services', 'amazon-braket']",v1.29.2,190
+74,amazon-ecs-init,18,3,587,[],Amazon ECS Init - v1.62.2-1,185
+75,amazon-genomics-cli,27,6,385,"['aws', 'genomics']",v1.5.0,110
+76,eks-anywhere-packages,3,5,300,[],v0.11.0,13
+77,sagemaker-python-sdk,10,45,"2,643","['python', 'aws', 'machine-learning', 'mxnet', 'tensorflow', 'pytorch', 'sagemaker', 'huggingface']",v2.106.0,1684
+78,public-suffix-list,7,0,1,[],,1
+79,aws-parallelcluster-cookbook,22,12,"1,728",[],AWS ParallelCluster v3.2.0,86
+80,amazon-cloudwatch-agent,11,13,465,[],v1.247354.0,289
+81,eks-charts,11,55,591,[],v0.0.102,837
+82,sagemaker-scikit-learn-container,8,6,130,[],1.0-1,112
+83,amazon-ssm-agent,3,16,"2,432",[],Amazon SSM Agent - Release 3.1.1732.0 - 2022-08-15,884
+84,aws-nitro-enclaves-cli,2,6,478,"['nitro', 'enclave', 'nitro-enclaves']",v1.2.0,73
+85,aws-mwaa-local-runner,10,16,17,[],Amazon MWAA - Local Runner 2.0.2,302
+86,aws-nitro-enclaves-acm,2,0,56,"['nitro', 'enclave', 'pkcs', 'nitro-enclave']",,45
+87,eks-distro-prow-jobs,1,1,377,"['aws', 'kubernetes-deployment', 'prow', 'eks']",,16
+88,codelyzer,29,6,513,"['roslyn', 'code', 'analyzer', 'antlr4', 'source-code']",,51
+89,amazon-ecs-ami,28,2,65,[],,93
+90,SigV4-for-AWS-IoT-embedded-sdk,2,1,57,[],v1.1.0,2
+91,porting-assistant-dotnet-datastore,42,2,311,"['aws', 'csharp', 'porting', 'csharp-core']",,51
+92,Fleet-Provisioning-for-AWS-IoT-embedded-sdk,2,1,23,[],v1.0.1,4
+93,sagemaker-tensorflow-serving-container,2,3,247,[],v1.8.4,144
+94,aws-elastic-beanstalk-cli,2,8,"1,255","['aws', 'elasticbeanstalk', 'beanstalk', 'awsebcli']",,120
+95,aws-node-termination-handler,2,0,437,"['kubernetes', 'golang', 'spot-instances', 'aws-ec2', 'eks', 'maintenance-events']",v1.17.1,1259
+96,serverless-application-model,22,8,886,"['aws', 'lambda', 'serverless', 'sam', 'serverless-applications', 'aws-sam', 'serverless-application-model', 'sam-specification']",SAM v1.50.0 Release,8697
+97,aws-ofi-nccl,2,3,118,[],[aws] AWS OFI NCCL v1.4.0,53
+98,ota-for-aws-iot-embedded-sdk,12,3,390,[],v3.3.0,29
+99,aws-cloud-map-mcs-controller-for-k8s,5,5,126,"['kubernetes', 'golang', 'aws', 'k8s', 'kubernetes-controller', 'k8s-controller', 'multicluster', 'aws-cloudmap']",v0.2.3,61
+100,amazon-chime-sdk-cpp,2,1,4,[],,3
+101,chalice,10,55,"2,352","['python', 'aws', 'lambda', 'cloud', 'aws-lambda', 'serverless', 'aws-apigateway', 'python3', 'serverless-framework', 'python27']",,9151
+102,aws-sdk-js-crypto-helpers,15,12,175,[],,37
+103,aws-secretsmanager-jdbc,5,10,51,[],1.0.8,113
+104,aws-iot-fleetwise-edge,1,0,5,[],Release v0.1.3,17
+105,sagemaker-training-toolkit,1,6,382,"['python', 'training', 'docker', 'aws', 'machine-learning', 'deep-learning', 'sagemaker']",v4.2.6,300
+106,amazon-kinesis-streams-for-fluent-bit,7,7,249,[],Amazon Kinesis Streams for Fluent Bit for Fluent Bit 1.10.0,50
+107,aws-graviton-getting-started,4,4,364,"['arm', 'graviton2', 'graviton3']",,530
+108,porting-assistant-dotnet-client,67,43,375,"['aws', 'csharp', 'analyzer', 'dotnet-core']",v2.3,130
+109,amazon-chime-sdk-js,58,5,"1,276",[],Release amazon-chime-sdk-3.7.0,589
+110,random-cut-forest-by-aws,7,1,147,"['streaming', 'algorithms', 'anomalydetection']",3.0.0-java,149
+111,aws-lambda-builders,16,3,289,[],aws-lambda-builders v1.18.0 release,269
+112,amazon-chime-sdk-component-library-react,19,5,545,[],Release amazon-chime-sdk-component-library-react@3.2.0,216
+113,aws-app-mesh-examples,8,6,443,"['aws', 'service-mesh', 'app-mesh']",,772
+114,aws-nitro-enclaves-sdk-c,2,2,136,"['nitro', 'enclave', 'nitro-enclaves']",v0.2.1,47
+115,aws-lambda-base-images,22,0,4,[],,319
+116,aws-secretsmanager-caching-go,1,4,17,[],v1.1.0: Initial public release,45
+117,aws-cdk-rfcs,20,20,267,"['aws', 'cloud-infrastructure', 'infrastructure-as-code', 'rfc-process', 'cdk', 'rfcs']",,403
+118,aws-codebuild-docker-images,4,4,226,"['dockerfile', 'aws', 'aws-codebuild', 'codebuild']",Release Standard (6.0) and Amazon Linux (4.0) images,911
+119,aws-xray-sdk-node,3,5,369,[],Release 3.3.7,228
+120,aws-xray-sdk-java,3,2,276,[],Release v2.11.2,82
+121,aws-secretsmanager-caching-net,7,6,49,[],v1.0.4,42
+122,aws-php-sns-message-validator,1,4,66,[],Version 1.8.0,186
+123,amazon-documentdb-jdbc-driver,19,5,437,"['aws', 'sql', 'database', 'jdbc', 'documentdb', 'documentdb-jdbc']",Amazon DocumentDB JDBC Driver v1.3.1,7
+124,amazon-cloudwatch-logs-for-fluent-bit,7,6,299,[],Amazon CloudWatch Logs for Fluent Bit 1.9.0,140
+125,libfabric,30,0,"13,501",[],AWS Libfabric Release 1.15.1amzn1.0,23
+126,aws-secretsmanager-caching-java,3,4,25,[],aws-secretsmanager-caching-java 1.0.2 Release,47
+127,aws-dynamodb-encryption-java,14,11,314,[],DynamoDB Encryption Client Java - Release 1.15.2,131
+128,sagemaker-inference-toolkit,4,4,130,"['python', 'docker', 'aws', 'machine-learning', 'deep-learning', 'inference', 'sagemaker']",v1.7.0,223
+129,secrets-store-csi-driver-provider-aws,6,11,54,[],,240
+130,aws-northstar,7,6,537,"['ui', 'design-system', 'aws-northstar']",v1.3.18,180
+131,aws-lambda-java-libs,3,4,199,[],,427
+132,amazon-ivs-react-native-player,5,2,189,"['react-native', 'amazon-ivs']",,43
+133,amazon-kinesis-firehose-for-fluent-bit,5,3,193,[],Amazon Kinesis Data Firehose for Fluent Bit 1.7.0,66
+134,aws-sam-cli-app-templates,12,0,217,[],,260
+135,amazon-redshift-jdbc-driver,2,3,166,[],v2.1.0.9,34
+136,Device-Shadow-for-AWS-IoT-embedded-sdk,2,0,162,[],v1.2.0,18
+137,Device-Defender-for-AWS-IoT-embedded-sdk,2,1,65,[],v1.2.0,6
+138,aws-js-sns-message-validator,1,5,28,[],v0.3.5,63
+139,aws-eks-best-practices,2,5,943,[],,1045
+140,eks-news,3,0,84,"['kubernetes', 'aws', 'kubernetes-cluster', 'kubernetes-setup', 'kubernetes-deployment', 'eks', 'eksctl', 'eks-cluster']",,22
+141,porting-assistant-dotnet-visual-studio-ide-extension,48,3,100,[],,22
+142,amazon-connect-wisdomjs,2,0,18,[],V.1.1.0,1
+143,amazon-sagemaker-operator-for-k8s,31,3,154,"['golang', 'aws', 'kubernetes-operator', 'sagemaker', 'kubebuilder']",v1.2.1,144
+144,aws-sam-cli-pipeline-init-templates,6,1,43,[],,18
+145,aws-app-mesh-controller-for-k8s,6,5,297,[],v1.6.0,164
+146,aws-sagemaker-edge-quick-device-setup,3,1,24,[],New device configuration options,6
+147,aws-ec2-instance-connect-config,1,4,26,[],ec2-instance-connect 1.1.17,67
+148,aws-extensions-for-dotnet-cli,7,3,411,"['aws-lambda', 'aws-ecs', 'aws-elastic-beanstalk']",,317
+149,aws-iot-device-sdk-java,12,0,112,[],Dependency update,195
+150,amazon-freertos,52,4,"4,492",[],Version 202203.00,2510
+151,jsii-runtime-go,1,0,97,"['go', 'golang', 'jsii']",,17
+152,aws-iot-device-sdk-python,10,0,115,[],Setup Release Pipeline,630
+153,aws-iot-device-sdk-js-v2,6,0,142,['hacktoberfest'],CRT update,139
+154,aws-sdk-net-extensions-cognito,10,3,101,"['aws', 'amazon', 'srp', 'aws-cognito', 'amazon-cognito', 'cognito-identity-pool', 'cognito-user-pool']",,81
+155,aws-xray-sdk-go,4,6,289,"['go', 'aws', 'aws-xray']",v1.7.0,257
+156,aws-lambda-python-runtime-interface-client,3,4,67,[],AWS Lambda Runtime Interface Client for Python v2.0.0,158
+157,homebrew-aws,1,2,34,"['macos', 'homebrew', 'aws', 'ec2']",,49
+158,aws-lambda-runtime-interface-emulator,2,5,21,[],Release 1.7,553
+159,ec2-macos-init,1,1,33,"['macos', 'aws', 'ec2', 'cloud-computing']",,102
+160,lumberyard,21,196,47,"['game-engine', 'game-development', 'game-engine-3d', 'game-dev']",,1876
+161,amazon-ec2-instance-selector,2,0,127,"['aws', 'ec2', 'aws-ec2', 'ec2-instance', 'ec2-spot']",v2.4.0,468
+162,aws-jupyter-proxy,3,0,58,[],v0.3.1: Patch release,14
+163,aws-iot-device-sdk-python-v2,9,1,177,['hacktoberfest'],Release fix for v1.11.4,259
+164,aws-sam-build-images,6,0,45,"['sam', 'container-image', 'aws-sam-cli']",,22
+165,aws-iot-device-sdk-java-v2,21,1,188,['hacktoberfest'],CRT update for fix for dlopen usage from Mac,68
+166,aws-neuron-sdk,4,2,722,[],"Neuron SDK Release - August 02, 2022",243
+167,aws-appsync-community,1,2,46,"['graphql', 'community', 'aws', 'realtime', 'appsync']",,450
+168,aws-glue-studio-notebook-jupyter-extension,3,0,26,[],,2
+169,cta,100,68,"1,111","['roslyn', 'netcore', 'source-code', 'refactor']",,31
+170,aws-xray-sdk-dotnet,4,7,173,[],Release 2.11.1,98
+171,aws-cdi-sdk,3,1,60,[],AWS CDI-SDK Release v2.4.0,41
+172,aws-k8s-tester,6,5,"3,256",[],v1.6.6,137
+173,efs-utils,1,4,88,[],,207
+174,aws-iot-device-sdk-js,8,1,79,[],Dependency Update,934
+175,aws-lambda-ruby-runtime-interface-client,2,0,33,[],AWS Lambda Runtime Interface Client for Ruby v2.0.0,39
+176,aws-xray-daemon,2,1,142,[],AWS X-Ray daemon update v3.3.3,169
+177,sagemaker-pytorch-inference-toolkit,4,9,146,[],v2.0.10,80
+178,amazon-sagemaker-clarify,3,0,130,"['machine-learning', 'fairness', 'fairness-ai', 'fairness-ml']",Version 0.2,50
+179,amazon-ec2-metadata-mock,1,0,163,"['aws-ec2', 'ec2-instance-metadata', 'hacktoberfest', 'spot-interruption-mock', 'scheduled-events-mock', 'ec2-instance-metadata-mock']",v1.11.2,187
+180,sagemaker-experiments,1,2,133,[],Sagemaker Experiment SDK v0.1.38,96
+181,aws-nitro-enclaves-nsm-api,1,1,36,"['nitro', 'enclaves', 'nitro-enclaves']",v0.2.1,32
+182,amazon-neptune-csv-to-rdf-converter,1,2,13,"['sparql', 'rdf', 'gremlin', 'property-graph', 'amazon-neptune']",,25
+183,aws-connected-device-framework,3,6,631,[],1.0.15,44
+184,etcdadm-controller,3,0,111,[],,1
+185,etcdadm-bootstrap-provider,3,0,90,[],,0
+186,aws-xray-sdk-python,3,0,310,[],2.10.0 Release,281
+187,aws-sdk-php-symfony,4,6,108,[],Version 2.5.0,329
+188,amazon-braket-containers,11,1,38,[],,3
+189,amazon-ecs-shim-loggers-for-containerd,1,1,49,"['golang', 'containers', 'containerd', 'fargate']",,33
+190,aws-encryption-sdk-dafny,6,2,470,[],3.0.0 -- 2022-05-17,18
+191,aws-toolkit-azure-devops,20,2,452,"['cloudformation', 'amazon', 'codedeploy', 'azure-devops']",1.13.0,199
+192,dcv-gnome-shell-extension,5,0,23,"['dcv', 'gnome-shell-extension']",dcv-gnome-shell-extension v42.2,4
+193,aws-iot-device-sdk-embedded-C,3,5,"1,167",['aws'],202108.00,844
+194,autopkg-recipes,1,0,8,"['autopkg', 'autopkg-recipes']",,5
+195,aws-cloudtrail-processing-library,2,1,34,[],Version 1.5.1 of the AWS CloudTrail Processing Library,75
+196,aws-dax-go,1,1,41,"['dynamodb', 'dax', 'aws-dax-sdk']",,38
+197,studio-lab-examples,1,6,148,"['training', 'aws', 'machine-learning', 'deep-learning', 'deploy', 'inference', 'sagemaker', 'huggingface', 'amazon-sagemaker-lab', 'sagemaker-studio-lab']",,269
+198,aws-health-tools,1,2,222,[],,842
+199,dotnet,4,0,67,"['aws', 'dotnet', 'sdk-dotnet']",,401
+200,aws-step-functions-data-science-sdk-python,7,6,154,"['python', 'aws', 'machine-learning', 'stepfunctions']",v2.3.0,228
+201,amazon-redshift-python-driver,1,0,268,"['data-science', 'data-analysis', 'amazon-redshift', 'aws-redshift']",v2.0.908,149
+202,amazon-vpc-cni-plugins,2,0,133,"['aws', 'containers', 'amazon-ecs', 'cni-plugin', 'amazon-eks']",,44
+203,amazon-ec2-spot-interrupter,2,0,30,"['ec2', 'chaos', 'fault-injection', 'spot']",v0.0.8,50
+204,aws-dotnet-extensions-configuration,6,0,159,[],,140
+205,aws-ops-wheel,4,0,78,[],,289
+206,awsui-documentation,3,0,25,[],,192
+207,amazon-ecs-cni-plugins,4,0,248,['cni-plugin'],,83
+208,amazon-braket-pennylane-plugin-python,4,0,293,['amazon-braket'],v1.6.9,31
+209,amazon-ec2-hibinit-agent,3,2,25,[],Ensure we swapon the hibinit swapfile with the highest priority,8
+210,amazon-redshift-odbc-driver,1,0,9,[],,7
+211,aws-fpga,8,1,294,[],Migration between F1 and U200 in vivado flow is now supported,1259
+212,amazon-neptune-gremlin-java-sigv4,9,0,64,"['java', 'aws-neptune', 'amazon-neptune']",Amazon Neptune Gremlin Java Sigv4 v2.4.0,23
+213,sagemaker-tensorflow-extensions,10,11,167,[],v1.15.0,46
+214,aws-aspnet-cognito-identity-provider,8,2,118,"['cognito', 'asp-net-core', 'asp-net-identity', 'cognito-user-pool', 'cognito-identity']",,153
+215,aws-swf-flow-library,3,4,18,[],,56
+216,aws-panorama-cli,2,0,11,[],,6
+217,amazon-braket-strawberryfields-plugin-python,2,0,8,[],v1.0.1,5
+218,amazon-braket-ocean-plugin-python,3,1,104,['amazon-braket'],v1.0.11,15
+219,aws-lambda-nodejs-runtime-interface-client,2,5,18,[],AWS Lambda Runtime Interface Client for NodeJS v2.0.0,110
+220,amazon-ecs-logs-collector,5,1,101,[],,162
+221,aws-msk-iam-auth,3,1,103,[],1.1.4,62
+222,aws-sdk-php-v3-bridge,2,2,23,[],,8
+223,aws-codeguru-cli,1,0,96,"['aws', 'static-analysis']",0.2.1,13
+224,sagemaker-tensorflow-training-toolkit,6,1,225,"['docker', 'aws', 'tensorflow', 'sagemaker']",v20.4.0,245
+225,lightsailctl,1,0,23,[],v1.0.4,13
+226,amazon-eks-pod-identity-webhook,1,11,107,[],v0.4.0,438
+227,aws-logging-dotnet,11,1,282,[],,250
+228,aws-codedeploy-agent,4,17,374,[],AWS CodeDeploy agent version 1.3.2,292
+229,Trusted-Advisor-Tools,1,1,133,[],,222
+230,aws-emr-containers-best-practices,2,0,73,[],,32
+231,amazon-ecs-cli,7,5,976,[],amazon-ecs-cli: Release v1.21.0,1637
+232,aws-xray-sdk-ruby,1,0,84,[],Release 0.13.0,53
+233,dcv-color-primitives,3,1,185,[],v0.5.1,19
+234,aws-fpga-f1-u200,2,0,15,[],Developer kit release to support MCS generation,3
+235,amazon-gamelift-plugin-unity,4,1,77,[],Release 1.2.0,52
+236,firelens-datajet,7,0,41,[],Firelens Datajet 0.1.3,3
+237,to-smote-or-not,2,1,3,[],,1
+238,aws-emr-best-practices,3,1,47,[],,18
+239,sagemaker-chainer-container,2,2,129,"['docker', 'aws', 'chainer', 'sagemaker']",v1.0.9.post0,16
+240,amazon-neptune-sigv4-signer,8,0,40,"['aws-neptune', 'amazon-neptune']",Amazon Neptune SigV4 Signer v2.4.0,12
+241,session-manager-plugin,1,8,27,[],Session Manager Plugin - Release 1.2.339.0 - 2022-06-16,164
+242,aws-dotnet-session-provider,7,1,68,[],,29
+243,aws-nitro-enclaves-samples,1,0,19,"['nitro', 'enclaves', 'nitro-enclaves']",,25
+244,aws-iot-device-sdk-cpp,5,0,99,[],Release Version 1.4.0,109
+245,amazon-s3-plugin-for-pytorch,49,0,130,[],,125
+246,amazon-states-language-service,12,2,107,[],,23
+247,amazon-finspace-examples,4,3,97,"['aws', 'data-science', 'examples', 'data-versioning', 'timeseries-analysis', 'finspace']",,13
+248,aws-elastic-beanstalk-cli-setup,1,11,102,"['python', 'aws', 'elasticbeanstalk', 'installation', 'elastic-beanstalk', 'eb-cli', 'awsebcli', 'ebcli']",v0.2.0,380
+249,sagemaker-mxnet-inference-toolkit,9,4,190,[],v1.5.5,26
+250,crypto-tools,3,2,33,[],,27
+251,amazon-kinesis-video-streams-parser-library,7,0,114,[],Release 1.2.4 ((February 2022) of the Amazon Kinesis Video Streams Parser Library),82
+252,aws-secretsmanager-caching-python,1,2,51,[],aws-secretsmanager-caching-python v1.1.1.5 release,99
+253,amazon-s3-encryption-client-dotnet,9,2,34,[],,8
+254,aws-ssm-data-protection-provider-for-aspnet,4,1,69,[],,40
+255,aws-dotnet-trace-listener,6,0,33,[],,14
+256,aws-sdk-unity-net,4,0,23,[],,10
+257,amazon-cognito-sync-manager-net,4,0,26,[],,6
+258,aws-mobile-analytics-manager-net,4,0,26,[],,4
+259,mit-0,1,2,1,[],,213
+260,amazon-freertos-ble-android-sdk,3,0,87,[],v1.5.0,40
+261,audit-plugin-for-mysql,2,0,"194,414",[],,11
+262,amazon-freertos-ble-ios-sdk,2,0,98,[],1.4.0,37
+263,aws-gamekit-unreal,1,0,5,[],Release v1.1.0,45
+264,aws-sdk,1,1,9,[],,43
+265,aws-gamekit,1,0,3,[],,17
+266,aws-sdk-php-zf2,5,2,113,[],Version 4.4.0,101
+267,clock-bound,1,1,16,[],,140
+268,aws-nitro-enclaves-image-format,1,0,6,[],,0
+269,aws-sigv4-auth-cassandra-java-driver-plugin,3,1,36,"['aws', 'cassandra', 'cql', 'sigv4', 'datastax-java-driver', 'aws-sigv4', 'sigv4client', 'amazon-keyspaces', 'keyspaces']",4.0.3 - AWS SDK 1,9
+270,iot-atlas,3,2,277,"['iot', 'design-pattern', 'cloud', 'design-patterns']",,103
+271,sagemaker-rl-container,8,2,78,[],,66
+272,amazon-eks-connector,3,0,7,[],,26
+273,aws-xray-java-agent,1,0,188,[],Release 2.9.1,36
+274,aws-ec2-instance-connect-cli,1,4,20,[],Windows fix for IdentitiesOnly parameter,128
+275,aws-sigv4-auth-cassandra-nodejs-driver-plugin,1,0,14,"['nodejs', 'aws', 'cassandra', 'cql', 'sigv4', 'aws-sigv4', 'sigv4client', 'amazon-keyspaces', 'keyspaces', 'datastax-nodejs-driver']",,3
+276,sagemaker-jumpstart-industry-pack,7,0,126,[],,9
+277,aws-sdk-php-laravel,7,3,133,[],Version 3.7.0,1499
+278,aws-sdk-php-silex,5,0,44,[],Version 2.1.0,82
+279,sagemaker-sparkml-serving-container,5,4,46,"['machine-learning', 'spark', 'pipeline', 'sparkml', 'inference', 'serving', 'sagemaker', 'mleap', 'inference-pipeline', 'mleap-serialized-spark']",,45
+280,aws-sigv4-auth-cassandra-gocql-driver-plugin,1,0,14,"['aws', 'cassandra', 'cql', 'sigv4', 'gocql', 'aws-sigv4', 'sigv4client', 'amazon-keyspaces', 'keyspaces', 'gocql-driver']",,5
+281,connect-rtc-js,10,12,67,[],Deprecating plan-b SDP,66
+282,sagemaker-huggingface-inference-toolkit,2,0,79,[],v2.0.0 New Modalities Speech & Vision,62
+283,aws-greengrass-core-sdk-python,1,2,10,[],v1.6.0,55
+284,sagemaker-scikit-learn-extension,3,2,59,[],v2.5.0,34
+285,aws-xray-dotnet-agent,6,0,31,[],Release 2.10.0-beta.1,19
+286,ec2-macos-system-monitor,1,0,5,[],First GitHub Release,7
+287,amazon-managed-service-for-prometheus-roadmap,1,0,7,[],,28
+288,aws-eb-glassfish-dockerfiles,1,2,7,[],,32
+289,aws-nitro-enclaves-sdk-bootstrap,1,0,14,[],,7
+290,amazon-managed-grafana-roadmap,1,0,5,[],,21
+291,containers-roadmap,7,0,184,"['kubernetes', 'aws', 'roadmap', 'containers', 'ecs', 'ecr', 'fargate', 'eks']",,4560
+292,chrony-candm,1,0,7,[],,3
+293,amazon-neptune-gremlin-dotnet-sigv4,1,1,9,"['aws-neptune', 'amazon-neptune']",Amazon Neptune Gremlin .NET SigV4 v1.0,4
+294,aws-greengrass-core-sdk-js,2,4,19,[],v1.7.0,15
+295,ec2-macos-utils,2,0,26,[],1.0.0,5
+296,base64io-python,1,0,83,[],1.0.3 -- 2018-12-10,40
+297,aws-toolkit-eclipse,7,1,111,"['java', 'aws', 'cloudformation', 'aws-lambda', 'ec2', 'eclipse', 'dynamodb', 'codecommit', 'hacktoberfest']",AWS Toolkit for Eclipse: v201805311643 Release,269
+298,git-remote-codecommit,1,1,36,[],,199
+299,aws-app-mesh-roadmap,1,0,49,[],,330
+300,efawin,2,0,1,['aws'],Initial version,2
+301,ec2-spot-instances-integrations-roadmap,1,0,15,[],,90
+302,sagemaker-example-notebooks-testing,1,0,261,"['python', 'aws', 'machine-learning', 'deep-learning', 'continuous-integration', 'ci', 'jupyter-notebook', 'cdk', 'sagemaker']",,10
+303,amazon-neptune-sparql-java-sigv4,10,0,44,"['rdf4j', 'sparql-client', 'aws-neptune', 'amazon-neptune']",Amazon Neptune SPARQL Java Sigv4 v2.4.0,15
+304,aws-neuron-tensorflow,1,0,830,[],,4
+305,aws-sdk-ruby-record,17,1,354,[],Release v2.6.0 - 2021-05-13,294
+306,obs-cdi,1,0,4,[],,4
+307,amazon-codeguru-profiler-python-agent,3,0,112,"['python', 'aws', 'profiler', 'codeguru']",1.2.4 (layer_v11),8
+308,aws-sigv4-auth-cassandra-python-driver-plugin,1,0,11,"['aws', 'cassandra', 'cql', 'sigv4', 'aws-sigv4', 'sigv4client', 'amazon-keyspaces', 'keyspaces', 'datastax-python-driver']",,3
+309,aws-rndr-engine-for-openssl,1,0,6,[],,0
+310,aws-proton-public-roadmap,1,0,13,[],,182
+311,elastic-load-balancing-tools,1,0,87,[],,248
+312,aws-sessionstore-dynamodb-ruby,3,0,41,[],Release v2.0.1 - 2020-11-16,68
+313,aws-neuron-runtime-proto,1,0,7,[],,6
+314,aws-sdk-ruby-release-tools,1,0,18,[],,4
+315,opsworks-cookbooks,8,56,947,[],,1052
+316,aws-kinesisanalytics-runtime,2,1,17,[],,7
+317,aws-greengrass-core-sdk-java,1,0,15,[],v1.5.0,7
+318,apprunner-roadmap,1,0,4,"['aws', 'containers', 'apprunner']",,212
+319,aws-refcocog-adv,1,1,5,[],,18
+320,aws-deep-learning-containers-utils,2,0,37,[],,5
+321,amazon-keyspaces-cql-to-cfn-converter,1,0,5,"['aws', 'cassandra', 'cql', 'amazon-keyspaces', 'keyspaces']",,6
+322,.github,1,1,12,[],,3
+323,http-desync-guardian,1,0,44,"['http-request-smuggling', 'http-smuggling', 'http-desync']",,218
+324,ec2-image-builder-roadmap,1,0,3,"['aws', 'roadmap', 'ec2', 'image-builder']",,30
+325,aws-neuron-driver,1,0,6,[],,5
+326,aws-swf-build-tools,2,1,9,[],,9
+327,aws-kinesisanalytics-flink-connectors,2,1,40,[],2.0.0,10
+328,sagemaker-mxnet-training-toolkit,1,0,237,"['docker', 'aws', 'mxnet', 'sagemaker']",v4.3.0,59
+329,elastic-beanstalk-roadmap,1,0,8,[],,257
+330,ec2-hibernate-linux-agent,2,3,16,[],,31
+331,amazon-eks-diag,1,1,4,[],,6
+332,sagemaker-containers,3,0,254,[],v2.8.6.post2,174
+333,amazon-elastic-inference-tools,2,0,37,[],,15
+334,ec2-hibernate-windows-agent,1,1,8,[],,13
+335,aws-auto-scaling-custom-resource,2,0,72,"['aws', 'custom-resources', 'autoscaling', 'application-autoscaling']",,79
+336,aws-greengrass-core-sdk-c,1,0,4,[],v1.1.0,24
+337,amazon-cognito-dotnet,1,0,91,[],,8
+338,aws-sdk-js-dist-tools,2,0,110,[],,6
+339,aws-sdk-mobile-analytics-js,3,0,19,[],Release v0.9.2,80
+340,aws-iot-device-sdk-arduino-yun,1,1,24,[],v2.2.0,157
+341,amazon-ecs-cluster-state-service,1,1,9,[],,14
+342,aws-eb-python-dockerfiles,1,1,1,[],,58
+343,aws-sdk-java-archetype,1,0,6,[],,14

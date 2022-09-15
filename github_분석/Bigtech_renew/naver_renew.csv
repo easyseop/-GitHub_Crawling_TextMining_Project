@@ -1,0 +1,208 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,fixture-monkey,16,3,398,"['kotlin', 'java', 'test', 'random-generation', 'property-based-testing']",0.3.5,214
+1,egjs-axes,4,1,301,"['javascript', 'typescript', 'virtual-scroll', 'egjs', 'axis', 'coordinate', 'cartesian']",3.7.0 Release (2022-08-23),126
+2,egjs-flicking,7,0,841,"['react', 'javascript', 'angular', 'mobile', 'typescript', 'vue', 'reactjs', 'slider', 'carousel', 'tablet', 'desktop', 'egjs', 'iscroll']",4.9.2 Release (2022-08-05),2117
+3,ngrinder,11,5,"4,887",[],ngrinder-3.5.5-p1,1580
+4,nam-sdk-ios,4,2,10,[],4.3.3,2
+5,arcus-java-client,10,4,931,"['arcus', 'arcus-java-client', 'spymemcached']",Arcus Java Client 1.13.3,38
+6,egjs-view3d,2,0,82,"['threejs', 'typescript', 'ar', 'egjs', 'gltf', '3d', 'webxr']",2.7.1 Release (2022-08-12),81
+7,egjs-view360,6,0,510,"['webgl', 'video', 'touch', 'spinner', 'panorama', '360', 'device-orientation', '360-photo']",3.6.3 (2022-6-16),333
+8,egjs-conveyer,4,0,59,"['reactive', 'drag', 'use', 'scroll', 'gesture', 'cfcs', 'conveyer']",1.4.2 Release (2022-08-24),63
+9,navergame-sdk-unity,1,0,35,[],1.2.2,4
+10,billboard.js,5,0,"3,295","['d3', 'svg', 'chart', 'graph', 'data-visualizations']",3.5.1,5283
+11,lispe,1,0,495,"['language', 'lisp', 'interpreter', 'data-structures', 'lazy-evaluation', 'function-composition', 'pattern-programming', 'haskell-like-high-level-function']",,160
+12,egjs-infinitegrid,11,0,787,"['react', 'javascript', 'grid', 'vue', 'layout', 'svelte', 'masonry', 'infinite', 'egjs', 'infinitegrid', 'dom-recycle', 'angluar']",4.6.0 Release (2022-07-26),1387
+13,spring-jdbc-plus,6,0,141,"['spring-jdbc', 'sql', 'spring-data', 'jdbc', 'spring-framework', 'spring-data-jdbc']",2.4.3,162
+14,navergame-sdk-unreal,1,0,8,[],1.2.1,0
+15,navergame-sdk-android,1,0,17,[],1.2.1,3
+16,splade,2,0,45,"['nlp', 'information-retrieval', 'sparse', 'bert', 'passage-retrieval', 'splade']",Release v0.1.1,127
+17,arcus-memcached,20,5,"1,876","['memcached', 'arcus', 'memory-cache-store', 'arcus-memcached', 'arcus-server']",Arcus Server 1.13.3,63
+18,prismlivestudio,23,23,4,[],,29
+19,fe-news,2,0,275,"['react', 'nodejs', 'javascript', 'css', 'html', 'front-end', 'angular', 'typescript', 'vue', 'es6', 'svelte', 'monthly', 'deno', 'fe-news']",,3341
+20,nam-sdk-android,2,0,41,"['android', 'sdk', 'monetization']",,5
+21,egjs-agent,12,0,110,"['agent', 'user-agent', 'egjs', 'client-hints']",2.4.3 Release (2022-08-12),84
+22,naveridlogin-sdk-ios,2,1,15,[],네아로 SDK iOS v4.1.5 Release,39
+23,PyCQuery,1,0,12,[],Initial release,4
+24,naver-openapi-guide,5,1,281,[],,96
+25,searchad-apidoc,6,5,93,[],,74
+26,gdc,2,1,6,"['nlp', 'machine-learning', 'reinforcement-learning', 'ai', 'nlg', 'language-model', 'exponential-family', 'fairness-ml', 'information-geometry', 'gpt-2', 'gpt3', 'controlled-nlg']",,93
+27,roma,2,0,16,[],,78
+28,navergame-sdk-ios,1,0,5,[],1.2.0,2
+29,clova-client-developer-guide,2,0,1,[],,0
+30,arcus,3,1,191,"['memcached', 'zookeeper', 'data-structures', 'key-value-store', 'cache-cloud', 'arcus-cloud', 'memory-cache-cluster']",,291
+31,egjs-grid,3,0,77,"['react', 'image', 'grid', 'video', 'vue', 'layout', 'justified', 'masonry', 'frame', 'egjs', 'packing']",1.11.0 Release (2022-07-26),172
+32,kapture,6,0,856,"['localization', 'structure-from-motion', 'sfm', 'image-retrieval', 'r2d2', 'colmap', 'visual-localization', 'visual-features']",1.1.8,284
+33,naverspeech-sdk-android,3,0,20,[],1.1.5,17
+34,garnet,1,0,1,[],,3
+35,nam-sdk-web,1,0,6,[],,1
+36,tamgu,1,0,519,[],Tamgu Apple Silicon Package: 1.2022.07.07.11,168
+37,kapture-localization,3,0,257,"['localization', 'structure-from-motion', 'sfm', 'image-retrieval', 'r2d2', 'colmap', 'visual-localization']",1.1.8,147
+38,glad-sdk-web,1,0,4,[],,2
+39,clova-home-extension-developer-guide,2,0,1,[],,0
+40,clova-custom-extension-developer-guide,2,0,1,[],,2
+41,egjs-visible,4,1,73,"['egjs', 'visible']",2.4.0 Relesase (2022-04-18),48
+42,fire,1,0,3,[],,98
+43,spectacle,20,0,409,[],,1
+44,pump,1,0,6,[],,17
+45,security-advisory,2,1,46,[],,5
+46,hackday-conventions-java,3,0,25,[],,85
+47,naveridlogin-sdk-android,1,0,1,"['android', 'oauth2']",네아로 SDK v5.1.1 릴리즈,82
+48,storybook-addon-preview,4,3,86,"['addon', 'storybook', 'preview', 'egjs', 'naver']",2.0.0 Release (2020-09-23),58
+49,egjs-list-differ,7,5,22,"['diff', 'ordered', 'removed', 'differ', 'changed', 'added', 'purechanged']",1.0.0 Release (2019-08-05),56
+50,popeval,2,1,8,[],,19
+51,tldr,2,0,8,"['dimensionality-reduction', 'manifold-learning', 'unsupervised-machine-learning', 'pytorch-implementation']",,95
+52,egjs-flicking-plugins,3,0,55,"['slider', 'carousel', 'swipe', 'egjs', 'flicking', 'effect', 'flick']",4.4.0 Release (2022-06-10),50
+53,auto-async-wrap,1,0,10,"['javascript', 'middleware', 'wrapper', 'express', 'es6', 'expressjs', 'error-handler', 'error-handling', 'automatic', 'wrap', 'async-await', 'auto', 'express-js', 'express-async-wrapper']",1.0.2,21
+54,egjs-persist,6,1,93,"['storage', 'cache', 'egjs', 'persist', 'bfcache']",2.6.0 Release (2022-02-22),36
+55,oasis,1,0,3,[],,11
+56,nbase-arc,7,3,499,[],nbase-arc v1.5.0,164
+57,ms-marco-shift,1,0,1,"['nlp', 'benchmark', 'information-retrieval', 'dataset', 'msmarco']",,4
+58,zeplin-flutter-gen,3,1,50,"['dart', 'flutter', 'zeplin', 'zeplin-extension']",,48
+59,arcus-c-client,9,2,529,"['arcus', 'arcus-c-client', 'libmemcached']",Arcus C Client 1.13.2,11
+60,artemis,1,0,2,"['image-retrieval', 'multimodal-deep-learning', 'multimodal-retrieval']",,13
+61,expohedron,1,0,4,[],,4
+62,mesh-simplifier,2,0,5,[],,12
+63,hypersar,1,0,3,[],,6
+64,ngrinder-plugins,9,3,14,[],,9
+65,naver-spring-batch-ex,4,1,95,[],1.1.1,23
+66,jsdoc-to-mdx,2,0,18,[],v1.1.2 (2022-03-21),6
+67,posebert,1,0,1,[],,15
+68,navergame-sdk-cocos2dx,1,0,6,[],1.1.7,0
+69,egjs,3,0,"1,378","['javascript', 'agent', 'front-end', 'jquery-plugin', 'library', 'component', 'animation', 'axes', 'rotate', 'egjs', 'naver', 'flicking', 'infinitegrid', 'visible', 'persist', 'egjs-components']",1.5.0 release (2017-04-14),889
+70,android-imagecropview,2,0,102,"['android', 'image', 'crop', 'image-crop', 'cropping', 'imagecropper', 'imagecrop', 'imagecropview']",v1.2.3,245
+71,cover-checker,10,0,89,"['java', 'jacoco', 'cobertura', 'code-coverage']",V1.4.2,58
+72,clova-face-kit,1,0,7,[],0.2130,51
+73,orbital.js,2,0,12,[],,12
+74,react-ssr-boilerplate,2,0,7,[],,1
+75,graphql-dataloader-mongoose,10,7,3,[],,36
+76,lucy-xss-filter,2,3,674,[],,299
+77,lucy-xss-servlet-filter,1,1,138,[],,208
+78,arcus-spring,3,0,85,"['arcus', 'spring-cache', 'arcus-spring']",Arcus Spring 1.13.3,17
+79,egjs-imready,6,0,62,"['react', 'image', 'video', 'ready', 'lazy-loading', 'egjs']",1.3.0 Release (2021-12-24),44
+80,naver-pyclick,1,0,1,[],,8
+81,deview2021-avplayer-demo,1,0,3,[],,1
+82,egjs-component,2,0,127,"['javascript', 'typescript', 'component', 'eventemitter', 'egjs']",3.0.1 Release (2021-03-11),30
+83,naverspeech-sdk-ios,3,1,32,[],ver3.2.0,29
+84,cog,1,0,1,"['imagenet', 'transfer-learning', 'concept-generalization', 'imagenet-cog']",,22
+85,r2d2,1,0,22,[],,343
+86,cctv,1,0,3,[],,4
+87,egjs-view3d-editor,2,0,4,[],,7
+88,passport-naver,3,3,20,[],,36
+89,naver-jarjar,1,0,1,[],,1
+90,naver-jcl,1,0,217,[],,0
+91,cafe-sdk-unity,3,0,303,[],4.4.10,31
+92,cafe-sdk-android,2,0,152,[],4.4.10,15
+93,image-maps,3,1,39,[],Update,30
+94,deep-image-retrieval,1,0,43,[],,513
+95,openwhisk-vscode-extension,13,5,16,[],1.1.0,10
+96,prototype-minify,2,1,18,"['plugin', 'typescript', 'webpack', 'prototype', 'rollup', 'ast']",,7
+97,egjs-rotate,3,1,44,"['javascript', 'rotate', 'egjs']",2.1.0 release (2018-05-04),11
+98,openwhisk-intellij-plugin,1,0,26,[],1.1.5,10
+99,arcus-zookeeper,8,1,"1,922",[],Arcus ZooKeeper 3.5.9-p1,7
+100,claf,4,1,170,"['nlp', 'language', 'natural-language-processing', 'framework', 'pytorch', 'clova']","GLUE Benchmark, BPE Tokenizer, RoBERTa and WarmUp Scheduler Series",212
+101,cafe-sdk-ios,1,0,21,[],4.4.6,15
+102,force,1,0,5,[],,10
+103,hadoop,1,1,"8,985",[],,33
+104,hammer.js,6,0,"1,243",[],2.0.17 Release (2019-12-16),34
+105,radio-group-container,1,0,1,[],,1
+106,smarteditor2,4,1,65,"['javascript', 'editor', 'wysiwyg', 'smarteditor']",2.10.0,211
+107,dope,1,0,2,[],,87
+108,covid19-nmt,1,0,15,[],,38
+109,clova-ai-apis-doc,1,0,71,[],,6
+110,nextjs-boilerplate,1,0,1,[],,6
+111,lcrnet-v2-improved-ppi,1,0,1,[],,4
+112,discovery-zookeeper,1,0,11,[],discovery-zookeeper-7.3.2,7
+113,dcmm,1,0,3,[],,8
+114,egjs-children-differ,11,9,14,"['diff', 'ordered', 'removed', 'differ', 'changed', 'added', 'purechanged']",1.0.0 Release (2019-08-05),21
+115,sqlova,1,1,44,[],Trained Shallow Layer and Decoder Layer parameters,591
+116,ngx_http_extended_status_module,1,0,44,[],,4
+117,biobert-pretrained,1,1,17,[],Pre-trained weight of BioBERT v1.1 (+PubMed 1M),542
+118,domainshift-prediction,1,0,1,[],,10
+119,guitar,1,0,39,[],GUITAR 2.0.0.38 설치파일 및 예제 (2019-01-04),74
+120,cgd,1,0,6,"['mxnet', 'cbir', 'image-retrieval', 'cgd', 'global-descriptor']",,134
+121,cafe-sdk-cocos2dx,2,0,232,[],4.4.8,3
+122,cafe-sdk-unreal,2,0,248,[],4.4.8,6
+123,react-native-image-modifier,4,0,24,[],v0.1.7,24
+124,graphql-server-boilerplate,1,0,1,[],,15
+125,whale-browser-developers,4,0,17,[],,29
+126,clova-chatbot-user-guide,1,0,47,[],,2
+127,arcus-python-client,1,6,58,[],,15
+128,svc-template,3,0,34,[],,13
+129,svc,4,0,212,[],,61
+130,hubblemon,3,0,261,"['django', 'monitoring', 'management', 'python3']",,53
+131,isometrizer,2,0,8,"['javascript', 'css', 'html', 'typescript', 'dom', 'css3', 'isometric', 'projection', 'html-css', 'html-css-javascript', '3d', '3d-graphics']",,38
+132,arcus-misc,1,0,62,[],,3
+133,qadiver,1,0,1,[],,7
+134,dialogwae,1,0,8,[],,3
+135,aqm-plus,1,0,1,[],,48
+136,image-sprite-webpack-plugin,6,0,33,"['css', 'webpack', 'webpack-plugin', 'stylesheet', 'spritesmith', 'css-loader']",v0.2.2,27
+137,ai-hackathon,1,0,69,"['nlp', 'machine-learning', 'ai', 'hackathon', 'naver']",,26
+138,eslint-config-naver,2,0,54,"['javascript', 'eslint', 'coding-standards', 'eslint-config', 'naver']",2.1.0 Release (~2018.1.16),166
+139,nlp-challenge,2,0,29,[],,150
+140,react-sample-code,2,0,3,['react'],,37
+141,babel-plugin-no-side-effect-class-properties,1,0,13,"['javascript', 'babel', 'babel-plugin', 'ast', 'tree-shaking', 'babel7']",,7
+142,mei-sdk-android,1,0,10,[],,17
+143,kor2vec,1,0,1,[],,170
+144,clova-extension-sample-coinhelper,1,0,3,[],,3
+145,jta-sample,1,0,10,[],,10
+146,clova-extension-sample-dice,4,1,3,[],,6
+147,d2codingfont,1,0,35,[],D2Coding Ver 1.3.2,1604
+148,rye,4,0,505,"['database', 'sharding', 'newsql', 'native-sharding-rdbms']",v1.1.0,54
+149,egjs-jquery-pauseresume,3,0,61,"['resume', 'jquery', 'animation', 'pause', 'egjs']",2.0.1,14
+150,egjs-jquery-transform,3,1,61,"['jquery', 'transform', 'egjs']",2.0.0: chore(all): rename repository name and related,18
+151,attention-dialog-embedding,1,0,8,"['dialog', 'pytorch', 'rnn', 'attention', 'dstc6', 'dbdc3']",,13
+152,protonow,1,0,3,[],,6
+153,billboard.js-playground,1,0,64,[],,4
+154,generator-egjs,1,0,99,"['yo', 'generator', 'egjs']",,3
+155,egjs-jsdoc-template,2,0,92,"['jsdoc', 'jsdoc-template']",1.4.4,8
+156,clova-extension-sample-magicball,1,0,1,[],,11
+157,clova-extension-sample-rainsound,1,0,1,[],,5
+158,java-optionalbp,1,0,9,[],,7
+159,arcus-python2-client,1,0,10,[],,4
+160,svngit,1,0,44,[],SVNGit 0.2.0,18
+161,devcenter-open-project-migration,12,9,150,[],,5
+162,hammerjs-compatible,2,0,30,[],1.1.0,4
+163,marksy,3,0,7,[],,0
+164,jindojs-jc,1,0,22,[],,12
+165,grinder-patch,1,1,17,[],,1
+166,arcus-hubble,2,1,14,[],0.5.0,4
+167,arcus-cpp-client,1,1,9,[],,3
+168,jaudiotagger-naver,1,0,"1,176",[],,1
+169,webkit,8,0,"177,950",[],,4
+170,date-period-picker,7,0,57,[],fixed today script error,7
+171,auidoc,3,0,810,[],,0
+172,gobench2xml,1,0,1,"['go', 'golang', 'benchmark', 'xml']",,5
+173,jindojs-jmc,1,0,27,[],,16
+174,jindojs-jindo,2,1,65,[],2.12.2,42
+175,kaist-oss-course,3,0,32,[],,38
+176,jindo-to-jquery,1,0,66,[],,2
+177,webkit-extensions,1,0,1,[],,2
+178,sling,2,0,9,[],,117
+179,iscroll,4,0,79,[],,1
+180,webkit-android-libraries,1,0,5,[],,4
+181,androidjnipp,1,0,3,[],,9
+182,webgraphics,1,0,1,[],,5
+183,androidpp,1,0,2,[],,6
+184,reflect,1,0,1,[],,30
+185,WinCairoRequirements,3,1,193,[],,3
+186,nanumfont,1,0,10,[],NanumGothicCoding 2.5,158
+187,mattermost-migration,2,0,1,[],,14
+188,volley-extensions,1,0,240,[],,133
+189,jquery,8,0,"5,980",[],,1
+190,imagestabilizer,4,0,92,[],,76
+191,yobi,9,12,"6,307",[],Yobi 0.8.2,374
+192,egjs-experiment,2,0,58,[],,8
+193,outlayer,7,0,198,[],,0
+194,sizzle,3,0,920,[],,0
+195,grabcutios,2,0,49,[],,113
+196,checkstyle,3,0,"4,042",[],,1
+197,usher,1,0,6,[],,14
+198,builtwith.angularjs.org,1,0,296,[],,0
+199,rotatableview,1,0,7,[],,7
+200,deview2014-androidApp-demo,1,0,2,[],,9
+201,arcus-ruby-client,1,0,6,[],,1
+202,android-pull-to-refresh,2,2,705,[],,316
+203,android-utilset,1,0,105,[],,32
+204,nhnopensource.maven.repo,1,0,36,[],,3
+205,ngrinder-recorder,2,0,8,[],,16
+206,universal-analytics-java,1,0,13,[],,10

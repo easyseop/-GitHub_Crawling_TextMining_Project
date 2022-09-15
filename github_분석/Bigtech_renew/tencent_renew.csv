@@ -1,0 +1,168 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,bk-ci,6,31,"16,571","['kotlin', 'java', 'devops', 'microservices-architecture', 'continous-deployment', 'continuous-integrations', 'continous-delivery', 'blueking']",bk-ci v1.8.2,1973
+1,wujie,5,2,56,[],,940
+2,tdesign-mobile-vue,89,14,"2,104","['typescript', 'vue3', 'tdesign']",0.10.4,83
+3,tdesign-common,7,11,"4,177","['less', 'utils', 'tdesign']",,93
+4,tdesign-vue-next,4,9,"4,479","['less', 'typescript', 'vue', 'pc', 'vue3', 'tdesign']",🌈 0.20.2,708
+5,tdesign-react,22,9,"3,670","['react', 'less', 'typescript', 'pc', 'tdesign']",0.40.4,532
+6,bk-sops,12,4,"9,039","['python', 'flow', 'pipeline', 'devops-tools', 'bpmn-engine', 'bpmn2', 'blueking', 'flowengine']",V3.25.6,862
+7,CodeAnalysis,6,2,"1,198","['code-analysis', 'code-review', 'code-quality', 'program-analysis', 'python37', 'code-quality-analyzer']",v1.4.3,1238
+8,ncnn,1,47,"2,700","['android', 'ios', 'caffe', 'deep-learning', 'neural-network', 'mxnet', 'tensorflow', 'vulkan', 'keras', 'inference', 'pytorch', 'artificial-intelligence', 'simd', 'riscv', 'darknet', 'arm-neon', 'high-preformance', 'ncnn', 'onnx', 'mlir']",android ios macos linux windows webassembly 预编译库 20220729 b4ba207,15330
+9,Hippy,10,18,"1,550","['react', 'android', 'ios', 'mobile', 'web', 'vue', 'frontend', 'cross-platform', 'hippy']","2022-08-26, Version 2.14.6(LTS)",6758
+10,libpag,20,0,449,"['animation', 'after-effects', 'keyframes', 'libpag', 'pag']",v4.0.5.51,2056
+11,tdesign-vue,28,7,"4,081","['less', 'vue2', 'pc', 'tyepscript', 'tdesign']",0.46.2,592
+12,cherry-markdown,17,11,303,"['javascript', 'editor', 'markdown']",v0.7.9,994
+13,puerts,6,2,"1,836","['javascript', 'typescript', 'v8', 'unity', 'dotnet', 'unrealengine']","Unity_v1.3.7,ApiLevel:16",3012
+14,bk-bcs,25,8,"3,771","['kubernetes', 'containers', 'mesos', 'container-management', 'blueking']",v1.26.0,628
+15,tdesign-miniprogram,19,9,"2,479","['wechat', 'miniprogram', 'tdesign']",0.19.2,346
+16,Shadow,1,6,"1,617",['android'],2.1.2,6532
+17,tdesign-vue-next-starter,3,1,246,"['typescript', 'vue3', 'pinia', 'tdesign']",0.4.0,221
+18,mars,292,11,"1,602","['log', 'cross-platform', 'network', 'wechat']",v1.3.0,16354
+19,tinker,5,14,792,"['android', 'dynamic', 'wechat', 'hotfix']",v1.9.14.24,16512
+20,UnLua,22,6,872,[],2.2.3,1499
+21,bk-cmdb,16,19,"30,163","['golang', 'microservice', 'rest-api', 'cmdb', 'devops-tools', 'blueking']",v3.10.11,4531
+22,bk-PaaS,13,8,106,"['python', 'vuejs', 'login', 'paas', 'saas', 'esb', 'blueking']",ESB 更新配置类组件,748
+23,spring-cloud-tencent,4,0,420,"['microservices', 'spring', 'spring-boot', 'microservice', 'spring-cloud', 'cloud-native', 'tencent', 'springcloud', 'service-governance', 'polarismesh']",1.7.0-Hoxton.SR12,2225
+24,tmagic-editor,2,0,426,[],v1.1.0-beta.12,2796
+25,bk-job,12,5,"3,132","['java', 'continuous-delivery', 'operation', 'deployment-automation', 'blueking']",bk-job v3.5.0.21,645
+26,TencentKona-17,4,0,"66,021",[],Tencent Kona JDK 17.0.4.1,50
+27,TencentKona-11,6,0,"56,525",[],Tencent Kona JDK 11.0.16.1-GA,250
+28,TencentKona-8,7,5,"49,138",[],Tencent Kona v8.0.11-GA,803
+29,APIJSON,8,8,"2,796","['mysql', 'hive', 'hadoop', 'clickhouse', 'vuejs2', 'postgresql', 'oracle', 'mysql-server', 'ios-swift', 'springboot', 'db2', 'postgresql-database', 'sqlserver', 'tidb', 'fastjson', 'typescript2', 'tdengine']",物联网数据库 TDengine; JOIN 性能提升,13693
+30,TencentOS-kernel,67,0,292,[],4.14.105-19-0021,1261
+31,ScriptX,2,1,49,"['lua', 'v8', 'javascriptcore', 'quickjs', 'script-engines']",,360
+32,TNN,59,7,"2,431","['ocr', 'deep-learning', 'tensorflow', 'inference', 'pytorch', 'tengine', 'face-detection', 'tensorrt', 'mnn', 'coreml', 'ncnn', 'openvino', 'hairsegmentaion']",TNN v0.3.0,3644
+33,tdesign,14,2,193,"['react', 'vue', 'miniapp', 'tdesign']",TDesign Weekly Release (Aug 4th 2022),2206
+34,tdesign-react-starter,7,4,275,"['react', 'starter-kit', 'tdesign']",0.1.5,130
+35,QTAF,3,8,270,"['testing', 'test-automation', 'test-framework', 'qta']",修复share_data机制的一处bug,443
+36,QMUI_iOS,1,4,735,"['ios', 'uikit', 'ios-ui', 'ui-components']",4.5.1,6650
+37,weui,6,6,685,"['style', 'wechat', 'weui', 'mobile-web']",Release v2.5.11,26493
+38,tdesign-starter-cli,3,0,82,[],0.3.1,21
+39,cloudbase-framework,5,0,"1,566","['react', 'nodejs', 'java', 'dart', 'docker', 'cli', 'php', 'front-end', 'vue', 'serverless', 'serverless-architectures', 'tencent', 'flutter', 'mobile-development', 'omi', 'fullstack-javascript', 'taro', 'deno', 'cloudbase']",1.6.x Holly - 2021-01-29,1817
+40,rapidjson,11,61,"2,427",[],v1.1.0,12309
+41,tat-agent,1,0,25,"['agent', 'rust', 'tat', 'tencentcloud']",Release v0.1.17,82
+42,xLua,1,3,918,"['lua', 'csharp', 'unity', 'unity3d', 'xlua']",Tag:v2.1.16_with_silicon_support,7881
+43,sluaunreal,3,7,"1,081","['plugin', 'lua', 'unreal', 'unreal-engine', 'slua', 'unreal4']",1.3.3 release,1470
+44,omi,3,1,"7,766","['virtual-dom', 'admin', 'web', 'webcomponents', 'preact', 'jsx', 'web-components', 'admin-dashboard', 'custom-elements', 'weapp', 'vdom', 'mp', 'tsx', 'shadow-dom', 'mini-program', 'omi', 'miniprogram', 'kbone', 'omiu']",OmiProps<P> to OmiProps<P> | P,12376
+45,MMKV,6,0,"1,081","['android', 'kotlin', 'python', 'windows', 'macos', 'swift', 'golang', 'ios', 'key-value', 'wechat', 'flutter']",v1.2.14,14921
+46,QMUI_Android,7,1,"1,007","['android', 'android-ui', 'ui-components']",2.0.1,13762
+47,tdesign-vue-starter,8,1,303,"['vue2', 'starter-kit', 'tdesign']",0.4.0,211
+48,embedx,1,0,18,[],,237
+49,weui-wxss,4,7,90,"['wxss', 'weui']",Release v2.5.11,14382
+50,lemon-cleaner,2,1,2,[],,3939
+51,vap,3,2,370,[],Android2.0.27,3152
+52,TPAT,3,0,34,[],,223
+53,feflow,69,1,828,"['lint', 'plugin', 'cli', 'workflow', 'front-end', 'builder', 'webpack', 'yeoman', 'code-quality', 'command-line-tool', 'feflow']",v0.26.0,1204
+54,BlazerML-tvm,1,0,"7,029",[],,3
+55,tdesign-icons,3,0,160,"['icons', 'tdesign']",,20
+56,tdesign-mobile-react,76,6,613,"['react', 'typescript', 'tdesign']",0.2.0,24
+57,soter,8,1,213,"['authentication', 'fingerprint', 'fingerprint-authentication', 'authentication-flow', 'wechat-payment']",2.0.10,1824
+58,wepy,11,9,"2,454","['weapp', 'wepy']",v2.1.0,21883
+59,tdesign-miniprogram-starter-retail,4,2,452,"['template', 'wechat', 'miniprogram', 'tdesign']",,186
+60,LuaHelper,2,0,378,"['lua', 'vscode', 'language-server-protocol', 'lsp', 'language-server-client', 'luahelper', 'luahelp']",,295
+61,deepx_core,2,0,161,[],,336
+62,kbone,7,0,"1,037",[],,4374
+63,VasDolly,1,2,123,"['android', 'gradle', 'v2', 'v1', 'vasdolly']",V3.0.4 Release,2609
+64,LuaPanda,6,1,594,"['debugger', 'lua', 'vscode-extension', 'lua-debugger']",,1000
+65,Firestorm,7,0,142,"['spark', 'mapreduce', 'shuffle', 'remoteshuffle']",release-0.4.1,243
+66,3TS,48,0,122,[],base_version,102
+67,nohost,12,8,"1,102",[],,1197
+68,vConsole,5,3,882,"['console', 'mobile', 'wechat']",v3.14.6,14923
+69,TenDBCluster-TSpider,4,0,"182,886",[],mariadb-10.3.7-linux-x86_64-tspider-3.8.1-gcs,125
+70,TBase,6,0,657,[],,1270
+71,Tendis,4,2,"1,648","['redis', 'rocksdb', 'nosql', 'high-performance', 'kvstore', 'cpp17', 'kv', 'tendis']",2.5.0-rocksdb-v6.23.3,2432
+72,Taitank,2,0,11,"['layout-engine', 'hippy']",1.0.0,427
+73,DCache,3,1,151,[],v1.0.1,708
+74,TSW,8,3,"1,105","['nodejs', 'javascript', 'monitor', 'web', 'log', 'server', 'js', 'capture', 'observability', 'tsw']",v2.6.3,1775
+75,behaviac,3,1,65,"['game', 'fsm', 'unity', 'htn', 'behavior-tree', 'behavior-trees', 'bt', 'game-ai']",3.6.40: Merge pull request #146 from Tencent/develop,2453
+76,TFace,3,0,41,[],,874
+77,matrix,7,24,"2,907","['android', 'wechat', 'apm-client']",v2.0.8/2022-05-07,10202
+78,QMUI_Web,8,7,567,"['workflow', 'gulpfile', 'web-ui', 'sass-framework', 'widget-toolkit']",3.2.3,1722
+79,DVQA,5,4,19,[],,401
+80,MedicalNet,2,5,26,[],,1449
+81,Metis,6,5,74,"['javascript', 'python', 'typescript', 'metis', 'aiops', 'uweb', 'learnware']",v0.2.0,1437
+82,PatrickStar,10,0,"1,008","['nlp', 'pytorch', 'gpt', 'pretrained-models', 'bert']",v0.4.6,613
+83,TscanCode,1,1,65,"['lua', 'csharp', 'cpp', 'static-code-analysis']",,1506
+84,bk-bcs-saas,52,4,"2,111","['python', 'docker', 'kubernetes', 'golang', 'container', 'mesos', 'blueking']",v1.3.23,259
+85,weui.js,14,26,205,['weui'],Release v1.2.13,3060
+86,flare,4,0,50,[],,955
+87,Hardcoder,2,2,31,"['android', 'mobile', 'wechat']",v1.0.0,2019
+88,RapidView,3,0,220,"['android', 'dynamic', 'lightapp', 'ui-framework']",,973
+89,OpenSourceTalent,1,0,6,[],,99
+90,InjectFix,3,0,142,"['csharp', 'unity', 'hot-fix', 'hotfix']",,1683
+91,TurboTransformers,8,0,870,"['nlp', 'gpu', 'decoder', 'machine-translation', 'inference', 'pytorch', 'transformer', 'albert', 'bert', 'roberta', 'gpt2', 'huggingface-transformers']",TurboTransformers v0.5.1,1207
+92,CenseoQoE,2,0,3,[],,106
+93,ActionDetection-DBG,1,0,45,[],,332
+94,tencent-ml-images,1,4,156,"['database', 'computer-vision', 'deep-learning']",,2985
+95,NeuralNLP-NeuralClassifier,1,0,34,[],,1402
+96,bk-base,1,1,2,[],,75
+97,libco,1,27,88,[],v1.0,7242
+98,secguide,1,4,28,"['security', 'guide']",,11081
+99,QT4C,4,2,40,"['windows', 'qta']",修复一处参数错误,56
+100,Femas,1,0,16,"['microservices', 'service-mesh']",,16
+101,ModernFlux,1,0,64,[],,41
+102,caelus,1,0,73,"['docker', 'kubernetes', 'yarn', 'hadoop', 'runtime', 'containerd']",v1.0.0,282
+103,TenDBCluster-Tdbctl,1,0,"134,907",[],mysql-5.7.20-linux-x86_64-tdbctl-2.2,29
+104,TH_COVID19_International,3,3,21,[],,362
+105,Forward,1,0,103,"['deep-learning', 'neural-network', 'tensorflow', 'gpu', 'cuda', 'keras', 'inference', 'pytorch', 'forward', 'tensorrt', 'inference-engine', 'onnx']",Release v2.0.2,504
+106,Real-SR,1,0,34,[],,607
+107,.github,1,0,1,[],,1
+108,yadcc,2,0,17,[],,254
+109,MobileNA_IOSSDK,1,0,18,[],,3
+110,wcdb,10,3,"1,070","['android', 'ios', 'mobile', 'database', 'sqlite', 'sqlcipher', 'wechat', 'mobile-database']",WCDB 1.0.8.2,9486
+111,sqlcipher,17,2,640,[],,104
+112,TubeMQ,6,3,94,[],Grayscale online version,2051
+113,MLeaksFinder,1,8,71,[],,5272
+114,Lichee,2,0,4,[],,254
+115,westore,5,3,503,"['diff', 'web', 'state-management', 'mvc', 'model', 'mvp', 'mvvm', 'state', 'store', 'update', 'weapp', 'json-diff', 'mp', 'setstate', 'miniprogram', 'setdata', 'westore']",,4018
+116,OOMDetector,1,1,63,"['ios', 'leak', 'oom']",podspec change,2143
+117,plato,3,1,97,"['plato', 'graph-computing']",Plato Release Version v0.1.1,1790
+118,mxflutter,1,0,17,"['dart', 'typescript', 'flutter']",,637
+119,WeChat-TFCC,1,0,5,[],,111
+120,Biny,2,0,193,"['php', 'web', 'mvc', 'anti-xss']",v2.10.10,1656
+121,TStarBot2,2,1,141,[],,41
+122,loli_profiler,1,0,333,"['android', 'cpp', 'profiler', 'memory', 'unity3d', 'qt5', 'unreal-engine-4']",Leak detect feature added,446
+123,TenDBCluster-TenDB,1,0,"134,792",[],mysql-5.7.20-linux-x86_64-tendb-3.3.2-gcs,79
+124,WeComponents,2,0,69,"['vue', 'declarative-ui', 'ui-components', 'cls']",,269
+125,GameAISDK,4,0,38,[],v1.0.0: Merge pull request #14 from Tencent/update_doc,1365
+126,phxpaxos,1,6,114,[],Release 1.1.3,3179
+127,QT4A,3,2,259,"['android', 'testing', 'test-automation', 'test-framework', 'qta']",修复截图失败问题,317
+128,QT4W,1,1,150,[],增加src属性,114
+129,GAutomator,4,1,143,[],v2.3.0,1230
+130,PocketFlow,1,1,214,"['computer-vision', 'deep-learning', 'mobile-app', 'automl', 'model-compression']",,2722
+131,PySC2TencentExtension,1,0,297,[],,23
+132,tmt-workflow,5,2,211,"['javascript', 'gulp', 'workflow']",1.0.0,2171
+133,paxosstore,3,2,79,"['database', 'consensus', 'distributed-database', 'paxos']",,1536
+134,QT4i,1,0,75,"['testing', 'ios', 'test-automation', 'test-framework', 'qta']",support iOS 13 and xcode 11,203
+135,FaceDetection-DSFD,1,3,57,[],,2764
+136,ObjectDetection-OneStageDet,1,0,3,[],,1952
+137,tke-kms-plugin,1,0,1,[],,18
+138,WeFlow,6,0,68,"['gulp', 'workflow', 'wechat', 'f2e', 'weflow']",1.3.3,3226
+139,VasSonic,2,2,372,"['web', 'webview', 'android-sdk', 'hybrid', 'ios-sdk', 'h5']",V3.1.1 Release Note,11576
+140,Face2FaceTranslator,1,0,12,[],,724
+141,wwsearch,1,0,3,[],,444
+142,phxrpc,1,3,75,[],Release 0.8.2,1750
+143,Fanvas,1,0,10,[],,537
+144,MSEC,1,0,202,[],,2770
+145,Pebble,1,0,35,[],,849
+146,tsf,4,3,109,"['php', 'coroutines', 'swoole']",,2200
+147,WeTest-Assistant,1,0,5,[],,139
+148,KNVProtoEngine,1,0,10,[],,97
+149,gnes-backup,5,0,"3,156",[],,12
+150,HaboMalHunter,3,0,39,"['linux', 'security', 'static-analysis', 'dynamic-analysis', 'elf', 'malware-analysis']",HaboMalHunter(v2.0.0.3),679
+151,FeatherCNN,5,2,19,"['android', 'ios', 'caffe', 'convolutional-neural-networks', 'arm-neon', 'inference-engine']",,1183
+152,CMONGO,3,0,5,[],,118
+153,FAutoTest,2,2,24,[],,913
+154,LKImageKit,1,1,42,"['ios', 'imageview', 'objc', 'uiimageview', 'imageload', 'objcective-c']",5.3.1,2074
+155,WeDemo,1,1,18,[],,1322
+156,libwxfreq,1,0,16,['frequency'],,185
+157,iHearing,1,0,1,[],,90
+158,PhoenixGo,1,0,91,[],,2792
+159,GT,1,2,74,[],Android GT v3.1.0 新版本发布,4304
+160,Teaf,1,1,43,[],,357
+161,TStarBot1,1,1,309,[],,44
+162,TStarBots,1,0,2,[],,67
+163,phxsql,2,1,154,[],PhxSQL-0.8.5,2460
+164,TSeer,1,1,41,"['microservice', 'fault-tolerance', 'service-discovery', 'service-registry']",,669
+165,phxqueue,3,0,144,[],Release 0.8.8,1884
+166,QMUI_Web_Desktop,1,0,54,"['electron', 'workflow-management']",2.0.0,204

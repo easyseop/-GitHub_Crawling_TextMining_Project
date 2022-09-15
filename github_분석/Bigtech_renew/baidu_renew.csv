@@ -1,0 +1,107 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,amis,14,21,"8,631","['json', 'frontend', 'frontend-framework', 'low-code', 'no-code', 'low-code-development-platform', 'lowcode']",2.1.0,11782
+1,san-router,6,1,165,['san'],2.0.0,37
+2,BaikalDB,6,3,198,"['mysql', 'sql', 'database', 'raft', 'htap', 'baikaldb']",BaikalDB v2.1.1,969
+3,san-composition,2,1,159,[],1.1.0,25
+4,baiduads-sdk,2,1,57,"['sdk', 'ads', 'baidu']",2022.0.0,9
+5,dperf,4,0,222,"['nginx', 'http', 'performance', 'tcp', 'ipv6', 'dpdk', 'udp', 'packet-loss', 'vlan', 'vxlan', 'lvs', 'load-tester', 'dpvs']",v1.2.0,1023
+6,du1906_esp,4,0,23,[],,14
+7,QCompute,1,0,14,[],[3.0.0] - June-31-2022,60
+8,NoahV,32,16,386,"['visualization', 'template', 'devops', 'vuejs', 'framework', 'monitor', 'dashboard', 'vue', 'scaffold', 'efficient', 'aiops', 'noahv']",,638
+9,san-ssr,6,3,592,"['ssr', 'san', 'ssr-target-js']",nv3.12.0,30
+10,brpc-java,4,6,443,"['spring-boot', 'protobuf', 'microservice', 'netty', 'high-performance', 'spring-cloud', 'grpc', 'rpc', 'server-push', 'motan', 'push', 'dubbo', 'brpc']",3.0.5,788
+11,san-update,13,12,56,['san'],,54
+12,Rubik,1,0,34,[],v1.9.1,40
+13,braft,2,20,642,"['raft', 'distributed-storage', 'raft-protocol', 'raft-consensus-algorithm', 'distributed-consensus', 'state-machine-replication', 'raft-cpp', 'raft-cxx']",braft v1.1.2,3246
+14,brcc,3,0,398,"['java', 'go', 'sdk-go', 'sdk-java', 'brcc']",changes for v1.2.0,350
+15,san-store,9,8,208,"['appstate', 'san']",2.1.2,58
+16,san,6,0,"2,538","['javascript', 'framework', 'component', 'frontend', 'mvvm', 'san']",3.12.1,4612
+17,CarbonGraph,3,0,46,[],,163
+18,openrasp,29,5,"4,554","['security', 'waf', 'iast', 'devsecops', 'rasp']",Release 1.3.7,2278
+19,Jprotobuf-rpc-socket,7,5,477,[],upgrade version to 4.1.4,506
+20,san-website,3,2,565,[],,20
+21,Dialogue,1,1,85,"['research', 'chatbot', 'dialogue']",,439
+22,smartapp-openapi-java,6,0,23,[],1.1.0-SNAPSHOT,16
+23,Senta,3,8,34,"['natural-language-processing', 'sentiment-analysis', 'sentiment-classification', 'paddlepaddle', 'opinion-target-extraction', 'aspect-level-sentiment']",,1605
+24,uid-generator,10,11,5,[],,4759
+25,brcc-go-sdk,2,0,36,[],,6
+26,smartapp-openapi-php,3,0,23,[],0.1.5,4
+27,smartapp-openapi-go,3,0,16,[],v0.1.2,5
+28,DuReader,1,0,198,[],,946
+29,smartapp-openapi-csharp,1,0,5,[],0.1.0,1
+30,titan-dex,1,1,3,[],,161
+31,titan-hotfix,1,0,5,[],,109
+32,grafana-tsdb-datasource,8,7,8,"['grafana', 'grafana-plugin', 'grafana-datasource']",,9
+33,bfe-book,1,0,142,[],,1128
+34,iot-sdk-c,5,0,193,"['mqtt', 'sdk', 'device-management', 'edge-sdk']",,114
+35,palo,1,0,8,"['olap', 'mpp', 'doris']",,51
+36,CUP,3,0,254,"['python', 'library', 'common-libs', 'common-libraries']",3.2.26 is comming,896
+37,sofa-pbrpc,6,5,365,[],v1.1.3,2076
+38,bigflow,7,5,35,[],untagged-d2e10fc4c3269f4e51d6: Try to speed up travis build.,1118
+39,Quanlse,1,0,14,[],Quanlse 2.2.0,33
+40,DDParser,6,0,57,"['python', 'chinese-nlp', 'syntax-parser', 'dependency-parser', 'dependency-parsing', 'chinese-dependency-parser']",Release DDParser.,802
+41,EasyFaaS,1,1,23,[],,581
+42,go-lib,1,2,25,[],,118
+43,sgxray,1,0,1,[],,8
+44,san-devtools,7,0,351,"['chrome', 'extension', 'devtools', 'chromium', 'debug', 'san']",3.1.7,71
+45,m-git,2,0,11,[],release  v2.5.4  to rubygems,152
+46,mix-img,1,0,20,[],,318
+47,Familia,1,0,176,"['nlp', 'topic-modeling', 'lda', 'topic-models', 'sentence-lda', 'twe']",v.1.1.2,2561
+48,spring-cloud-formula,1,0,14,[],,69
+49,unit-uskit,1,0,22,"['bot', 'dialog', 'dialogue-systems', 'dialogflow']",USKit v3.0.0,228
+50,iotcore-sdk-java,1,0,23,[],iotcore-sdk正式发布,4
+51,lac,2,0,155,"['python', 'java', 'named-entity-recognition', 'lexical-analysis', 'chinese-nlp', 'word-segmentation', 'part-of-speech-tagger', 'chinese-word-segmentation']",Update LAC v2.1 models,3188
+52,ARK,1,0,44,"['framework', 'operation']",,57
+53,wx2,1,0,29,[],,119
+54,san-factory,1,0,58,[],1.1.2,15
+55,ttm,1,1,4,[],,13
+56,Curve,14,12,166,"['labeling', 'series-data', 'monitoring-tool', 'anomaly-detection']","v0.2.4beta: Initialize the trend map once, other operations are to change the val…",474
+57,AnyQ,1,7,89,"['dialogue', 'question-answering', 'faq', 'dialogue-systems', 'semantic-matching', 'faqbot', 'qa-system', 'faq-question-answering-system', 'faq-system']",,2416
+58,ipipe-agent,1,0,1,[],,29
+59,ins,1,1,383,[],0.17 released,213
+60,ote-stack,1,0,94,"['docker', 'kubernetes', 'golang', 'edge-computing', 'edge-cluster', 'k3s']",OTE v3.0,89
+61,ar-sdk,1,2,137,[],,99
+62,GPT,3,0,441,[],,85
+63,duedge-cli,2,0,6,[],add new command,6
+64,paddle-on-k8s-operator,1,0,41,[],,24
+65,duedge-recipes,1,0,39,"['edge', 'edge-computing', 'duedge']",,23
+66,cppcheck,6,0,"21,647",[],,4
+67,pylint,8,0,"4,503",[],,3
+68,baidu-iot-samples,3,2,61,[],,57
+69,baiducloud-sdk-go,2,0,54,[],,21
+70,unit-dmkit,1,0,47,"['bot', 'dialogue', 'dialogue-systems', 'dialogue-manager']",,313
+71,runc,4,0,"3,856",[],,7
+72,knowledge-driven-dialogue,1,0,39,[],,270
+73,information-extraction,1,1,14,[],,321
+74,boteye,1,0,15,[],,210
+75,BIPlatform,1,0,16,[],,216
+76,iot-edge-sdk-for-iot-parser,1,1,94,[],add device management sdk,63
+77,dm-kit-php,1,0,4,[],,36
+78,tera,11,18,"2,252","['c-plus-plus', 'data', 'database', 'nosql', 'storage', 'hbase', 'baidu', 'bigtable']",Release v2.14,1858
+79,grafana-tsdb-datasource-backend,1,0,6,['grafana'],,4
+80,cluster-api-provider-baiducloud,2,0,35,[],,12
+81,bfs,20,37,"2,139",[],v0.6.0 Release,2805
+82,boteye_sensor,1,0,14,[],,32
+83,boteye_driver,1,0,14,[],,3
+84,ICE-BA,3,0,13,[],,635
+85,shuttle,4,1,506,[],shuttle v0.1.2 release,66
+86,Elasticsearch,1,1,10,[],,433
+87,fast_rgf,1,2,8,[],,467
+88,bce-fpga-dev-kit,5,0,165,[],,6
+89,ntripcaster,1,0,1,[],,35
+90,speech-samples,3,0,9,[],,48
+91,broc,2,3,112,[],,104
+92,OASP,1,0,37,[],,32
+93,Youtube-8M,1,0,15,[],,114
+94,minions,1,0,2,['ethernet-switch'],,11
+95,galaxy,5,0,"2,898",[],rtg bug fix,325
+96,common,3,9,124,[],,130
+97,redis,1,0,4,"['redis', 'redis-cluster', 'auto-scaling', 'in-memory-database', 'key-value-database', 'auto-failover']",,89
+98,dlock,1,0,1,[],,218
+99,logcover,1,1,8,[],,52
+100,terminator,1,0,17,[],,78
+101,mapv,8,0,302,[],,53
+102,iot,1,0,5,[],,7
+103,signet,1,0,1,[],,9
+104,Cafe,4,2,401,[],3.2,368
+105,ITEST,1,0,6,[],,97

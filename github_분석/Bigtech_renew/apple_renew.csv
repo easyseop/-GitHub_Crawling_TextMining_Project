@@ -1,0 +1,178 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,llvm-project,312,88,"637,791",[],,659
+1,sourcekit-lsp,12,5,"1,256",[],,2622
+2,swift,324,552,"140,791",[],Swift 5.6.2 Release,60431
+3,foundationdb,30,219,"22,136","['transactional', 'distributed-database', 'acid', 'key-value-store', 'foundationdb']",Release 6.3.24,11644
+4,swift-syntax,30,7,"1,196",[],0.50600.1,1910
+5,swift-docc-render,5,27,223,[],,172
+6,swift-nio-http2,3,3,331,"['async', 'http2', 'beta', 'swift4', 'swiftnio']",SwiftNIO HTTP/2 1.22.1,391
+7,swift-docc,8,15,204,[],,748
+8,swift-collections,7,6,148,"['collection', 'queue', 'container', 'hash', 'sequence', 'deque', 'dequeue', 'ordered-set', 'ordered-dictionary']",Swift Collections 1.0.2,2429
+9,swift-argument-parser,17,9,280,"['cli', 'command-line', 'option', 'flag']",ArgumentParser 1.1.3,2716
+10,swift-package-manager,68,46,"6,479",[],0.6.0,8887
+11,swift-markdown,6,6,39,[],,1912
+12,swift-docc-symbolkit,6,4,40,[],,134
+13,swift-docc-render-artifact,4,1,142,[],,4
+14,swift-lmdb,16,0,"1,220",[],,11
+15,swift-tools-support-core,15,16,481,[],0.2.7,326
+16,swift-driver,57,17,"2,741",[],,649
+17,indexstore-db,18,1,297,[],,237
+18,swift-stress-tester,16,2,388,[],,155
+19,swift-xcode-playground-support,22,0,200,[],swift-4.2.2-RELEASE: Merge pull request #30 from cwakamo/prevent-recursive-logging-4.2,246
+20,swift-integration-tests,32,5,175,[],swift-4.2.2-RELEASE: Merge pull request #25 from aciidb0mb3r/elim-need-for-pkg,90
+21,swift-cmark,36,5,"2,663",[],swift-4.2.2-RELEASE: Merge pull request #4 from llvm-beanz/generate-cmark-exports,219
+22,swift-corelibs-libdispatch,54,18,"1,465",[],swift-5.5-RELEASE,2237
+23,swift-corelibs-foundation,53,37,"8,146",[],swift-4.2.2-RELEASE,4673
+24,swift-corelibs-xctest,29,1,675,[],swift-4.2.2-RELEASE,994
+25,swift-llbuild,26,3,"2,208","['swift', 'llvm', 'build-tool', 'build-system', 'llbuild']",0.5.0,965
+26,swift-org-website,2,3,203,[],,298
+27,swift-experimental-string-processing,9,12,923,[],,225
+28,swift-llvm-bindings,3,0,32,[],,30
+29,swift-source-compat-suite,50,7,"1,722",[],,255
+30,swift-async-algorithms,4,11,150,['swift'],,1663
+31,coremltools,3,18,958,"['machine-learning', 'tensorflow', 'pytorch', 'coreml', 'coremltools', 'model-converter', 'model-conversion']",coremltools 5.2,2829
+32,swift-protobuf,2,4,"2,132",[],1.20.0 Release,3968
+33,swift-evolution,45,18,"4,584",[],,13591
+34,swift-tools-support-async,2,2,59,[],swift-tools-support-async 0.8.1,23
+35,ml-neuman,1,1,21,[],,619
+36,swift-llbuild2,3,2,246,[],0.7.7,256
+37,swift-nio,21,45,"2,066","['swift', 'networking', 'high-performance', 'event-driven', 'swift-server', 'non-blocking', 'asynchronous-io', 'non-blocking-io', 'swift5', 'swiftnio']",SwiftNIO 2.41.1,7075
+38,servicetalk,6,5,"3,412","['java', 'http', 'microservices', 'framework', 'reactive', 'netty', 'http2', 'reactive-streams', 'grpc', 'rpc']",0.42.15,769
+39,swift-installer-scripts,7,6,230,[],,32
+40,swift-nio-ssl,5,1,273,"['tls', 'tls-support', 'swift5', 'swiftnio']",SwiftNIO SSL 2.22.0,334
+41,swift-nio-extras,5,5,135,"['swift5', 'swiftnio']",SwiftNIO Extras 1.13.0,138
+42,device-management,2,0,3,[],,198
+43,swift-crypto,3,2,89,"['swift', 'cryptography', 'boringssl', 'hash-functions', 'ciphers', 'ecdsa', 'ecdh', 'elliptic-curves', 'eddsa', 'swift-crypto']",Swift Crypto 2.1.0,1225
+44,swift-metrics-extras,1,0,22,[],0.1.1 - Test metrics cache handlers,25
+45,swift-log,6,6,195,"['logging', 'swift-server']",1.4.4,2776
+46,swift-numerics,4,10,367,"['math', 'mathematics', 'complex', 'maths', 'real', 'trig']",CMake build support for arm64/macOS,1420
+47,swift-metrics,6,1,96,"['metrics', 'swift-server']",2.3.2,524
+48,AudioUnitSDK,1,1,2,[],AudioUnitSDK-1.1.0,76
+49,swift-system,3,19,131,"['posix', 'file-descriptor', 'file-path']",System 1.2.1,1019
+50,swift-cluster-membership,2,0,133,"['swift', 'distributed-systems', 'server-side-swift', 'swift-on-server']",0.3.1,173
+51,ml-multiple-futures-prediction,2,2,5,['neurips-2019'],,97
+52,swift-docc-plugin,4,0,18,[],Swift-DocC Plugin 1.0,186
+53,swift-format,10,4,557,[],0.50600.1,1655
+54,ARKitScenes,3,1,55,[],,326
+55,swift-distributed-tracing,2,0,229,"['distributed-systems', 'tracing', 'distributed-tracing']",0.3.1,100
+56,ml-gmpi,1,0,10,"['pytorch', 'generative-adversarial-network', 'generative-model', '3d', 'multiplane-images', 'neural-rendering', 'eccv2022']",,234
+57,swift-nio-examples,2,2,61,[],,183
+58,swift-distributed-actors,7,1,"1,350","['swift', 'distributed-systems', 'actors', 'actor-model']",1.0.0-beta.2,422
+59,swift-nio-ssh,1,5,184,[],SwiftNIO SSH 0.4.1,277
+60,swift-http-structured-headers,1,2,43,"['swift', 'http', 'headers', 'structured-fields']",HTTP Structured Headers 0.3.0,126
+61,swift-distributed-tracing-baggage,6,0,60,"['distributed-systems', 'concurrency', 'baggage', 'context-propagation', 'async-context', 'baggage-context', 'trace-context']",0.3.0,24
+62,password-manager-resources,2,11,401,[],,3607
+63,sample-food-truck,1,1,5,"['swift', 'swiftui']",,1144
+64,swift-distributed-tracing-baggage-core,5,0,48,"['swift', 'distributed-tracing', 'sswg']",0.1.1,12
+65,ml-hypersim,1,0,72,[],,1263
+66,FHIRModels,1,0,10,"['swift', 'swift-package-manager', 'fhir']",Maintenance Release 0.4,129
+67,ml-ane-transformers,1,0,5,[],v0.1.3,463
+68,swift-statsd-client,2,0,31,[],1.0.0 release,49
+69,swift-service-discovery,2,0,34,[],1.2.0,174
+70,unityplugins,1,1,12,[],,384
+71,darwin-xnu,1,3,123,['kernel'],,10176
+72,swift-nio-transport-services,4,4,97,[],SwiftNIO Transport Services 1.13.1,223
+73,ml-hierarchical-confusion-matrix,4,2,36,"['machine-learning', 'data-visualization', 'confusion-matrix', 'visual-analytics']",Initial release v1.0.0,241
+74,swift-docker,3,10,429,[],,1228
+75,ml-gaudi,1,0,2,[],,412
+76,ml-dms-dataset,1,0,2,[],,10
+77,ml-mobileone,1,0,1,[],,223
+78,ml-spin,1,0,2,[],,9
+79,ml-neilf,1,0,1,[],,36
+80,ml-flair,1,0,2,[],,26
+81,ml-all-pairs,1,1,6,[],,36
+82,ml-cread,1,0,14,[],,19
+83,swift-evolution-staging,5,3,1,[],,31
+84,ml-selfcond,1,0,1,[],,15
+85,ml-sad,3,0,22,[],,20
+86,ml-vfi-smiff,1,0,1,[],,9
+87,HomeKitADK,1,2,57,[],,2403
+88,cups,10,13,"2,532","['printer', 'snmp', 'printing', 'ipp', 'ipp-protocol']","CUPS 2.3.3 is a general bug fix release, including:",1557
+89,ml-cvpr2019-swd,3,2,3,['cvpr2019'],,113
+90,ml-capsules-inverted-attention-routing,1,0,1,['iclr2020'],,116
+91,ml-cifar-10-faster,1,0,1,[],,48
+92,ml-data-parameters,1,0,2,['neurips-2019'],,68
+93,ml-knowledge-conflicts,2,0,4,[],,31
+94,ml-afv,1,0,1,['neurips-2019'],,44
+95,ml-collegial-ensembles,1,0,1,[],,9
+96,ml-mkqa,1,1,8,"['nlp', 'dataset', 'multilingual-evaluation']",,98
+97,ml-shuffling-amplification,1,0,3,[],,7
+98,ml-ncg,4,1,13,[],,10
+99,ml-tree-dst,1,0,1,[],,25
+100,ml-transcript-translation-consistency-ratings,1,0,1,[],,6
+101,ml-quant,1,1,1,[],,60
+102,ml-probabilistic-attention,1,0,12,[],,14
+103,GCGC,1,0,1,[],,408
+104,ml-cvnets,2,2,4,"['machine-learning', 'computer-vision', 'deep-learning', 'detection', 'pytorch', 'classification', 'imagenet', 'segmentation', 'pascal-voc', 'mscoco', 'ade20k']",,964
+105,swift-internals,3,0,132,[],,184
+106,ccs-pykerberos,4,9,172,[],PyKerberos-1.3.1,103
+107,ml-stuttering-events-dataset,1,0,7,[],,39
+108,ml-no-token-left-behind,1,0,9,[],,120
+109,sample-cloudkit-tooling,1,0,3,[],,7
+110,sample-cloudkit-zonesharing,1,0,1,[],,10
+111,sample-cloudkit-encryption,1,0,7,[],,56
+112,sample-cloudkit-privatedb,1,0,7,[],,110
+113,sample-cloudkit-privatedb-sync,1,0,10,[],,94
+114,sample-cloudkit-queries,1,0,7,[],,84
+115,sample-cloudkit-sharing,1,0,21,[],,213
+116,ml-fct,1,0,2,[],,26
+117,swift-package-collection-generator,5,2,51,[],,77
+118,ccs-caldavtester,14,1,"1,299",[],CalDAVTester-5.1,46
+119,ml-qrecc,1,0,13,[],,84
+120,swift-community-hosted-continuous-integration,2,2,103,[],,96
+121,ml-dab,1,0,3,[],,15
+122,swift-issues,1,0,4,[],,4
+123,swift-algorithms,11,24,149,"['algorithm', 'iterator', 'itertools']",Swift Algorithms 1.0.0,4520
+124,example-package-dealer,1,1,23,[],Swift 4,275
+125,example-package-deckofplayingcards,1,1,42,[],Swift 4,163
+126,example-package-playingcard,1,2,27,[],3.0.5,263
+127,ml-code-switched-speech-translation,1,0,1,[],,17
+128,swift-atomics,2,3,83,"['synchronization', 'concurrency']",Atomics 1.0.2,778
+129,swiftpm-on-llbuild2,2,1,60,[],,37
+130,ml-equivariant-neural-rendering,1,1,2,[],,80
+131,apple-llvm-infrastructure-tools,4,1,603,[],,37
+132,swift-collections-benchmark,2,1,13,[],0.0.2,245
+133,sample-cloudkit-coredatasync,2,0,2,[],,126
+134,swift-sample-distributed-actors-transport,2,1,30,[],,79
+135,swift-package-registry-compatibility-test-suite,1,0,23,[],,3
+136,swift-se0288-is-power,1,0,10,[],2.0.0,3
+137,swift-standard-library-preview,2,1,8,[],StandardLibraryPreview 0.0.3,245
+138,swift-se0270-range-set,1,1,5,[],Fix subscript setters,17
+139,ml-core,1,0,4,[],,21
+140,turicreate,3,18,"1,571","['python', 'machine-learning', 'deep-learning']",6.4.1,10785
+141,tensorflow_macos,1,6,9,[],,3540
+142,learning-compressible-subspaces,1,0,1,[],,9
+143,example-package-fisheryates,1,3,34,[],2.0.6,174
+144,ml-gsn,2,0,6,[],,234
+145,ml-covid-mobility,1,0,1,[],,7
+146,swift-nio-zlib-support,1,0,3,"['zlib', 'swift4', 'swiftnio']",,27
+147,openjdk,1,1,"57,971",[],,72
+148,ml-uwac,1,0,1,[],,24
+149,darwin-libpthread,1,0,27,[],,151
+150,ml-envmapnet,1,0,1,[],,35
+151,apple_rules_lint,1,0,16,[],0.1.1,99
+152,vqg-multimodal-assistant,1,0,4,[],,3
+153,ccs-pycalendar,10,0,179,[],,66
+154,learning-subspaces,1,0,3,[],,112
+155,darwin-libplatform,1,0,14,[],,119
+156,swift-nio-nghttp2-support,1,0,2,[],,15
+157,swift-nio-ssl-support,1,0,3,"['openssl', 'libressl', 'swiftnio']",,30
+158,ccs-calendarserver,103,6,"9,803",[],CalendarServer-9.0,442
+159,swift-lldb,70,10,"31,524",[],swift-4.2.2-RELEASE,664
+160,swift-llvm,46,6,"187,871",[],swift-4.2.2-RELEASE: IR: fix documentation markup,813
+161,swift-clang,43,13,"85,100",[],swift-4.2.2-RELEASE,673
+162,swift-clang-tools-extra,9,2,"4,958",[],,14
+163,swift-libcxx,8,0,"5,680",[],,17
+164,swift-compiler-rt,37,2,"13,648",[],swift-4.2.2-RELEASE: [tsan] Adjust setjmp/longjmp handling on Darwin for macOS Mojave,95
+165,llvm-project-v5-split,148,0,"4,103",[],,6
+166,llvm-project-v5,56,0,"337,972",[],,7
+167,llvm-monorepo-root,4,0,39,[],,6
+168,ccs-twistedextensions,13,0,620,[],,18
+169,swift-3-api-guidelines-review,12,0,61,[],,452
+170,ccs-pyopendirectory,5,0,56,[],PyOpenDirectory-1.1,22
+171,swift-protobuf-plugin,1,0,55,[],,759
+172,ccs-caldavclientlibrary,1,0,132,[],,38
+173,ccs-pyosxframeworks,1,0,26,[],,25
+174,ccs-pysecuretransport,1,0,20,[],,22
+175,swift-protobuf-test-conformance,1,0,11,[],,26
+176,fstools,3,0,7,[],,40

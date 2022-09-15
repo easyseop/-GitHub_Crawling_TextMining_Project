@@ -1,0 +1,116 @@
+,ProjectName,BranchNum,PullRequestNum,CommitNum,Topics,ReleaseInfo,star
+0,lexical,163,21,"2,522",[],,11284
+1,react-native,74,299,"25,283",[],0.69.5,104459
+2,infer,9,12,"11,186","['c', 'java', 'objective-c', 'cpp', 'static-code-analysis', 'static-analysis', 'code-quality']",Infer version v1.1.0,13480
+3,docusaurus,27,46,"5,274","['react', 'javascript', 'open-source', 'website', 'documentation', 'hacktoberfest']",2.0.1,37289
+4,facebook-ios-sdk,11,2,"4,191",[],Facebook SDK v14.1.0,7174
+5,SoLoader,9,1,287,[],v0.10.4,1120
+6,hhvm,197,74,"50,272","['php', 'hack', 'hhvm', 'hacklang']",HHVM-3.15.0,17394
+7,fboss,2,11,"18,309",[],,783
+8,fb303,3,0,"6,287",[],,55
+9,openr,6,1,"13,349",[],Release Candidate 20191208-10906,840
+10,watchman,13,18,"10,611",[],v2022.08.22.00,11098
+11,CacheLib,3,3,"4,124","['performance', 'cpp', 'cache', 'concurrency', 'ssd', 'cache-engine']",,720
+12,litho,6,37,"14,665",[],Version 0.41.2,7416
+13,jest,4,162,"6,346","['javascript', 'testing', 'facebook', 'snapshot', 'expectation', 'easy', 'painless-javascript-testing', 'immersive', 'painless']",v29.0.0,39951
+14,idb,3,10,"5,250",[],Aug 2022,3869
+15,folly,1,71,"11,057",[],v2022.08.22.00,23010
+16,fbthrift,1,0,"19,144",[],v2020.08.24.00,2358
+17,proxygen,4,10,"11,035",[],v2022.08.22.00,7593
+18,wangle,2,3,"5,215",[],v2022.08.22.00,2887
+19,OpenBIC,3,4,520,[],Yosemite v3.5 : Crater Lake - version 2022.34.01,18
+20,rocksdb,156,295,"11,389","['database', 'storage-engine']",RocksDB 7.5.3,23401
+21,Ax,8,9,"2,002",[],v0.2.6 Release,1870
+22,buck,8,25,"22,694","['android', 'python', 'java', 'ios', 'buck', 'build-tool']",Release v2022.05.05.01,8374
+23,sapp,4,2,369,[],,91
+24,pyre-check,15,23,"12,340","['python', 'security', 'typechecker', 'static-analysis', 'ocaml', 'control-flow-analysis', 'code-quality', 'program-analysis', 'taint-analysis', 'abstract-interpretation', 'type-check']",Pyre v0.9.11,6019
+25,mysql-5.6,22,34,"101,165",[],,2235
+26,FAI-PEP,3,29,678,[],,364
+27,relay,15,67,"8,341",[],v14.1.0,17227
+28,hermes,12,10,"3,967",[],v0.12.0,7427
+29,fbshipit,2,0,"1,381","['git', 'sync', 'commits', 'facebook', 'hack', 'mercurial', 'hacklang']",v2.1.0,364
+30,squangle,3,0,390,[],,107
+31,react,152,315,"15,140","['react', 'javascript', 'library', 'ui', 'frontend', 'declarative']","18.2.0 (June 14, 2022)",193851
+32,flow,164,105,"14,172",[],v0.185.2,21808
+33,react-native-website,15,53,"2,884","['react', 'react-native', 'docusaurus']",,1659
+34,kuduraft,26,4,"7,658",[],,22
+35,facebook-android-sdk,16,2,"2,724",[],Facebook SDK sdk-version-14.1.0,5699
+36,openbmc,2,8,"11,767",[],FB OpenBMC QEMU 0.6.3,555
+37,redex,6,9,"5,957",[],v2017.10.31,5652
+38,SPARTA,1,0,144,[],,547
+39,mcrouter,33,10,"2,529",[],Version 41,3071
+40,facebook360_dep,2,4,41,[],,221
+41,metro,17,21,"3,703","['javascript', 'bundler', 'react-native']",Release v0.72.1,4564
+42,create-react-app,14,358,"2,799","['react', 'zero-configuration', 'build-tools']",v5.0.1,96651
+43,prophet,3,11,730,"['python', 'r', 'forecasting']",1.1,14836
+44,openbmc-linux,11,1,360,[],,34
+45,flipper,644,44,"7,360",[],v0.162.0,11932
+46,PathPicker,3,1,694,[],2022 Release,4782
+47,fbt,10,6,"1,151","['javascript', 'i18n', 'framework', 'internationalization']",,3742
+48,fresco,10,11,"3,278",[],Version 2.6.0,16840
+49,draft-js,142,162,"1,188",[],v0.11.7,21981
+50,openbmc-uboot,8,0,"74,373",[],,17
+51,openbmc-qemu,35,1,"96,072",[],0.6.1,14
+52,chef-cookbooks,3,6,"1,161",[],,533
+53,facebook-sdk-for-unity,2,19,327,[],v14.1.0 release,407
+54,regenerator,29,25,"1,029",[],runtime@0.10.5,3682
+55,facebook-ruby-business-sdk,11,20,169,[],Marketing API 2.10 Release,177
+56,tac_plus,4,2,73,[],,163
+57,shimmer-android,2,3,103,[],0.5.0,5024
+58,Recipes-for-AutoPkg,3,0,157,[],,74
+59,componentkit,3,1,"2,854",[],Xcode 12.5,5633
+60,mariana-trench,9,1,356,[],,869
+61,fatal,2,3,"1,154",[],v2022.08.22.00,962
+62,time,1,1,481,[],,362
+63,zstd,54,25,"9,671",[],Zstandard v1.5.2,17945
+64,facebook-python-business-sdk,7,49,579,[],Facebook Business SDK v3.1.8 Release,1034
+65,homebrew-fb,2,0,142,[],,112
+66,TestSlide,8,4,863,[],,121
+67,remodel,6,1,397,[],,612
+68,ThreatExchange,3,5,"1,614",[],,933
+69,yoga,50,111,"2,048",[],v1.19.0,15484
+70,IT-CPE,8,12,652,[],,536
+71,jscodeshift,1,7,457,[],0.13.1,7717
+72,facebook-php-business-sdk,4,20,518,[],Release Facebook Business PHP SDK v3.0.0,698
+73,jsx,5,4,90,[],,1824
+74,duckling,1,8,753,[],Duckling v0.2.0.0,3672
+75,facebook-business-sdk-codegen,7,15,321,[],,57
+76,mysql-8.0,10,0,"132,258",[],,95
+77,screenshot-tests-for-android,2,3,545,[],0.15.0,1673
+78,flux,2,0,492,[],4.0.3,17337
+79,fbjs,9,24,631,[],,1883
+80,facebook-nodejs-business-sdk,3,24,193,[],Releasing the Facebook Ads Node JS SDK for v2.11.3 of Marketing APIs,394
+81,wdt,5,1,673,[],1.27 2016 Dec 2nd p1,2715
+82,fbghc,335,0,"53,276",[],,14
+83,facebook-java-business-sdk,7,25,212,[],Marketing API 2.10 Release,331
+84,idx,3,0,161,[],,1669
+85,instant-articles-builder,11,6,325,"['editor', 'facebook', 'instant-articles']",0.2.4,120
+86,Haxl,1,3,305,[],Prepare for 0.5.1.0 release,4108
+87,prop-types,6,13,167,[],,4191
+88,sapp-action,1,0,2,[],0.0.1,4
+89,pysa-action,1,0,4,[],0.0.1,5
+90,pyre-action,1,0,6,[],v0.0.1,3
+91,.github,2,0,9,[],,13
+92,chisel,6,6,461,[],"Renames, Ranges, and the Copy Command",8857
+93,netconsd,1,1,25,[],,29
+94,chef-utils,2,0,182,[],,282
+95,react-native-deprecated-modules,2,0,47,[],,24
+96,fishhook,5,8,41,[],,4810
+97,stetho,6,19,588,[],Release 1.6.0,12568
+98,FBRetainCycleDetector,6,5,108,[],0.1.4,4086
+99,nailgun,5,9,270,[],Nailgun 1.0.0,707
+100,TextLayoutBuilder,2,0,84,[],1.5.0,1455
+101,grocery-delivery,2,0,86,[],,149
+102,facebook-instant-articles-sdk-php,9,12,694,[],v1.10.2,227
+103,taste-tester,1,2,278,[],,137
+104,between-meals,1,2,195,[],,54
+105,fbtftp,1,0,51,[],Version 0.5,365
+106,pyre2,1,1,48,[],,602
+107,pcicrawler,2,0,12,[],,133
+108,transform360,2,2,34,[],,957
+109,fbhaddock,97,0,"3,093",[],,7
+110,react-devtools,31,0,"1,114",[],v3.4.2,11007
+111,robolectric,5,0,"5,152",[],,59
+112,mysqlclient-python,3,0,901,[],,20
+113,Specs,10,0,"37,745",[],,17
+114,FLAnimatedImage,10,0,111,[],,211
