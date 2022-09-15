@@ -49,20 +49,26 @@ def search_information(name,page_n):
         else:
             fork = 0
 
-        get_star = repo.find('a','no-wrap Link--muted mr-3') #각 repository별 star 수 추출
-
+        get_star = repo.find_all('a','no-wrap Link--muted mr-3') #각 repository별 star 수 추출
+        
         if get_star is not None:
-            star = int(get_star.text.strip().replace(',',''))
+            star = int(get_star[0].text.strip().replace(',',''))
+            branch = (get_star[2].text.strip().replace(',',''))
         else:
             star = 0
-
+        
+        
+        url = 'https://github.com/{}/{}'.format(name,title)
+        html = ur.urlopen(url)
+        soup = bs(html.read(), "html.parser")
+        commits = soup.find('span','d-none d-sm-inline').text
 
         df_dic['title'].append(title)
         df_dic['descript'].append(descript)
         df_dic['topic_keyword'].append(topic_keyword_list)
         df_dic['fork'].append(fork)
         df_dic['star'].append(star)
-
-
+        df_dic['branch'].append(branch)
+        df_dic['commits'].append(commits.split()[0])
 
     return pd.DataFrame(df_dic)
