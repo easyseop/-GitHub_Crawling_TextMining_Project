@@ -1,0 +1,14 @@
+,title,descript,topic_keyword,fork,star
+0,modelzoo,[BLANK],[],7,31
+1,torch-mlir-fork,The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.,[],150,0
+2,online-normalization,Online Normalization for Training Neural Networks (Companion Repository),[],15,67
+3,ispd2021,This the contains the test examples and validator tool for the ISPD2021 Wafer-Scale Physics Modeling contest.,"['physics-simulation', 'placement', 'placement-engine']",14,16
+4,ptwse,[BLANK],[],0,0
+5,g3log,"G3log is an asynchronous, ""crash safe"", logger that is easy to use with default logging sinks or you can add your own. G3log is made with plain C++11 with no external libraries (except gtest used for unit tests). G3log is made to be cross-platform, currently running on OSX, Windows and several Linux distros. See Readme below for details of usage.",[],257,0
+6,pytorch-xla-fork,Enabling PyTorch on Google TPU,[],281,0
+7,libtins,"High-level, multiplatform C++ network packet sniffing and crafting library.",[],357,0
+8,aws-parallelcluster-node,aws-parallelcluster-node is the python package installed on the Amazon EC2 instances launched as part of AWS ParallelCluster,[],81,1
+9,tensorflow,An Open Source Machine Learning Framework for Everyone,[],87285,0
+10,archivemount,A fuse filesystem for mounting archives in formats supported by libarchive.,[],14,0
+11,open-register-design-tool,"Tool to generate register RTL, models, and docs using SystemRDL or JSpec input",[],55,0
+12,ccc,NumPy MLP,[],15,5

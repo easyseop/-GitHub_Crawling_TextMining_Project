@@ -1,0 +1,47 @@
+,title,descript,topic_keyword,fork,star
+0,tekton-dashboard,A dashboard for Tekton!,[],220,0
+1,opencv,Open Source Computer Vision Library,[],52685,0
+2,furiosa-sdk,FuriosaAI SDK,[],5,8
+3,unicorn,"Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",[],1134,0
+4,device-api,APIs that offers NPU devices' information and allow to control the devices,[],5,1
+5,yolov5-demo,[BLANK],[],0,0
+6,smart-cctv-demo,[BLANK],[],0,0
+7,tracing,Application level tracing for Rust.,[],449,0
+8,onnxruntime,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",[],1778,0
+9,onnxrt,Mid-Level Rust Bindings to the C API for Microsoft's ONNX Runtime,"['rust', 'onnx', 'onnxruntime']",1,8
+10,onnxrt-sys,Low-Level Rust Bindings to the C API for Microsoft's ONNX Runtime,[],1,0
+11,furiosa-artifacts,Furiosa Artifacts,[],3,2
+12,proptest,Hypothesis-like property testing for Rust,[],110,0
+13,docs,Rendered Documentation of FuriosaAI SDK,[],0,0
+14,panoptic-deeplab,"This is Pytorch re-implementation of our CVPR 2020 paper ""Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation"" (https://arxiv.org/abs/1911.10194)",[],102,0
+15,detectron2,"Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",[],6116,0
+16,pyvsc,Python packages providing a library for Verification Stimulus and Coverage,[],20,0
+17,pyucis,Python API to Unified Coverage Interoperability Standard (UCIS) Data,[],7,0
+18,EDSR-PyTorch,PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017),[],639,0
+19,tracing-chrometrace,A tracing layer for chrome trace.,[],4,0
+20,inference,Reference implementations of inference benchmarks,[],387,0
+21,onnx-mlir,Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure,[],181,0
+22,protobuf-gen,[BLANK],[],4,1
+23,FasterTransformer,"Transformer related optimization, including BERT, GPT",[],253,0
+24,bit-set,A Set of Bits,[],17,0
+25,furiosa-client,Furiosa AI Webservice API Client,[],0,3
+26,opaque_typedef,Easy opaque typedef for Rust programming language.,[],2,0
+27,onnx,Open standard for machine learning interoperability,[],3060,0
+28,onnxruntime-rs,Rust wrapper for Microsoft's ONNX Runtime (version 1.5),[],65,0
+29,mlflow,Open source platform for the machine learning lifecycle,[],2987,0
+30,furiosa-ai.github.io,[BLANK],[],0,0
+31,color-eyre,Custom hooks for colorful human oriented error reports via panics and the eyre crate,[],34,0
+32,furiosa-client-python,Python Client for FuriosaAI Compiler Backend API,[],0,0
+33,furiosa-cli,"Command Line Tool for Furiosa Webservice API (compiler, perf estimator)",[],0,1
+34,eyre,A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications,[],32,0
+35,csmith,"Csmith, a random generator of C programs",[],126,0
+36,ndarray-npy,.npy and .npz file format support for ndarray,[],12,0
+37,error-chain,Error boilerplate for Rust,[],108,0
+38,tract,"Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",[],143,1
+39,ndarray-linalg,Linear algebra package for rust-ndarray using LAPACK binding,[],50,0
+40,tensorflow,An Open Source Machine Learning Framework for Everyone,[],87285,0
+41,rusty-fork,Run Rust tests in isolated subprocesses,[],16,0
+42,chisel3,Chisel 3,[],484,0
+43,netron,Visualizer for deep learning and machine learning models,[],2311,0
+44,SSD.TensorFlow,"State-of-the-art Single Shot MultiBox Detector in Pure TensorFlow, QQ Group: 758790869",[],162,0
+45,project-template,[BLANK],[],405,0

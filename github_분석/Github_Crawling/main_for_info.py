@@ -22,7 +22,8 @@ async def fetcher(name, session,url):
         # 이름,별점,블로그,방문자 리뷰
         repository_list = soup.find_all("li", "Box-row") # 제목
         # print(len(repository_list)) # 한페이지당 30개의 repository가 존재 (full일 때)
-
+        if repository_list is None or len(repository_list)==0:
+            exit() # 종료조건
 
         for k in dic_keys:
             df_dic[k] = []
@@ -91,10 +92,12 @@ async def main(name,num):
     return result
 if __name__ == "__main__":
     # ["microsoft",5038]
-    org = [["intel",908]]
+    org = [["Furiosa-ai",46],['Openedges',9],['Cerebras',13],
+            ['NervanaSystems',36],['Movidius',6],['Xilinx',315],
+            ['hailo-ai',22],['HabanaAI',17],['Graphcore',37],]
     for name,num in org:
-        print(name)
-        time.sleep(5)
+        print(f'======== {name} 수집중 ========')
+        time.sleep(2)
         df = pd.DataFrame(
                 columns=[
                     "title",

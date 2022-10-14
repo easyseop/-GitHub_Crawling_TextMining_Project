@@ -1,0 +1,316 @@
+,title,descript,topic_keyword,fork,star
+0,brevitas,Brevitas: quantization-aware training in PyTorch,"['text-to-speech', 'fpga', 'speech-recognition', 'neural-networks', 'image-classification', 'xilinx', 'quantization']",135,714
+1,xbtest,[BLANK],[],0,0
+2,finn,Dataflow compiler for QNN inference on FPGAs,"['fpga', 'neural-network', 'compiler', 'dataflow', 'quantization']",168,433
+3,Vitis-AI,"Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.",[],522,956
+4,XRT,Xilinx Run Time for FPGA,"['fpga', 'linux-kernel', 'xrt', 'vitis']",381,390
+5,mlir-aie,An MLIR-based toolchain for Xilinx Versal AIEngine-based devices.,"['mlir', 'llvm']",29,93
+6,inference-server,[BLANK],[],5,11
+7,PYNQ-Metadata,[BLANK],[],1,1
+8,RapidWright,Build Customized FPGA Implementations for Vivado,"['fpga', 'xilinx', 'vivado', 'rapidwright']",87,206
+9,kria-apps-docs,[BLANK],[],3,0
+10,PYNQ,Python Productivity for ZYNQ,['pynq'],731,1537
+11,XilinxBoardStore,[BLANK],[],222,159
+12,llvm-project,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.,[],6182,0
+13,Vitis-Tutorials,Vitis In-Depth Tutorials,"['embedded-systems', 'alveo', 'zcu102', 'xrt', 'vitis', 'alveo-u200', 'aiengine']",417,665
+14,XilinxCEDStore,This store contains Configurable Example Designs.,[],34,27
+15,qemu,Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.,"['c', 'tcg', 'qemu']",117,178
+16,vck190-base-trd,[BLANK],[],4,9
+17,PYNQ-Utils,[BLANK],[],0,0
+18,Xilinx_Base_Runtime,[BLANK],[],8,20
+19,RFSoC2x2-PYNQ,RFSoC2x2 board repo for PYNQ,[],19,17
+20,ZCU111-PYNQ,Board files to build the ZCU111 PYNQ image,['pynq'],17,15
+21,RFSoC-PYNQ,Python productivity for RFSoC platforms,[],8,12
+22,dma_ip_drivers,Xilinx QDMA IP Drivers,[],284,326
+23,meta-xilinx,Xilinx device and board support for Yocto/OE-core.,[],116,105
+24,meta-xilinx-tools,[BLANK],[],43,34
+25,ACCL,Alveo Collective Communication Library: MPI-like communication operations for Xilinx Alveo accelerators,"['hpc', 'mpi', 'fpga']",15,30
+26,linux-xlnx,The official Linux kernel from Xilinx,[],1414,1069
+27,U25N-SmartNIC-Solution,[BLANK],[],3,3
+28,rt-engine,Vitis-AI Runtime Engine for Cloud DPUs,[],1,4
+29,PYNQ-ZU,"PYNQ-ZU, XUP UltraScale+ MPSoC academic board","['pynq', 'xup', 'pynq-zu', 'fpga']",10,10
+30,embeddedsw,Xilinx Embedded Software (embeddedsw) Development,[],926,621
+31,finn-hlslib,Vitis HLS library for FINN,[],51,117
+32,kria-docker,[BLANK],[],0,1
+33,system-controller-web,BEAM Tool scweb module to support package-feeds,[],0,1
+34,u-boot-xlnx,The official Xilinx u-boot repository,[],733,481
+35,yocto-manifests,[BLANK],[],25,18
+36,yocto-scripts,[BLANK],[],3,4
+37,meta-xilinx-tsn,[BLANK],[],0,0
+38,meta-vitis,[BLANK],[],2,2
+39,meta-virtualization,[BLANK],[],3,4
+40,meta-som,[BLANK],[],1,0
+41,meta-security,[BLANK],[],1,0
+42,meta-ros,[BLANK],[],0,0
+43,meta-qt5,[BLANK],[],2,2
+44,meta-python2,[BLANK],[],0,0
+45,meta-petalinux,meta-petalinux distro layer supporting Xilinx Tools,[],39,63
+46,meta-openembedded,[BLANK],[],2,5
+47,meta-openamp,[BLANK],[],20,14
+48,meta-mingw,[BLANK],[],0,2
+49,meta-jupyter,[BLANK],[],9,5
+50,meta-clang,[BLANK],[],0,0
+51,meta-browser,[BLANK],[],0,1
+52,poky,[BLANK],[],9,6
+53,vcu_gst_lib,[BLANK],[],0,0
+54,vcu_video_lib,[BLANK],[],1,0
+55,vcu_qt,[BLANK],[],0,1
+56,vcu_gst_app,[BLANK],[],1,2
+57,vcu_apm_lib,[BLANK],[],0,0
+58,systemctlm-cosim-demo,[BLANK],[],32,58
+59,libsystemctlm-soc,SystemC/TLM-2.0 Co-simulation framework,[],43,101
+60,pcie-model,[BLANK],[],4,6
+61,cmakeModules,[BLANK],[],1,5
+62,FPGA_as_a_Service,[BLANK],[],56,128
+63,Vitis_Libraries,Vitis Libraries,[],258,583
+64,torch-mlir,The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.,[],150,0
+65,system-device-tree-xlnx,[BLANK],[],0,1
+66,PYNQ_Composable_Pipeline,PYNQ Composabe Overlays,"['xilinx', 'pynq', 'composable', 'fpga']",13,43
+67,bootgen,bootgen source code,[],35,20
+68,system-controller-app,BEAM Tool using Package Feeds,[],1,2
+69,aibox-dist,[BLANK],[],0,0
+70,fru-tool,[BLANK],[],0,1
+71,ros-tsn-pubsub,[BLANK],[],0,0
+72,pmod-rs485-test,[BLANK],[],0,0
+73,kria-apps-firmware,[BLANK],[],3,8
+74,tsn-talker-listener,[BLANK],[],0,0
+75,kria-base-firmware,[BLANK],[],0,0
+76,aie-rt,[BLANK],[],3,1
+77,xlnx-board-id-data,[BLANK],[],0,0
+78,jupyter-pat,Xilinx Versal Power Tool,[],0,0
+79,hdf-examples,[BLANK],[],7,16
+80,linux-image_update,[BLANK],[],2,2
+81,xlnx_platformstats,[BLANK],[],3,2
+82,ddr-qos,[BLANK],[],0,1
+83,axi-qos,[BLANK],[],0,2
+84,kria-dashboard,[BLANK],[],2,1
+85,xmutil,[BLANK],[],2,5
+86,nlp-smartvision,[BLANK],[],2,3
+87,smartcam,[BLANK],[],9,9
+88,aibox-reid,[BLANK],[],0,4
+89,defect-detect,[BLANK],[],1,3
+90,dfx-mgr,[BLANK],[],1,4
+91,imagebuilder,[BLANK],[],1,4
+92,linux-examples,[BLANK],[],1,2
+93,libdfx,[BLANK],[],1,3
+94,dp-modules,[BLANK],[],1,1
+95,hdmi-modules,Xilinx Soft-IP HDMI Rx/Tx core Linux drivers,[],19,29
+96,vcu-omx-il,[BLANK],[],10,4
+97,vcu-modules,Video Codec Unit (VCU) Linux out-of-tree modules for Yocto.,[],9,11
+98,vcu-ctrl-sw,[BLANK],[],18,26
+99,vcu-firmware,[BLANK],[],0,4
+100,open-amp,[BLANK],['openamp'],212,17
+101,libmetal,"an abstraction layer across user-space Linux, baremetal, and RTOS environments",['openamp'],122,21
+102,mali-userspace-binaries,[BLANK],[],9,11
+103,qemu-devicetrees,Device trees used by QEMU to describe the hardware,[],18,28
+104,device-tree-xlnx,Linux device tree generator for the Xilinx SDK (Vivado > 2014.1),[],175,157
+105,kria-vitis-platforms,Kria KV260 Vitis platforms and overlays,[],24,45
+106,xacc,Heterogeneous Accelerated Computed Cluster (HACC) Resources Page,[],15,8
+107,video-sdk,[BLANK],[],7,19
+108,XilinxTclStore,Xilinx Tcl Store,[],177,275
+109,workflow-decoupling-docs,[BLANK],[],1,0
+110,Kria-PYNQ,[BLANK],[],20,39
+111,open-nic,AMD OpenNIC Project Overview,"['networking', 'datacenter', 'smartnic', 'network-acceleration', 'fpga']",17,82
+112,finn-examples,Dataflow QNN inference accelerator examples on FPGAs,"['fpga', 'finn', 'pynq', 'alveo', 'neural-network-accelerators']",33,75
+113,xup_vitis_network_example,VNx: Vitis Network Examples,"['networking', 'xilinx', 'alveo', 'vnx', 'vitis', 'vitis-network', 'alveo-card']",31,74
+114,open-nic-shell,AMD OpenNIC Shell includes the HDL source files,"['datacenter', 'smartnic', 'network-acceleration', 'fpga', 'verilog']",31,47
+115,gst-plugins-bad,[BLANK],[],3,1
+116,gst-plugins-good,[BLANK],[],3,4
+117,gst-plugins-base,[BLANK],[],2,2
+118,gst-omx,[BLANK],[],5,5
+119,gstreamer,[BLANK],[],2,5
+120,runx,[BLANK],[],2,5
+121,platform-management-notebooks,[BLANK],[],0,1
+122,arm-trusted-firmware,ARM Trusted Firmware,[],1123,13
+123,Vitis-AI-Tutorials,[BLANK],[],111,219
+124,xen,Xen,[],13,10
+125,tsn-utils,[BLANK],[],0,3
+126,vmk180-trd,[BLANK],[],2,2
+127,ros_xlnx_platformstats,[BLANK],[],0,0
+128,Vivado-Design-Tutorials,[BLANK],[],46,59
+129,system-controller-pmtool,BEAM Tool using Package Feeds,[],0,0
+130,xen-passthrough-device-trees,[BLANK],[],0,1
+131,Xilinx_Container_Runtime,Container Runtime Leveraging Xilinx FPGA Devices,"['fpga', 'container']",0,2
+132,onnx-mlir,Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure,[],181,0
+133,KRS,"The Kria Robotics Stack (KRS) is a ROS 2 superset for industry, an integrated set of robot libraries and utilities to accelerate the development, maintenance and commercialization of industrial-grade robotic solutions while using adaptive computing.","['acceleration', 'fpga', 'robotics', 'hardware', 'ros', 'gpu-acceleration', 'krs']",13,27
+134,Vitis-HLS-Introductory-Examples,[BLANK],[],111,297
+135,pcie-debug-kmap,[BLANK],[],2,0
+136,mlir-xten,[BLANK],[],7,6
+137,systemctl-labtool,[BLANK],[],0,0
+138,wireless-xorif,[BLANK],[],3,9
+139,embeddedsw-experimental-dt-support,[BLANK],[],0,4
+140,XRM,XRM (Xilinx FPGA Resource Manager) Document:,[],4,9
+141,vck190-ethernet-trd,vck190-ethernet-trd,[],0,3
+142,xup_compute_acceleration,Hands-on experience using the Vitis unified software platform with Xilinx FPGA hardware,"['fpga', 'xilinx', 'vitis', 'xup']",10,39
+143,logicnets,[BLANK],[],15,58
+144,pyaccl,"Python bindings for ACCL, the Alveo Collective Communication Library",[],2,1
+145,open-nic-driver,AMD OpenNIC driver includes the Linux kernel driver,"['datacenter', 'smartnic', 'driver', 'linux-kernel']",20,24
+146,finn-base,Open Source Compiler Framework using ONNX as Frontend and IR,"['compiler', 'intermediate-representation', 'onnx', 'finn']",16,24
+147,chipscopy,ChipScoPy (ChipScope Python API) is an open source Python API to the various ChipScope services provided by the TCF-based (Target Communication Framework) ChipScope Server (cs_server).,[],8,28
+148,Embedded-Design-Tutorials,[BLANK],[],37,50
+149,linux-xoclv2,Linux kernel source tree,[],45046,2
+150,Vitis_Accel_Examples,Vitis_Accel_Examples,"['zynq', 'xilinx', 'soc', 'alveo', 'fpga-programming', 'acap', 'vitis']",166,336
+151,xup-vitis-ai-tutorial,Hands-on experience using Vitis AI with Xilinx FPGA hardware,[],3,2
+152,VVAS,Vitis Video Analytics SDK,[],12,21
+153,Alveo-Cards,"To view the documentation, click the following link:",[],2,2
+154,xilinx-isp-module,[BLANK],[],0,0
+155,Vitis_Model_Composer,Vitis Model Composer Examples and Tutorials,"['hls', 'acap', 'vitis', 'aiengine', 'fpga']",9,26
+156,vvas-apps,[BLANK],[],0,1
+157,PYNQ-HelloWorld,"This repository contains a ""Hello World"" introduction application to the Xilinx PYNQ framework.",[],35,78
+158,PYNQ_Bootcamp,PYNQ Bootcamp 2019-2022 teaching materials.,[],29,19
+159,AI-Model-Zoo,[BLANK],[],21,71
+160,DPU-PYNQ,DPU on PYNQ,['pynq'],46,126
+161,mv-camera-10gige-module,[BLANK],[],0,0
+162,mv-camera-sensor-module,[BLANK],[],0,0
+163,mv-defect-detect,[BLANK],[],2,3
+164,hsdp-pcie-driver,[BLANK],[],0,1
+165,DSP-PYNQ,A PYNQ overlay demonstrating Pythonic DSP running on Zynq UltraScale+,[],15,27
+166,SDFEC-PYNQ,A PYNQ overlay demonstrating the Xilinx RFSoC SD-FEC,[],9,11
+167,Alveo-Versal-Platforms,[BLANK],[],0,0
+168,finn-experimental,[BLANK],[],8,6
+169,merlin-compiler,[BLANK],[],13,39
+170,XilinxVirtualCable,[BLANK],[],61,122
+171,roast-xilinx,[BLANK],[],1,1
+172,roast,A framework that simplifies the development of complex validation test suites.,"['python', 'validation', 'test-automation']",3,3
+173,Alveo-PYNQ,Introductory examples for using PYNQ with Alveo,"['xilinx', 'aws-f1', 'pynq', 'alveo']",15,35
+174,pyxir,[BLANK],[],13,33
+175,ubuntu-firmware,[BLANK],[],1,2
+176,kria-base-hardware,[BLANK],[],0,4
+177,HPCG_FPGA,[BLANK],[],6,7
+178,SDAccel_Examples,SDAccel Examples,"['c', 'aws', 'cpp', 'opencl', 'xilinx', 'sdx', 'fpga']",204,340
+179,graphanalytics,Xilinx Alveo Graph Analytics Product repository,"['cosine-similarity', 'tigergraph', 'patient-similarity', 'alveo-acceleration-cards']",2,12
+180,versal-restart-trd,Versal Restart TRD,[],1,2
+181,ap1302-firmware,[BLANK],[],0,0
+182,xilinx-sw-converter-module,[BLANK],[],0,0
+183,Vitis_Embedded_Platform_Source,[BLANK],[],51,80
+184,app-jobslot-reservation-xrm,[BLANK],[],0,0
+185,app-xcdr,[BLANK],[],0,0
+186,filter-multiscaler-xma-plg-u30,[BLANK],[],0,0
+187,lib-xvbm-xrt,[BLANK],[],0,0
+188,filter-scaler-xrm-plg-u30,[BLANK],[],0,0
+189,codec-vcu-xma-plg,[BLANK],[],0,0
+190,codec-lookahead-xma-plg,[BLANK],[],0,0
+191,codec-encoder-xrm-plg-u30,[BLANK],[],0,0
+192,codec-decoder-xrm-plg-u30,[BLANK],[],1,0
+193,app-XRM-launcher-ffmpeg,[BLANK],[],0,0
+194,app-xma-props-to-json-xrm,[BLANK],[],1,0
+195,app-ffmpeg4-xma,[BLANK],[],0,1
+196,embeddedsw.github.io,Repo is used to store Doxygen documentation for BM drivers,[],13,8
+197,wireless-apps,"Software, BSPs etc. for 5G wireless IP and PetaLinux",[],10,12
+198,plnx-aie-examples,AI Examples for Petalinux builds,[],4,5
+199,video-sdk-gstreamer,[BLANK],[],1,3
+200,Power-Management-Tutorials,Power Management,[],0,1
+201,meta-system-controller,[BLANK],[],0,0
+202,open-nic-dpdk,DPDK Drivers for AMD OpenNIC,"['fpga', 'dpdk', 'data-center', 'smartnic', 'network-acceleration']",0,6
+203,progressface,[BLANK],[],1,0
+204,zynqmp-pspcie-epdma,[BLANK],[],0,1
+205,HPC,https://xilinx.github.io/HPC/index.html,[],0,4
+206,HLS,Vitis HLS LLVM source code and examples,[],44,323
+207,hls-llvm-project,[BLANK],[],4,7
+208,Image-Collateral,[BLANK],[],0,0
+209,hydra,[BLANK],[],2,10
+210,Xilinx-Adaptive-Computing-Challenge-2021,[BLANK],[],3,0
+211,MTNAS,[BLANK],[],3,4
+212,BNN-PYNQ,Quantized Neural Networks (QNNs) on PYNQ,[],295,593
+213,PYNQ_Workshop,[BLANK],[],129,302
+214,OpenAMP-notebooks,[BLANK],[],0,0
+215,PYNQ_Peripherals,[BLANK],[],11,15
+216,Containerization,[BLANK],[],4,1
+217,ResNet50-PYNQ,"Quantized ResNet50 Dataflow Acceleration on Alveo, with PYNQ","['python', 'xilinx', 'pynq', 'alveo', 'finn']",12,42
+218,brevitas-radioml-challenge-21,[BLANK],[],7,13
+219,meta-linaro,[BLANK],[],2,4
+220,pcie_transcode,[BLANK],[],0,0
+221,pcie_lib,[BLANK],[],0,0
+222,pcie-modules,[BLANK],[],0,0
+223,roast-examples,[BLANK],[],0,0
+224,RFNoC-HLS-WINLAB,[BLANK],[],8,15
+225,kvm_helper_scripts,[BLANK],[],0,1
+226,ultra96-startup-pages,[BLANK],[],3,8
+227,blockchainacceleration,[BLANK],[],33,36
+228,ERT-BSP,[BLANK],[],0,0
+229,kria-kv260-ai-benchmark,[BLANK],[],0,5
+230,DSRL,[BLANK],[],2,19
+231,pytest-roast,pytest plugin for ROAST fixtures,[],2,1
+232,Vitis-In-Depth-Tutorial,[BLANK],[],66,107
+233,Applications,[BLANK],['sdx'],43,68
+234,Test_P,[BLANK],[],0,0
+235,Embedded-Reference-Platforms-User-Guide,"Formerly known as the 'reVISION Getting Started Guide', the Embedded Reference Platforms User Guide covers the embedded vision reference platforms for the Vitis environment.",[],4,7
+236,xoclv2,XRT Second Generation Linux Kernel Driver (XRTV2),"['fpga', 'linux-kernel', 'drivers', 'xrt']",4,6
+237,alpr,[BLANK],[],2,2
+238,Xilinx_Kria_KV260_Workshop,[BLANK],[],4,24
+239,hyperledger-fabric,Hyperledger Fabric for Xilinx Blockchain Machine.,[],2,4
+240,PYNQ-DL,Xilinx Deep Learning IP,"['resize', 'convolution', 'convolutional-neural-networks', 'resize-images', 'darius']",24,89
+241,pcie_qdma_ats_example,[BLANK],[],3,8
+242,gradle,"Adaptable, fast automation for all",[],4004,1
+243,linuxtests,[BLANK],[],0,0
+244,codec-vcu-softkernels-device-sw,[BLANK],[],0,0
+245,app-mpsoc-xma,[BLANK],[],0,0
+246,triSYCL,Generic system-wide modern C++ for heterogeneous platforms with SYCL from Khronos Group,[],95,75
+247,qep-drivers,[BLANK],[],4,10
+248,ml-suite,Getting Started with Xilinx ML Suite,['sdx'],155,332
+249,PYNQ_RFSOC_Workshop,Open-sourcing the PYNQ & RFSoC workshop materials,[],17,41
+250,QNN-MO-PYNQ,[BLANK],[],104,210
+251,u50-abr-video-transcode,Live video transcoding on Xilinx Alveo U50,[],2,11
+252,qemu-ug-examples,[BLANK],[],1,5
+253,learning-github,Just for learning,[],1,0
+254,meta-xilinx-update,[BLANK],[],0,0
+255,Vitis-AWS-F1-Developer-Labs,[BLANK],[],30,40
+256,XilinxUnisimLibrary,[BLANK],[],15,55
+257,SDSoC_Examples,[BLANK],"['sdx', 'cpp', 'sdsoc']",37,82
+258,trainableProcessing,[BLANK],[],4,0
+259,DarwiNN,[BLANK],[],2,8
+260,Get_Moving_With_Alveo,"For publishing the source for UG1352 ""Get Moving with Alveo""",[],14,32
+261,xfopencv,[BLANK],[],141,303
+262,xma-samples,[BLANK],[],3,2
+263,LSTM-PYNQ,[BLANK],[],26,80
+264,SDAccel-Tutorials,SDAccel Development Environment Tutorials,[],68,100
+265,IIoT-SPYN,"IIoT-SPYN gives users the ability to control, monitor, capture data, visualize and analyze industrial grade motors","['python', 'fpga', 'pynq', 'pynq-hardware-overlay', 'sdsoc']",25,37
+266,IIoT-EDDP,The repository contains the design database and documentation for Electric Drives Demonstration Platform,"['demo', 'motor-controller']",31,69
+267,5point-PYNQ,5-point Relative Pose Problem for PYNQ,"['python', 'xilinx', 'pynq', 'alveo']",1,5
+268,SDSoC-Tutorials,SDSoC™ (Software-Defined System-On-Chip) Environment Tutorials,[],50,139
+269,HLS_packet_processing,[BLANK],[],19,32
+270,customer_training,[BLANK],[],0,0
+271,graffitist,Graph Transforms to Quantize and Retrain Deep Neural Nets in TensorFlow,"['quantization', 'retraining', 'deep-neural-networks', 'tensorflow']",32,163
+272,GO-PYNQ,Xilinx Contest Kshitij 2019,"['python', 'pynq', 'iitkgp', 'kshitij']",3,18
+273,gemx,Matrix Operation Library for FPGA https://xilinx.github.io/gemx/,[],21,52
+274,PYNQ-ComputerVision,Computer Vision Overlays on Pynq,['pynq'],54,152
+275,BinomialModel,Binomial model,[],7,10
+276,FFmpeg-xma,[BLANK],[],4,6
+277,RFNoC-HLS-NeuralNet,[BLANK],[],37,84
+278,inference,Reference implementations of inference benchmarks,[],387,0
+279,CHaiDNN,HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs,"['dnn', 'embedded-vision', 'deep-neural-networks', 'inference', 'xilinx', 'alexnet', 'googlenet']",150,282
+280,data-analytics,[BLANK],[],19,18
+281,linux-xlnx.github.io,This repository hosts documentation generated for Xilinx contributed Linux kernel drivers.,[],1,0
+282,HLS_arbitrary_Precision_Types,[BLANK],[],17,36
+283,PYNQ-Networking,Networking Overlay on PYNQ,['pynq'],16,37
+284,dvcstest,[BLANK],[],0,0
+285,ABR-video-transcode,[BLANK],[],4,23
+286,xilinx-tiny-cnn,[BLANK],[],47,134
+287,SME-Developer-Labs,[BLANK],[],9,12
+288,pytorch-ocr,[BLANK],[],11,34
+289,PYNQ_Hackathon,Xilinx Hackathon 2017,['pynq'],22,16
+290,AWS-F1-Developer-Labs,AWS F1 Xilinx Developer Labs,[],9,20
+291,Ultra96_Linaro_Contest,Design Contest,[],0,5
+292,SDKOpenGLES,Open Source Software development Kit for Graphics GPU for Xilinx Zu+ Platform.,[],9,5
+293,PYNQ-BOT,[BLANK],[],12,23
+294,revCtrl,Revision Control Labs and Materials,[],7,18
+295,bitbake,[BLANK],[],2,2
+296,vcu-binaries,[BLANK],[],1,1
+297,mxnet,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",[],6877,5
+298,RFNoC-HLS-ATSC-RX,[BLANK],[],9,22
+299,XBS,[BLANK],[],1,1
+300,glibc,Upstream glibc + xilinx branches,[],5,14
+301,binutils,Upstream binutils + xilinx branches,[],4,8
+302,hopper,[BLANK],[],0,2
+303,gcc,Upstream gcc + xilinx branches,[],17,18
+304,newlib,Upstream newlib + xilinx branches,[],4,8
+305,gdb,Upstream gdb + xilinx branches,[],5,8
+306,binutils-gdb,Upstream combined binutils and gdb + xilinx branches,[],6,6
+307,XilinxTclStore_2014.3,[BLANK],[],0,1
+308,uboot,DEPRECATED U-Boot BSP generator for Xilinx SDK,[],11,7
+309,crosstool-ng,Upstream crosstool-ng + xilinx branches,[],6,15
+310,Xilinx.github.io,Xilinx Document,[],0,2
+311,TestPub,Test Public Repo,[],4,1
+312,eglibc,Upstream eglibc + xilinx branches,[],10,12
+313,xilinx-kernel-cache,Yocto Linux Kernel Cache,[],3,4
+314,libxil-linux,Custom libxil for testing baremetal toolchains on linux,[],3,7

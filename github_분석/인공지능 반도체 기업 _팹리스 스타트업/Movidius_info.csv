@@ -1,0 +1,7 @@
+,title,descript,topic_keyword,fork,star
+0,test-move,[BLANK],[],0,0
+1,PCIeHostDriver,contains PCIe host driver (linux based) which is GPLv2; Contact: cyril.jourdan@intel.com,[],4,1
+2,ncappzoo,Contains examples for the Movidius Neural Compute Stick.,"['python', 'opencv', 'ai', 'cpp', 'usb-accelerator', 'intel-movidius-ncs', 'openvino']",378,940
+3,ncsdk,Software Development Kit for the Neural Compute Stick,[],155,333
+4,kconfig-frontends,GPL additions to https://www.kernel.org/doc/Documentation/kbuild/kconfig-language.txt,[],6,12
+5,volumetric_accelerator_toolkit,sample api for the VOLA format.,[],3,6

@@ -1,0 +1,47 @@
+,ProjectName,descript,Topics,fork,star
+0,brevitas,Brevitas: quantization-aware training in PyTorch,"['text-to-speech', 'fpga', 'speech-recognition', 'neural-networks', 'image-classification', 'xilinx', 'quantization']",135,714
+1,finn,Dataflow compiler for QNN inference on FPGAs,"['fpga', 'neural-network', 'compiler', 'dataflow', 'quantization']",168,433
+2,XRT,Xilinx Run Time for FPGA,"['fpga', 'linux-kernel', 'xrt', 'vitis']",381,390
+3,mlir-aie,An MLIR-based toolchain for Xilinx Versal AIEngine-based devices.,"['mlir', 'llvm']",29,93
+4,RapidWright,Build Customized FPGA Implementations for Vivado,"['fpga', 'xilinx', 'vivado', 'rapidwright']",87,206
+5,PYNQ,Python Productivity for ZYNQ,['pynq'],731,1537
+6,Vitis-Tutorials,Vitis In-Depth Tutorials,"['embedded-systems', 'alveo', 'zcu102', 'xrt', 'vitis', 'alveo-u200', 'aiengine']",417,665
+7,qemu,Xilinx's fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.,"['c', 'tcg', 'qemu']",117,178
+8,ZCU111-PYNQ,Board files to build the ZCU111 PYNQ image,['pynq'],17,15
+9,ACCL,Alveo Collective Communication Library: MPI-like communication operations for Xilinx Alveo accelerators,"['hpc', 'mpi', 'fpga']",15,30
+10,PYNQ-ZU,"PYNQ-ZU, XUP UltraScale+ MPSoC academic board","['pynq', 'xup', 'pynq-zu', 'fpga']",10,10
+11,PYNQ_Composable_Pipeline,PYNQ Composabe Overlays,"['xilinx', 'pynq', 'composable', 'fpga']",13,43
+12,open-amp,[BLANK],['openamp'],212,17
+13,libmetal,"an abstraction layer across user-space Linux, baremetal, and RTOS environments",['openamp'],122,21
+14,open-nic,AMD OpenNIC Project Overview,"['networking', 'datacenter', 'smartnic', 'network-acceleration', 'fpga']",17,82
+15,finn-examples,Dataflow QNN inference accelerator examples on FPGAs,"['fpga', 'finn', 'pynq', 'alveo', 'neural-network-accelerators']",33,75
+16,xup_vitis_network_example,VNx: Vitis Network Examples,"['networking', 'xilinx', 'alveo', 'vnx', 'vitis', 'vitis-network', 'alveo-card']",31,74
+17,open-nic-shell,AMD OpenNIC Shell includes the HDL source files,"['datacenter', 'smartnic', 'network-acceleration', 'fpga', 'verilog']",31,47
+18,Xilinx_Container_Runtime,Container Runtime Leveraging Xilinx FPGA Devices,"['fpga', 'container']",0,2
+19,KRS,"The Kria Robotics Stack (KRS) is a ROS 2 superset for industry, an integrated set of robot libraries and utilities to accelerate the development, maintenance and commercialization of industrial-grade robotic solutions while using adaptive computing.","['acceleration', 'fpga', 'robotics', 'hardware', 'ros', 'gpu-acceleration', 'krs']",13,27
+20,xup_compute_acceleration,Hands-on experience using the Vitis unified software platform with Xilinx FPGA hardware,"['fpga', 'xilinx', 'vitis', 'xup']",10,39
+21,open-nic-driver,AMD OpenNIC driver includes the Linux kernel driver,"['datacenter', 'smartnic', 'driver', 'linux-kernel']",20,24
+22,finn-base,Open Source Compiler Framework using ONNX as Frontend and IR,"['compiler', 'intermediate-representation', 'onnx', 'finn']",16,24
+23,Vitis_Accel_Examples,Vitis_Accel_Examples,"['zynq', 'xilinx', 'soc', 'alveo', 'fpga-programming', 'acap', 'vitis']",166,336
+24,Vitis_Model_Composer,Vitis Model Composer Examples and Tutorials,"['hls', 'acap', 'vitis', 'aiengine', 'fpga']",9,26
+25,DPU-PYNQ,DPU on PYNQ,['pynq'],46,126
+26,roast,A framework that simplifies the development of complex validation test suites.,"['python', 'validation', 'test-automation']",3,3
+27,Alveo-PYNQ,Introductory examples for using PYNQ with Alveo,"['xilinx', 'aws-f1', 'pynq', 'alveo']",15,35
+28,SDAccel_Examples,SDAccel Examples,"['c', 'aws', 'cpp', 'opencl', 'xilinx', 'sdx', 'fpga']",204,340
+29,graphanalytics,Xilinx Alveo Graph Analytics Product repository,"['cosine-similarity', 'tigergraph', 'patient-similarity', 'alveo-acceleration-cards']",2,12
+30,open-nic-dpdk,DPDK Drivers for AMD OpenNIC,"['fpga', 'dpdk', 'data-center', 'smartnic', 'network-acceleration']",0,6
+31,ResNet50-PYNQ,"Quantized ResNet50 Dataflow Acceleration on Alveo, with PYNQ","['python', 'xilinx', 'pynq', 'alveo', 'finn']",12,42
+32,Applications,[BLANK],['sdx'],43,68
+33,xoclv2,XRT Second Generation Linux Kernel Driver (XRTV2),"['fpga', 'linux-kernel', 'drivers', 'xrt']",4,6
+34,PYNQ-DL,Xilinx Deep Learning IP,"['resize', 'convolution', 'convolutional-neural-networks', 'resize-images', 'darius']",24,89
+35,ml-suite,Getting Started with Xilinx ML Suite,['sdx'],155,332
+36,SDSoC_Examples,[BLANK],"['sdx', 'cpp', 'sdsoc']",37,82
+37,IIoT-SPYN,"IIoT-SPYN gives users the ability to control, monitor, capture data, visualize and analyze industrial grade motors","['python', 'fpga', 'pynq', 'pynq-hardware-overlay', 'sdsoc']",25,37
+38,IIoT-EDDP,The repository contains the design database and documentation for Electric Drives Demonstration Platform,"['demo', 'motor-controller']",31,69
+39,5point-PYNQ,5-point Relative Pose Problem for PYNQ,"['python', 'xilinx', 'pynq', 'alveo']",1,5
+40,graffitist,Graph Transforms to Quantize and Retrain Deep Neural Nets in TensorFlow,"['quantization', 'retraining', 'deep-neural-networks', 'tensorflow']",32,163
+41,GO-PYNQ,Xilinx Contest Kshitij 2019,"['python', 'pynq', 'iitkgp', 'kshitij']",3,18
+42,PYNQ-ComputerVision,Computer Vision Overlays on Pynq,['pynq'],54,152
+43,CHaiDNN,HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs,"['dnn', 'embedded-vision', 'deep-neural-networks', 'inference', 'xilinx', 'alexnet', 'googlenet']",150,282
+44,PYNQ-Networking,Networking Overlay on PYNQ,['pynq'],16,37
+45,PYNQ_Hackathon,Xilinx Hackathon 2017,['pynq'],22,16
