@@ -1,0 +1,4 @@
+cuda_keyword.xlsx : 기업명 / 레포 / 토픽 / 스타수 
+
+cuda_kmeans_10clusters.xlsx : 클러스터 번호 / 클러스터 구성 레포 / 클러스터 구성 요소 개수 / 토픽 / 탑5레포
+

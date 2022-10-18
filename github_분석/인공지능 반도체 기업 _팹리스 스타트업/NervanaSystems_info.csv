@@ -1,0 +1,37 @@
+,title,descript,topic_keyword,fork,star
+0,ngraph-onnx,nGraph™ Backend for ONNX,"['onnx', 'onnx-support', 'onnx-backend', 'ngraph']",19,42
+1,ngraph-python,Original Python version of Intel® Nervana™ Graph,[],40,217
+2,aeon,[BLANK],[],10,6
+3,ngraph-mxnet,MXNet - nGraph integration,[],3,34
+4,onnxruntime,ONNX Runtime,[],1778,1
+5,neon,Intel® Nervana™ reference deep learning framework committed to best performance on all hardware,"['fast', 'performance', 'neural-network', 'python', 'deep-learning', 'neon', 'mkl']",827,3864
+6,nervanasystems.github.io,GitHub Pages redirection,[],0,0
+7,ngraph,nGraph has moved to OpenVINO,"['performance', 'deep-neural-networks', 'neural-network', 'compiler', 'mxnet', 'tensorflow', 'pytorch']",231,1353
+8,onnx,Open Neural Network Exchange,[],3060,2
+9,ngraph-bridge,TensorFlow-nGraph bridge,[],70,0
+10,ngraph-mxnet-bridge,Bridge code to integration nGraph into MXNet,[],2,2
+11,he-transformer,nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph,"['compiler', 'homomorphic-encryption', 'privacy-preserving', 'deep-learning', 'tensorflow', 'seal', 'ngraph']",39,213
+12,tensorflow,Computation using data flow graphs for scalable machine learning,[],87285,2
+13,ModelZoo,neon model zoo,[],70,174
+14,ngraph-tf,Bridge to connect nGraph with TensorFlow,[],17,53
+15,movidius-workshop,[BLANK],[],1,3
+16,ngraph-neon,neon - nGraph integration,[],5,13
+17,incubator-mxnet,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",[],6877,0
+18,TinyGarble,TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits,[],25,0
+19,tensorboard,TensorFlow's Visualization Toolkit,[],1542,1
+20,maxas,Assembler for NVIDIA Maxwell architecture,[],141,749
+21,tvm,"Open deep learning compiler stack for cpu, gpu and specialized accelerators",[],2746,0
+22,eigen,Fork of the official Eigen repository (https://bitbucket.org/eigen/eigen),[],3,1
+23,model-analysis,Model analysis tools for TensorFlow,[],256,1
+24,Paddle,PArallel Distributed Deep LEarning,[],4729,0
+25,deepspeech,DeepSpeech neon implementation,[],70,223
+26,aidc-2018-timeseries,Deep learning for time-series data,[],15,51
+27,gym-bit-flip,A very simple bitflip gym environment particularly well suited for testing Hindsight Experience Replay,[],2,3
+28,argcomplete,"Python and tab completion, better together.",[],104,1
+29,nrvplat-swagger-ui,"Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",[],8485,0
+30,neon_course,neon tutorials,[],45,92
+31,caffe2neon,Tools to convert Caffe models to neon's serialization format,[],16,38
+32,neon_segnet,neon implementation of SegNet,[],6,13
+33,simple_dqn,Demo showing neon and Nervana Cloud integration with OpenAI's RL-Gym,[],184,23
+34,diffmem,"Reference implementations of neural networks with differentiable memory mechanisms (NTM, Stack RNN, etc.)",[],28,1
+35,cuda-convnet2,Custom fork containing our own python backend for integration into neon,[],9,16

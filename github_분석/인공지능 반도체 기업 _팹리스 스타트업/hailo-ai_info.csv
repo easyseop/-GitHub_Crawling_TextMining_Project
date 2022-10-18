@@ -1,0 +1,23 @@
+,title,descript,topic_keyword,fork,star
+0,meta-hailo,Meta Hailo,[],3,4
+1,onnxruntime,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",[],1778,0
+2,hailort,HailoRT,[],4,9
+3,hailort-drivers,HailoRT Drivers,[],2,3
+4,hailo_model_zoo,The Hailo Model Zoo includes pre-trained models and a full building and evaluation environment,"['computer-vision', 'deep-learning', 'quantization', 'hailo', 'quantized-neural-networks', 'edge-ai', 'ai-accelerators']",14,35
+5,tappas,Tappas,[],8,7
+6,insightface,State-of-the-art 2D and 3D Face Analysis Project,[],3992,0
+7,CLI11,CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.,[],269,0
+8,mmpose,OpenMMLab Pose Estimation Toolbox and Benchmark.,[],634,0
+9,deep-person-reid,Torchreid: Deep learning person re-identification in PyTorch.,[],1016,0
+10,yolov5,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite,[],11389,0
+11,nanodet,NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥,[],888,0
+12,darknet,YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet ),[],20607,0
+13,mmsegmentation,OpenMMLab Semantic Segmentation Toolbox and Benchmark.,[],1692,0
+14,YOLOX,"YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",[],1770,0
+15,LPRNet_Pytorch,"Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.",[],168,0
+16,models,Models and examples built with TensorFlow,[],46039,0
+17,mmdetection,OpenMMLab Detection Toolbox and Benchmark,[],7891,0
+18,yolact,"A simple, fully convolutional model for real-time instance segmentation.",[],1231,0
+19,pytorch-YOLOv4,"PyTorch ,ONNX and TensorRT implementation of YOLOv4",[],1417,0
+20,centerpose,Push the Extreme of the pose estimation,[],43,0
+21,DotWriter,DotWriter is a C++ API for creating DOT files for use with tools such as GraphViz.,[],3,0

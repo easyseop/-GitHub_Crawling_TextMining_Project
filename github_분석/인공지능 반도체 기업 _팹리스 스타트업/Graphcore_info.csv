@@ -1,0 +1,38 @@
+,title,descript,topic_keyword,fork,star
+0,caas-poplar-appliance,caas-poplar-appliance,[],0,1
+1,examples-utils,Utils and common code for Graphcore's example applications,[],0,5
+2,examples,Example code and applications for machine learning on Graphcore IPUs,"['machine-learning', 'deep-learning', 'graphcore']",67,264
+3,pytorch_geometric-fork,Graph Neural Network Library for PyTorch,[],2865,0
+4,popvision_system_analyser,[BLANK],[],0,3
+5,popvision_graph_analyser,[BLANK],[],0,4
+6,Paddle-Inference-Demo-fork,[BLANK],[],117,0
+7,Paddle-fork,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,[],4729,2
+8,tensorflow,TensorFlow for the IPU,"['deep-neural-networks', 'ai', 'deep-learning', 'ipu', 'graphcore', 'machine-learning', 'tensorflow']",10,69
+9,demo-in-a-box,[BLANK],[],1,3
+10,tutorials,"Training material for IPU users: tutorials, feature examples, simple applications",[],33,66
+11,popart,Poplar Advanced Runtime for the IPU,"['machine-learning', 'ai', 'deep-learning', 'ipu', 'onnx', 'graphcore', 'popart']",6,64
+12,cloud_inference_server,Example Project for Running Cloud Inference and Fine Tuning,[],0,0
+13,poprithms,Graph algorithms for machine learning frameworks,"['machine-learning', 'poprithms-library']",2,23
+14,poplibs,Poplar libraries,"['deep-neural-networks', 'ai', 'deep-learning', 'poplar-sdk']",15,96
+15,ipu_tensorflow_addons,IPU TensorFlow Addons,[],0,0
+16,keras,Keras for the IPU,[],0,0
+17,poptorch,PyTorch interface for the IPU,"['machine-learning', 'deep-neural-networks', 'ai', 'deep-learning', 'pytorch', 'ipu', 'graphcore']",8,141
+18,popxl-addons,`popxl.addons`,[],0,0
+19,mmdetection-2-fork,OpenMMLab Detection Toolbox and Benchmark,[],7891,0
+20,mmcv-1-fork,OpenMMLab Computer Vision Foundation,[],1237,0
+21,PaddleNLP-fork,"Easy-to-use NLP library with Awesome pre-trained model zoo, supporting wide-range of NLP tasks from research to industrial applications.",[],1664,1
+22,pytorch_scatter-fork,PyTorch Extension Library of Optimized Scatter Operations,[],132,0
+23,optimum-graphcore-fork,Blazing fast training of 🤗 Transformers on Graphcore IPUs,[],19,0
+24,upstream-patches-awf-google-jax,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",[],1901,0
+25,paddle_docs-fork,Documentations for PaddlePaddle,[],429,1
+26,pytorch-lightning-examples,A collection of tutorials and examples showing how to use Graphcore's IPUs with PyTorch Lightning,[],1,7
+27,cppimport-fork,Import C++ files directly from Python!,[],59,0
+28,hpc-cookbook,Useful tutorials and recipes for developers doing low-level work with the Graphcore IPU,[],3,1
+29,upstream-patches-awf-tensorflow,An Open Source Machine Learning Framework for Everyone,[],87285,0
+30,community,[BLANK],[],0,0
+31,popliner,Guided partitioning for IPU Models.,[],0,0
+32,mmclassification-1-fork,OpenMMLab Image Classification Toolbox and Benchmark,[],621,0
+33,wenet_dev,Production First and Production Ready End-to-End Speech Recognition Toolkit,[],715,0
+34,transformers-fork,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",[],16492,0
+35,deepmd-kit-fork,A deep learning package for many-body potential energy representation and molecular dynamics,[],366,0
+36,graphcore-research,Implementations and illustrative code to accompany our research publications,[],1,12

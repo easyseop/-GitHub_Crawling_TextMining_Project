@@ -1,0 +1,18 @@
+,title,descript,topic_keyword,fork,star
+0,Model-References,TensorFlow and PyTorch Reference models for Gaudi(R),[],34,63
+1,pytorch-lightning,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",[],2616,1
+2,hccl_demo,[BLANK],[],2,3
+3,deepspeed,[BLANK],[],2,2
+4,Gaudi-solutions,[BLANK],[],0,1
+5,Setup_and_Install,"Setup and Installation Instructions for Habana binaries, docker image creation",[],5,10
+6,Habana_Custom_Kernel,Provides the examples to write and build Habana custom kernels using the HabanaTools,[],4,3
+7,hccl_ofi_wrapper,[BLANK],[],0,0
+8,hl-thunk,Thunk library for HabanaLabs kernel driver,[],6,5
+9,tpc_llvm,TPC-CLANG compiler that compiles a TPC C programming language which is used in HabanaLabs Deep-Learning Accelerators,[],2,12
+10,Gaudi-tutorials,The source files for the tutorials on https://developer.habana.ai/,[],5,5
+11,pyhlml,[BLANK],[],0,0
+12,Snapshot_For_Debug,Snapshot scripts for gathering information about the model and Habana training session for Habana analysis and debug,[],2,0
+13,SynapseAI_Core,SynapseAI Core is a reference implementation of the SynapseAI API running on Habana Gaudi,"['deep-learning', 'nueral-networks']",1,15
+14,synapseai-roadmap,The repository is for communicating SynapseAI's public roadmap.,[],0,8
+15,linux,Linux kernel source tree,[],45046,3
+16,papers,Academic papers by Habana research team,[],1,2
